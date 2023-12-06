@@ -1,0 +1,14 @@
+2023-11-28 20:56:29 : Started OrthoFinder version 2.5.4
+Command Line: /Users/angela/miniconda3/bin/OrthoFinder -f Orthofinder_test/
+
+WorkingDirectory_Base: /Users/angela/Documents/HGT_829A/Orthofinder_test/OrthoFinder/Results_Nov28/WorkingDirectory/
+
+Species used: 
+0: GCA_000008865.2.faa
+1: MG1655.faa
+2: Wolbachia.faa
+3: fragilis.faa
+
+FN_Orthogroups: /Users/angela/Documents/HGT_829A/Orthofinder_test/OrthoFinder/Results_Nov28/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /Users/angela/Documents/HGT_829A/Orthofinder_test/OrthoFinder/Results_Nov28/WorkingDirectory/
+2023-11-28 20:57:47 : OrthoFinder run completed

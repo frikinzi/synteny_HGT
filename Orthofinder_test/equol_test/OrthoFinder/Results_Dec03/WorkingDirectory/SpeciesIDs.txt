@@ -1,0 +1,4 @@
+0: Enteroscipio.faa
+1: Lactococcus.faa
+2: equolifaciens.faa
+3: isoflavoniconvertens.faa

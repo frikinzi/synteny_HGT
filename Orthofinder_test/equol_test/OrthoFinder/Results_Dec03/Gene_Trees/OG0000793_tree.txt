@@ -1,0 +1,1 @@
+(equolifaciens_RNL42031.1:0.531163,(equolifaciens_RNL39084.1:0.925563,(equolifaciens_RNL42036.1:1.05138,equolifaciens_RNL38771.1:1.07318):0.0262198):0.531163);

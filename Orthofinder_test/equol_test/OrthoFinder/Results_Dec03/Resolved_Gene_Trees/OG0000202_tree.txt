@@ -1,0 +1,1 @@
+(equolifaciens_RNL38245.1:0.570909,(Enteroscipio_BAK44127.1:0.663495,((Enteroscipio_BAK43921.1:0.982515,Enteroscipio_BAK44799.1:1.05011)n3:0.444705,Enteroscipio_BAK44099.1:0.56649)n2:0.0924961)n1:0.570909)n0;

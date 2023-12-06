@@ -1,0 +1,62 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{biblatex}
+\usepackage[margin=1.5cm]{geometry}
+
+\title{CMSC829A Final Report}
+\author{Angela Jiang }
+\date{\today}
+
+%-----------
+% custom commands/macros
+% settings
+% font, document type, etc.
+%-----------
+
+\begin{document}
+
+%-----------
+% everything below is the body
+%-----------
+
+\maketitle
+
+\section{Introduction and Background}
+
+In horizontal gene transfer (HGT), genes are not inherited from parent to offspring but through other mechanisms. Horizontal gene transfer plays a critical role in both prokaryotic and eukaryotic evolution. For example, horizontal gene transfer is implicated in the evolution of photosynthesis and the spread of antibiotic resistance genes. It is also implicated in the spread of pathways in the human gut microbiome critical to human health, such as the equol production pathway. Hence, it is important to identify horizontally transferred genes. 
+
+Despite the importance of identifying horizontally transferred genes, there are few current methods available to do so. The most popular method is to use phylogenetic methods. However, such methods have difficulty identifying horizontally transferred genes between closely related individuals.
+
+One recent method relies on the synteny of genes. Synteny is the idea that gene positions are mostly conserved [CITE]. Synteny can be lost in multiple biological processes, such as translocation, gene loss, and \textit{de novo} gene gain [CITE]. In a horizontal gene transfer event, the horizontally transferred gene in its new genome may exhibit low synteny compared to its ancestral genome.
+
+Synteny index is a measure of how similar genomes are. Given two genomes $G1,G2 $. a gene $g$\inG1,G2 and a neighborhood of size $k$, we can define synteny index as follows:
+
+
+
+
+\section{Methods}
+\subsection{Implementation}
+Sevillya et al. (2020) did not make their code publicly available. Therefore, in order to conduct a simulation study, their method was replicated to the best of the author's ability.
+
+Given two genomes, $G1$ and $G2$, we wish to obtain a list of HGT-suspected genes. That is, genes with an exceptionally low synteny index (SI). SI is defined as the number of shared genes in a neighborhood of $k$ genes. Genes don't have identical nucleotide sequences across different genomes, but they can evolve from a common ancestor. Orthology detection methods, such as OrthoFinder, can find gene families through clustering. 
+
+We cannot rule out that these HGT-suspected genes evolved through gene loss or neighborhood rearrangement. Neighborhood rearrangement is defined as neighborhoods swapping positions. Hence, Sevillya et al. adopted a probabilistic approach to determine whether an HGT-suspected gene represents a true horizontal gene transfer event, or whether it evolved by chance.
+
+To lessen computing power, a random set of 10 witness genes was chosen from the available set of all witness genes ($w$\in S1,S2,R1,R2)
+
+\subsection{Simulations}
+Simulations were run with the following procedure, similar to Sevillya et al. (2020): a genome $G1$ was created with $|G1| = 1000$, and each gene was 1000 base pairs in length. At each position in each gene, a nucleotide was chosen at random, with each base pair A, T, C, and G having equal probability. Each gene had an associated mutation rate, which was chosen randomly via a normal distribution with a given mean and standard deviation. Then, genome 2 $G2$ was created as an identical copy to $G1$, along with genomes 3 and 4, $G3$ and $G4$, which served as witness genomes. 
+
+\section{Results}
+Note that method failed when genes have a hamming distance of 0 due to DivisionByZero error, which is unlikely, but possible in a biological context of a very conserved or very closely related species.
+
+\section{Discussion}
+ayayayay
+
+\section{Conclusion}
+We blabalba
+
+\end{document}

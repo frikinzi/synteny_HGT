@@ -1,0 +1,1 @@
+(Enteroscipio_BAK45524.1:0.790281,((Lactococcus_QPR49165.1:0.372412,Lactococcus_QPR49463.1:0.358405):0.42864,Lactococcus_QPR49683.1:0.816358):0.790281);

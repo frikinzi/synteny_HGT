@@ -1,0 +1,1 @@
+(((isoflavoniconvertens_WP_281668845.1:0.400741,equolifaciens_RNL42083.1:0.504861)n2:0.155467,Enteroscipio_BAK43863.1:0.439077)n1:0.0249536,(Enteroscipio_BAK44575.1:0.52261,equolifaciens_RNL40511.1:0.687877)n3:0.0249536)n0;

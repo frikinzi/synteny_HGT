@@ -1,0 +1,1 @@
+(Enteroscipio_BAK43309.1:1.20865,(Lactococcus_QPR49684.1:-0,(Lactococcus_QPR49835.1:0,(Lactococcus_QPR48076.1:0,(Lactococcus_QPR48286.1:0,(Lactococcus_QPR49373.1:0,(Lactococcus_QPR49811.1:0,(Lactococcus_QPR48473.1:0,(Lactococcus_QPR49088.1:0,(Lactococcus_QPR48771.1:0,(Lactococcus_QPR49284.1:0,Lactococcus_QPR48136.1:0):0):0):0):0):0):0):0):0):0):1.20865);

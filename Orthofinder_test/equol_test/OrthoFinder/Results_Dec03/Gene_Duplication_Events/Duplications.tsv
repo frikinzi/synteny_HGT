@@ -1,0 +1,1131 @@
+Orthogroup	Species Tree Node	Gene Tree Node	Support	Type	Genes 1	Genes 2
+OG0000000	N0	n0	1.0	Non-Terminal	isoflavoniconvertens_WP_281668765.1, equolifaciens_RNL37832.1, Enteroscipio_BAK44025.1, Enteroscipio_BAK44242.1, equolifaciens_RNL38853.1, equolifaciens_RNL40236.1, Lactococcus_QPR48803.1	Lactococcus_QPR48807.1, Lactococcus_QPR48534.1, equolifaciens_RNL39563.1, isoflavoniconvertens_WP_281667947.1, equolifaciens_RNL39826.1, Lactococcus_QPR49069.1, equolifaciens_RNL40615.1, equolifaciens_RNL40623.1, Enteroscipio_BAK43856.1, equolifaciens_RNL37682.1, Lactococcus_QPR48426.1, Lactococcus_QPR49455.1, Lactococcus_QPR49727.1, Enteroscipio_BAK43630.1, equolifaciens_RNL40828.1, equolifaciens_RNL40667.1, Lactococcus_QPR49403.1, Lactococcus_QPR48870.1, isoflavoniconvertens_WP_281668899.1, Enteroscipio_BAK45944.1, Enteroscipio_BAK45327.1, Lactococcus_QPR49891.1, Enteroscipio_BAK43440.1, Lactococcus_QPR48215.1, isoflavoniconvertens_WP_281669027.1, equolifaciens_RNL37550.1, equolifaciens_RNL37464.1
+OG0000000	N1	n2	0.6666666666666666	Non-Terminal	isoflavoniconvertens_WP_281668765.1, equolifaciens_RNL37832.1, Enteroscipio_BAK44025.1	Enteroscipio_BAK44242.1, equolifaciens_RNL38853.1, equolifaciens_RNL40236.1
+OG0000000	equolifaciens	n6	1.0	Terminal	equolifaciens_RNL38853.1	equolifaciens_RNL40236.1
+OG0000000	N0	n7	0.25	Non-Terminal	Lactococcus_QPR48807.1	Lactococcus_QPR48534.1, equolifaciens_RNL39563.1, isoflavoniconvertens_WP_281667947.1, equolifaciens_RNL39826.1, Lactococcus_QPR49069.1, equolifaciens_RNL40615.1, equolifaciens_RNL40623.1, Enteroscipio_BAK43856.1, equolifaciens_RNL37682.1, Lactococcus_QPR48426.1, Lactococcus_QPR49455.1, Lactococcus_QPR49727.1, Enteroscipio_BAK43630.1, equolifaciens_RNL40828.1, equolifaciens_RNL40667.1, Lactococcus_QPR49403.1, Lactococcus_QPR48870.1, isoflavoniconvertens_WP_281668899.1, Enteroscipio_BAK45944.1, Enteroscipio_BAK45327.1, Lactococcus_QPR49891.1, Enteroscipio_BAK43440.1, Lactococcus_QPR48215.1, isoflavoniconvertens_WP_281669027.1, equolifaciens_RNL37550.1, equolifaciens_RNL37464.1
+OG0000000	N0	n8	0.5	Non-Terminal	Lactococcus_QPR48534.1, equolifaciens_RNL39563.1	isoflavoniconvertens_WP_281667947.1, equolifaciens_RNL39826.1, Lactococcus_QPR49069.1, equolifaciens_RNL40615.1, equolifaciens_RNL40623.1, Enteroscipio_BAK43856.1, equolifaciens_RNL37682.1, Lactococcus_QPR48426.1, Lactococcus_QPR49455.1, Lactococcus_QPR49727.1, Enteroscipio_BAK43630.1, equolifaciens_RNL40828.1, equolifaciens_RNL40667.1, Lactococcus_QPR49403.1, Lactococcus_QPR48870.1, isoflavoniconvertens_WP_281668899.1, Enteroscipio_BAK45944.1, Enteroscipio_BAK45327.1, Lactococcus_QPR49891.1, Enteroscipio_BAK43440.1, Lactococcus_QPR48215.1, isoflavoniconvertens_WP_281669027.1, equolifaciens_RNL37550.1, equolifaciens_RNL37464.1
+OG0000000	N0	n10	0.75	Non-Terminal	isoflavoniconvertens_WP_281667947.1, equolifaciens_RNL39826.1, Lactococcus_QPR49069.1	equolifaciens_RNL40615.1, equolifaciens_RNL40623.1, Enteroscipio_BAK43856.1, equolifaciens_RNL37682.1, Lactococcus_QPR48426.1, Lactococcus_QPR49455.1, Lactococcus_QPR49727.1, Enteroscipio_BAK43630.1, equolifaciens_RNL40828.1, equolifaciens_RNL40667.1, Lactococcus_QPR49403.1, Lactococcus_QPR48870.1, isoflavoniconvertens_WP_281668899.1, Enteroscipio_BAK45944.1, Enteroscipio_BAK45327.1, Lactococcus_QPR49891.1, Enteroscipio_BAK43440.1, Lactococcus_QPR48215.1, isoflavoniconvertens_WP_281669027.1, equolifaciens_RNL37550.1, equolifaciens_RNL37464.1
+OG0000000	N0	n13	0.25	Non-Terminal	equolifaciens_RNL40615.1, equolifaciens_RNL40623.1	Enteroscipio_BAK43856.1, equolifaciens_RNL37682.1, Lactococcus_QPR48426.1, Lactococcus_QPR49455.1, Lactococcus_QPR49727.1, Enteroscipio_BAK43630.1, equolifaciens_RNL40828.1, equolifaciens_RNL40667.1, Lactococcus_QPR49403.1, Lactococcus_QPR48870.1, isoflavoniconvertens_WP_281668899.1, Enteroscipio_BAK45944.1, Enteroscipio_BAK45327.1, Lactococcus_QPR49891.1, Enteroscipio_BAK43440.1, Lactococcus_QPR48215.1, isoflavoniconvertens_WP_281669027.1, equolifaciens_RNL37550.1, equolifaciens_RNL37464.1
+OG0000000	equolifaciens	n14	1.0	Terminal	equolifaciens_RNL40615.1	equolifaciens_RNL40623.1
+OG0000000	N0	n15	0.75	Non-Terminal	Enteroscipio_BAK43856.1, equolifaciens_RNL37682.1, Lactococcus_QPR48426.1, Lactococcus_QPR49455.1	Lactococcus_QPR49727.1, Enteroscipio_BAK43630.1, equolifaciens_RNL40828.1, equolifaciens_RNL40667.1, Lactococcus_QPR49403.1, Lactococcus_QPR48870.1, isoflavoniconvertens_WP_281668899.1, Enteroscipio_BAK45944.1, Enteroscipio_BAK45327.1, Lactococcus_QPR49891.1, Enteroscipio_BAK43440.1, Lactococcus_QPR48215.1, isoflavoniconvertens_WP_281669027.1, equolifaciens_RNL37550.1, equolifaciens_RNL37464.1
+OG0000000	Lactococcus	n18	1.0	Terminal	Lactococcus_QPR48426.1	Lactococcus_QPR49455.1
+OG0000000	N0	n19	0.25	Non-Terminal	Lactococcus_QPR49727.1	Enteroscipio_BAK43630.1, equolifaciens_RNL40828.1, equolifaciens_RNL40667.1, Lactococcus_QPR49403.1, Lactococcus_QPR48870.1, isoflavoniconvertens_WP_281668899.1, Enteroscipio_BAK45944.1, Enteroscipio_BAK45327.1, Lactococcus_QPR49891.1, Enteroscipio_BAK43440.1, Lactococcus_QPR48215.1, isoflavoniconvertens_WP_281669027.1, equolifaciens_RNL37550.1, equolifaciens_RNL37464.1
+OG0000000	N0	n20	0.5	Non-Terminal	Enteroscipio_BAK43630.1, equolifaciens_RNL40828.1, equolifaciens_RNL40667.1	Lactococcus_QPR49403.1, Lactococcus_QPR48870.1, isoflavoniconvertens_WP_281668899.1, Enteroscipio_BAK45944.1, Enteroscipio_BAK45327.1, Lactococcus_QPR49891.1, Enteroscipio_BAK43440.1, Lactococcus_QPR48215.1, isoflavoniconvertens_WP_281669027.1, equolifaciens_RNL37550.1, equolifaciens_RNL37464.1
+OG0000000	equolifaciens	n22	1.0	Terminal	equolifaciens_RNL40828.1	equolifaciens_RNL40667.1
+OG0000000	N0	n23	0.75	Non-Terminal	Lactococcus_QPR49403.1, Lactococcus_QPR48870.1, isoflavoniconvertens_WP_281668899.1, Enteroscipio_BAK45944.1, Enteroscipio_BAK45327.1	Lactococcus_QPR49891.1, Enteroscipio_BAK43440.1, Lactococcus_QPR48215.1, isoflavoniconvertens_WP_281669027.1, equolifaciens_RNL37550.1, equolifaciens_RNL37464.1
+OG0000000	Lactococcus	n25	1.0	Terminal	Lactococcus_QPR49403.1	Lactococcus_QPR48870.1
+OG0000000	Enteroscipio	n27	1.0	Terminal	Enteroscipio_BAK45944.1	Enteroscipio_BAK45327.1
+OG0000000	N0	n28	0.25	Non-Terminal	Lactococcus_QPR49891.1	Enteroscipio_BAK43440.1, Lactococcus_QPR48215.1, isoflavoniconvertens_WP_281669027.1, equolifaciens_RNL37550.1, equolifaciens_RNL37464.1
+OG0000000	equolifaciens	n32	1.0	Terminal	equolifaciens_RNL37550.1	equolifaciens_RNL37464.1
+OG0000001	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK44043.1	Enteroscipio_BAK45224.1, Enteroscipio_BAK45819.1, Enteroscipio_BAK44017.1, Enteroscipio_BAK43620.1, Enteroscipio_BAK45526.1, Enteroscipio_BAK43561.1, Enteroscipio_BAK43939.1, Enteroscipio_BAK45288.1, Enteroscipio_BAK45475.1, Enteroscipio_BAK43787.1, Enteroscipio_BAK43785.1, Enteroscipio_BAK45353.1, Enteroscipio_BAK43533.1, Enteroscipio_BAK45706.1, Enteroscipio_BAK44850.1, Enteroscipio_BAK43401.1, Enteroscipio_BAK43632.1, Enteroscipio_BAK44997.1, Enteroscipio_BAK45493.1, Enteroscipio_BAK44262.1, Enteroscipio_BAK45377.1, Enteroscipio_BAK45287.1, Enteroscipio_BAK43501.1, Enteroscipio_BAK45324.1, Enteroscipio_BAK45538.1, Enteroscipio_BAK43792.1, Enteroscipio_BAK45747.1, Enteroscipio_BAK45413.1, Enteroscipio_BAK43940.1, Enteroscipio_BAK44013.1, Enteroscipio_BAK44851.1
+OG0000001	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45224.1, Enteroscipio_BAK45819.1	Enteroscipio_BAK44017.1, Enteroscipio_BAK43620.1, Enteroscipio_BAK45526.1, Enteroscipio_BAK43561.1, Enteroscipio_BAK43939.1, Enteroscipio_BAK45288.1, Enteroscipio_BAK45475.1, Enteroscipio_BAK43787.1, Enteroscipio_BAK43785.1, Enteroscipio_BAK45353.1, Enteroscipio_BAK43533.1, Enteroscipio_BAK45706.1, Enteroscipio_BAK44850.1, Enteroscipio_BAK43401.1, Enteroscipio_BAK43632.1, Enteroscipio_BAK44997.1, Enteroscipio_BAK45493.1, Enteroscipio_BAK44262.1, Enteroscipio_BAK45377.1, Enteroscipio_BAK45287.1, Enteroscipio_BAK43501.1, Enteroscipio_BAK45324.1, Enteroscipio_BAK45538.1, Enteroscipio_BAK43792.1, Enteroscipio_BAK45747.1, Enteroscipio_BAK45413.1, Enteroscipio_BAK43940.1, Enteroscipio_BAK44013.1, Enteroscipio_BAK44851.1
+OG0000001	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45224.1	Enteroscipio_BAK45819.1
+OG0000001	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44017.1, Enteroscipio_BAK43620.1, Enteroscipio_BAK45526.1, Enteroscipio_BAK43561.1, Enteroscipio_BAK43939.1, Enteroscipio_BAK45288.1, Enteroscipio_BAK45475.1, Enteroscipio_BAK43787.1, Enteroscipio_BAK43785.1, Enteroscipio_BAK45353.1, Enteroscipio_BAK43533.1, Enteroscipio_BAK45706.1, Enteroscipio_BAK44850.1, Enteroscipio_BAK43401.1, Enteroscipio_BAK43632.1, Enteroscipio_BAK44997.1, Enteroscipio_BAK45493.1, Enteroscipio_BAK44262.1, Enteroscipio_BAK45377.1, Enteroscipio_BAK45287.1, Enteroscipio_BAK43501.1	Enteroscipio_BAK45324.1, Enteroscipio_BAK45538.1, Enteroscipio_BAK43792.1, Enteroscipio_BAK45747.1, Enteroscipio_BAK45413.1, Enteroscipio_BAK43940.1, Enteroscipio_BAK44013.1, Enteroscipio_BAK44851.1
+OG0000001	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44017.1, Enteroscipio_BAK43620.1, Enteroscipio_BAK45526.1, Enteroscipio_BAK43561.1	Enteroscipio_BAK43939.1, Enteroscipio_BAK45288.1, Enteroscipio_BAK45475.1, Enteroscipio_BAK43787.1, Enteroscipio_BAK43785.1, Enteroscipio_BAK45353.1, Enteroscipio_BAK43533.1, Enteroscipio_BAK45706.1, Enteroscipio_BAK44850.1, Enteroscipio_BAK43401.1, Enteroscipio_BAK43632.1, Enteroscipio_BAK44997.1, Enteroscipio_BAK45493.1, Enteroscipio_BAK44262.1, Enteroscipio_BAK45377.1, Enteroscipio_BAK45287.1, Enteroscipio_BAK43501.1
+OG0000001	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK44017.1, Enteroscipio_BAK43620.1, Enteroscipio_BAK45526.1	Enteroscipio_BAK43561.1
+OG0000001	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK44017.1, Enteroscipio_BAK43620.1	Enteroscipio_BAK45526.1
+OG0000001	Enteroscipio	n7	1.0	Terminal	Enteroscipio_BAK44017.1	Enteroscipio_BAK43620.1
+OG0000001	Enteroscipio	n8	1.0	Terminal	Enteroscipio_BAK43939.1, Enteroscipio_BAK45288.1, Enteroscipio_BAK45475.1, Enteroscipio_BAK43787.1, Enteroscipio_BAK43785.1, Enteroscipio_BAK45353.1, Enteroscipio_BAK43533.1, Enteroscipio_BAK45706.1, Enteroscipio_BAK44850.1, Enteroscipio_BAK43401.1, Enteroscipio_BAK43632.1, Enteroscipio_BAK44997.1, Enteroscipio_BAK45493.1, Enteroscipio_BAK44262.1	Enteroscipio_BAK45377.1, Enteroscipio_BAK45287.1, Enteroscipio_BAK43501.1
+OG0000001	Enteroscipio	n9	1.0	Terminal	Enteroscipio_BAK43939.1, Enteroscipio_BAK45288.1, Enteroscipio_BAK45475.1, Enteroscipio_BAK43787.1, Enteroscipio_BAK43785.1, Enteroscipio_BAK45353.1, Enteroscipio_BAK43533.1, Enteroscipio_BAK45706.1, Enteroscipio_BAK44850.1, Enteroscipio_BAK43401.1, Enteroscipio_BAK43632.1	Enteroscipio_BAK44997.1, Enteroscipio_BAK45493.1, Enteroscipio_BAK44262.1
+OG0000001	Enteroscipio	n10	1.0	Terminal	Enteroscipio_BAK43939.1, Enteroscipio_BAK45288.1	Enteroscipio_BAK45475.1, Enteroscipio_BAK43787.1, Enteroscipio_BAK43785.1, Enteroscipio_BAK45353.1, Enteroscipio_BAK43533.1, Enteroscipio_BAK45706.1, Enteroscipio_BAK44850.1, Enteroscipio_BAK43401.1, Enteroscipio_BAK43632.1
+OG0000001	Enteroscipio	n11	1.0	Terminal	Enteroscipio_BAK43939.1	Enteroscipio_BAK45288.1
+OG0000001	Enteroscipio	n12	1.0	Terminal	Enteroscipio_BAK45475.1, Enteroscipio_BAK43787.1, Enteroscipio_BAK43785.1, Enteroscipio_BAK45353.1	Enteroscipio_BAK43533.1, Enteroscipio_BAK45706.1, Enteroscipio_BAK44850.1, Enteroscipio_BAK43401.1, Enteroscipio_BAK43632.1
+OG0000001	Enteroscipio	n13	1.0	Terminal	Enteroscipio_BAK45475.1, Enteroscipio_BAK43787.1	Enteroscipio_BAK43785.1, Enteroscipio_BAK45353.1
+OG0000001	Enteroscipio	n14	1.0	Terminal	Enteroscipio_BAK45475.1	Enteroscipio_BAK43787.1
+OG0000001	Enteroscipio	n15	1.0	Terminal	Enteroscipio_BAK43785.1	Enteroscipio_BAK45353.1
+OG0000001	Enteroscipio	n16	1.0	Terminal	Enteroscipio_BAK43533.1, Enteroscipio_BAK45706.1, Enteroscipio_BAK44850.1	Enteroscipio_BAK43401.1, Enteroscipio_BAK43632.1
+OG0000001	Enteroscipio	n17	1.0	Terminal	Enteroscipio_BAK43533.1	Enteroscipio_BAK45706.1, Enteroscipio_BAK44850.1
+OG0000001	Enteroscipio	n18	1.0	Terminal	Enteroscipio_BAK45706.1	Enteroscipio_BAK44850.1
+OG0000001	Enteroscipio	n19	1.0	Terminal	Enteroscipio_BAK43401.1	Enteroscipio_BAK43632.1
+OG0000001	Enteroscipio	n20	1.0	Terminal	Enteroscipio_BAK44997.1, Enteroscipio_BAK45493.1	Enteroscipio_BAK44262.1
+OG0000001	Enteroscipio	n21	1.0	Terminal	Enteroscipio_BAK44997.1	Enteroscipio_BAK45493.1
+OG0000001	Enteroscipio	n22	1.0	Terminal	Enteroscipio_BAK45377.1	Enteroscipio_BAK45287.1, Enteroscipio_BAK43501.1
+OG0000001	Enteroscipio	n23	1.0	Terminal	Enteroscipio_BAK45287.1	Enteroscipio_BAK43501.1
+OG0000001	Enteroscipio	n24	1.0	Terminal	Enteroscipio_BAK45324.1, Enteroscipio_BAK45538.1, Enteroscipio_BAK43792.1, Enteroscipio_BAK45747.1, Enteroscipio_BAK45413.1	Enteroscipio_BAK43940.1, Enteroscipio_BAK44013.1, Enteroscipio_BAK44851.1
+OG0000001	Enteroscipio	n25	1.0	Terminal	Enteroscipio_BAK45324.1, Enteroscipio_BAK45538.1	Enteroscipio_BAK43792.1, Enteroscipio_BAK45747.1, Enteroscipio_BAK45413.1
+OG0000001	Enteroscipio	n26	1.0	Terminal	Enteroscipio_BAK45324.1	Enteroscipio_BAK45538.1
+OG0000001	Enteroscipio	n27	1.0	Terminal	Enteroscipio_BAK43792.1, Enteroscipio_BAK45747.1	Enteroscipio_BAK45413.1
+OG0000001	Enteroscipio	n28	1.0	Terminal	Enteroscipio_BAK43792.1	Enteroscipio_BAK45747.1
+OG0000001	Enteroscipio	n29	1.0	Terminal	Enteroscipio_BAK43940.1	Enteroscipio_BAK44013.1, Enteroscipio_BAK44851.1
+OG0000001	Enteroscipio	n30	1.0	Terminal	Enteroscipio_BAK44013.1	Enteroscipio_BAK44851.1
+OG0000002	N1	n1	0.6666666666666666	Non-Terminal	Enteroscipio_BAK45379.1, isoflavoniconvertens_WP_281668307.1, isoflavoniconvertens_WP_281668305.1, isoflavoniconvertens_WP_281668185.1, isoflavoniconvertens_WP_281668088.1, Enteroscipio_BAK45378.1, isoflavoniconvertens_WP_281668794.1, isoflavoniconvertens_WP_281667800.1, isoflavoniconvertens_WP_281668256.1, equolifaciens_RNL40526.1, Enteroscipio_BAK45240.1, Enteroscipio_BAK43791.1, Enteroscipio_BAK43532.1, isoflavoniconvertens_WP_281668862.1, isoflavoniconvertens_WP_281667812.1, Enteroscipio_BAK43991.1, isoflavoniconvertens_WP_281668191.1, Enteroscipio_BAK45467.1, equolifaciens_RNL40328.1, isoflavoniconvertens_WP_281668507.1, isoflavoniconvertens_WP_281667820.1, isoflavoniconvertens_WP_281668540.1, isoflavoniconvertens_WP_281668510.1, isoflavoniconvertens_WP_281668235.1, Enteroscipio_BAK43622.1, isoflavoniconvertens_WP_281668295.1, isoflavoniconvertens_WP_281668766.1, isoflavoniconvertens_WP_281668623.1	equolifaciens_RNL40818.1, isoflavoniconvertens_WP_281669129.1
+OG0000002	N1	n2	0.3333333333333333	Non-Terminal	Enteroscipio_BAK45379.1	isoflavoniconvertens_WP_281668307.1, isoflavoniconvertens_WP_281668305.1, isoflavoniconvertens_WP_281668185.1, isoflavoniconvertens_WP_281668088.1, Enteroscipio_BAK45378.1, isoflavoniconvertens_WP_281668794.1, isoflavoniconvertens_WP_281667800.1, isoflavoniconvertens_WP_281668256.1, equolifaciens_RNL40526.1, Enteroscipio_BAK45240.1, Enteroscipio_BAK43791.1, Enteroscipio_BAK43532.1, isoflavoniconvertens_WP_281668862.1, isoflavoniconvertens_WP_281667812.1, Enteroscipio_BAK43991.1, isoflavoniconvertens_WP_281668191.1, Enteroscipio_BAK45467.1, equolifaciens_RNL40328.1, isoflavoniconvertens_WP_281668507.1, isoflavoniconvertens_WP_281667820.1, isoflavoniconvertens_WP_281668540.1, isoflavoniconvertens_WP_281668510.1, isoflavoniconvertens_WP_281668235.1, Enteroscipio_BAK43622.1, isoflavoniconvertens_WP_281668295.1, isoflavoniconvertens_WP_281668766.1, isoflavoniconvertens_WP_281668623.1
+OG0000002	N1	n3	0.3333333333333333	Non-Terminal	isoflavoniconvertens_WP_281668307.1	isoflavoniconvertens_WP_281668305.1, isoflavoniconvertens_WP_281668185.1, isoflavoniconvertens_WP_281668088.1, Enteroscipio_BAK45378.1, isoflavoniconvertens_WP_281668794.1, isoflavoniconvertens_WP_281667800.1, isoflavoniconvertens_WP_281668256.1, equolifaciens_RNL40526.1, Enteroscipio_BAK45240.1, Enteroscipio_BAK43791.1, Enteroscipio_BAK43532.1, isoflavoniconvertens_WP_281668862.1, isoflavoniconvertens_WP_281667812.1, Enteroscipio_BAK43991.1, isoflavoniconvertens_WP_281668191.1, Enteroscipio_BAK45467.1, equolifaciens_RNL40328.1, isoflavoniconvertens_WP_281668507.1, isoflavoniconvertens_WP_281667820.1, isoflavoniconvertens_WP_281668540.1, isoflavoniconvertens_WP_281668510.1, isoflavoniconvertens_WP_281668235.1, Enteroscipio_BAK43622.1, isoflavoniconvertens_WP_281668295.1, isoflavoniconvertens_WP_281668766.1, isoflavoniconvertens_WP_281668623.1
+OG0000002	N1	n4	0.3333333333333333	Non-Terminal	isoflavoniconvertens_WP_281668305.1	isoflavoniconvertens_WP_281668185.1, isoflavoniconvertens_WP_281668088.1, Enteroscipio_BAK45378.1, isoflavoniconvertens_WP_281668794.1, isoflavoniconvertens_WP_281667800.1, isoflavoniconvertens_WP_281668256.1, equolifaciens_RNL40526.1, Enteroscipio_BAK45240.1, Enteroscipio_BAK43791.1, Enteroscipio_BAK43532.1, isoflavoniconvertens_WP_281668862.1, isoflavoniconvertens_WP_281667812.1, Enteroscipio_BAK43991.1, isoflavoniconvertens_WP_281668191.1, Enteroscipio_BAK45467.1, equolifaciens_RNL40328.1, isoflavoniconvertens_WP_281668507.1, isoflavoniconvertens_WP_281667820.1, isoflavoniconvertens_WP_281668540.1, isoflavoniconvertens_WP_281668510.1, isoflavoniconvertens_WP_281668235.1, Enteroscipio_BAK43622.1, isoflavoniconvertens_WP_281668295.1, isoflavoniconvertens_WP_281668766.1, isoflavoniconvertens_WP_281668623.1
+OG0000002	N1	n5	0.3333333333333333	Non-Terminal	isoflavoniconvertens_WP_281668185.1	isoflavoniconvertens_WP_281668088.1, Enteroscipio_BAK45378.1, isoflavoniconvertens_WP_281668794.1, isoflavoniconvertens_WP_281667800.1, isoflavoniconvertens_WP_281668256.1, equolifaciens_RNL40526.1, Enteroscipio_BAK45240.1, Enteroscipio_BAK43791.1, Enteroscipio_BAK43532.1, isoflavoniconvertens_WP_281668862.1, isoflavoniconvertens_WP_281667812.1, Enteroscipio_BAK43991.1, isoflavoniconvertens_WP_281668191.1, Enteroscipio_BAK45467.1, equolifaciens_RNL40328.1, isoflavoniconvertens_WP_281668507.1, isoflavoniconvertens_WP_281667820.1, isoflavoniconvertens_WP_281668540.1, isoflavoniconvertens_WP_281668510.1, isoflavoniconvertens_WP_281668235.1, Enteroscipio_BAK43622.1, isoflavoniconvertens_WP_281668295.1, isoflavoniconvertens_WP_281668766.1, isoflavoniconvertens_WP_281668623.1
+OG0000002	N1	n6	0.3333333333333333	Non-Terminal	isoflavoniconvertens_WP_281668088.1	Enteroscipio_BAK45378.1, isoflavoniconvertens_WP_281668794.1, isoflavoniconvertens_WP_281667800.1, isoflavoniconvertens_WP_281668256.1, equolifaciens_RNL40526.1, Enteroscipio_BAK45240.1, Enteroscipio_BAK43791.1, Enteroscipio_BAK43532.1, isoflavoniconvertens_WP_281668862.1, isoflavoniconvertens_WP_281667812.1, Enteroscipio_BAK43991.1, isoflavoniconvertens_WP_281668191.1, Enteroscipio_BAK45467.1, equolifaciens_RNL40328.1, isoflavoniconvertens_WP_281668507.1, isoflavoniconvertens_WP_281667820.1, isoflavoniconvertens_WP_281668540.1, isoflavoniconvertens_WP_281668510.1, isoflavoniconvertens_WP_281668235.1, Enteroscipio_BAK43622.1, isoflavoniconvertens_WP_281668295.1, isoflavoniconvertens_WP_281668766.1, isoflavoniconvertens_WP_281668623.1
+OG0000002	N1	n7	0.6666666666666666	Non-Terminal	Enteroscipio_BAK45378.1, isoflavoniconvertens_WP_281668794.1, isoflavoniconvertens_WP_281667800.1, isoflavoniconvertens_WP_281668256.1, equolifaciens_RNL40526.1, Enteroscipio_BAK45240.1, Enteroscipio_BAK43791.1, Enteroscipio_BAK43532.1, isoflavoniconvertens_WP_281668862.1, isoflavoniconvertens_WP_281667812.1, Enteroscipio_BAK43991.1, isoflavoniconvertens_WP_281668191.1, Enteroscipio_BAK45467.1, equolifaciens_RNL40328.1, isoflavoniconvertens_WP_281668507.1, isoflavoniconvertens_WP_281667820.1, isoflavoniconvertens_WP_281668540.1, isoflavoniconvertens_WP_281668510.1, isoflavoniconvertens_WP_281668235.1	Enteroscipio_BAK43622.1, isoflavoniconvertens_WP_281668295.1, isoflavoniconvertens_WP_281668766.1, isoflavoniconvertens_WP_281668623.1
+OG0000002	N1	n8	0.3333333333333333	Non-Terminal	Enteroscipio_BAK45378.1, isoflavoniconvertens_WP_281668794.1, isoflavoniconvertens_WP_281667800.1, isoflavoniconvertens_WP_281668256.1, equolifaciens_RNL40526.1, Enteroscipio_BAK45240.1, Enteroscipio_BAK43791.1, Enteroscipio_BAK43532.1, isoflavoniconvertens_WP_281668862.1, isoflavoniconvertens_WP_281667812.1, Enteroscipio_BAK43991.1, isoflavoniconvertens_WP_281668191.1, Enteroscipio_BAK45467.1, equolifaciens_RNL40328.1, isoflavoniconvertens_WP_281668507.1, isoflavoniconvertens_WP_281667820.1, isoflavoniconvertens_WP_281668540.1	isoflavoniconvertens_WP_281668510.1, isoflavoniconvertens_WP_281668235.1
+OG0000002	N1	n9	1.0	Non-Terminal	Enteroscipio_BAK45378.1, isoflavoniconvertens_WP_281668794.1, isoflavoniconvertens_WP_281667800.1, isoflavoniconvertens_WP_281668256.1, equolifaciens_RNL40526.1, Enteroscipio_BAK45240.1, Enteroscipio_BAK43791.1, Enteroscipio_BAK43532.1, isoflavoniconvertens_WP_281668862.1, isoflavoniconvertens_WP_281667812.1	Enteroscipio_BAK43991.1, isoflavoniconvertens_WP_281668191.1, Enteroscipio_BAK45467.1, equolifaciens_RNL40328.1, isoflavoniconvertens_WP_281668507.1, isoflavoniconvertens_WP_281667820.1, isoflavoniconvertens_WP_281668540.1
+OG0000002	N1	n10	0.3333333333333333	Non-Terminal	Enteroscipio_BAK45378.1, isoflavoniconvertens_WP_281668794.1, isoflavoniconvertens_WP_281667800.1, isoflavoniconvertens_WP_281668256.1, equolifaciens_RNL40526.1, Enteroscipio_BAK45240.1, Enteroscipio_BAK43791.1, Enteroscipio_BAK43532.1	isoflavoniconvertens_WP_281668862.1, isoflavoniconvertens_WP_281667812.1
+OG0000002	N1	n11	0.6666666666666666	Non-Terminal	Enteroscipio_BAK45378.1, isoflavoniconvertens_WP_281668794.1	isoflavoniconvertens_WP_281667800.1, isoflavoniconvertens_WP_281668256.1, equolifaciens_RNL40526.1, Enteroscipio_BAK45240.1, Enteroscipio_BAK43791.1, Enteroscipio_BAK43532.1
+OG0000002	isoflavoniconvertens	n15	1.0	Terminal	isoflavoniconvertens_WP_281667800.1	isoflavoniconvertens_WP_281668256.1
+OG0000002	Enteroscipio	n16	1.0	Terminal	Enteroscipio_BAK45240.1	Enteroscipio_BAK43791.1, Enteroscipio_BAK43532.1
+OG0000002	Enteroscipio	n17	1.0	Terminal	Enteroscipio_BAK43791.1	Enteroscipio_BAK43532.1
+OG0000002	isoflavoniconvertens	n18	1.0	Terminal	isoflavoniconvertens_WP_281668862.1	isoflavoniconvertens_WP_281667812.1
+OG0000002	N1	n19	0.6666666666666666	Non-Terminal	Enteroscipio_BAK43991.1, isoflavoniconvertens_WP_281668191.1	Enteroscipio_BAK45467.1, equolifaciens_RNL40328.1, isoflavoniconvertens_WP_281668507.1, isoflavoniconvertens_WP_281667820.1, isoflavoniconvertens_WP_281668540.1
+OG0000002	isoflavoniconvertens	n23	1.0	Terminal	isoflavoniconvertens_WP_281668507.1	isoflavoniconvertens_WP_281667820.1, isoflavoniconvertens_WP_281668540.1
+OG0000002	isoflavoniconvertens	n24	1.0	Terminal	isoflavoniconvertens_WP_281667820.1	isoflavoniconvertens_WP_281668540.1
+OG0000002	isoflavoniconvertens	n25	1.0	Terminal	isoflavoniconvertens_WP_281668510.1	isoflavoniconvertens_WP_281668235.1
+OG0000002	isoflavoniconvertens	n27	1.0	Terminal	isoflavoniconvertens_WP_281668295.1	isoflavoniconvertens_WP_281668766.1, isoflavoniconvertens_WP_281668623.1
+OG0000002	isoflavoniconvertens	n28	1.0	Terminal	isoflavoniconvertens_WP_281668766.1	isoflavoniconvertens_WP_281668623.1
+OG0000003	N1	n0	0.6666666666666666	Non-Terminal	Enteroscipio_BAK45696.1, equolifaciens_RNL39467.1	equolifaciens_RNL40837.1, equolifaciens_RNL40965.1, Enteroscipio_BAK44493.1, equolifaciens_RNL40218.1, equolifaciens_RNL40464.1, equolifaciens_RNL37830.1, equolifaciens_RNL37829.1, equolifaciens_RNL42034.1, equolifaciens_RNL40246.1, equolifaciens_RNL41858.1, equolifaciens_RNL40466.1, equolifaciens_RNL42142.1, equolifaciens_RNL38070.1, equolifaciens_RNL41941.1, equolifaciens_RNL40787.1, equolifaciens_RNL40812.1, equolifaciens_RNL37654.1, equolifaciens_RNL38067.1, equolifaciens_RNL38241.1, equolifaciens_RNL40454.1, equolifaciens_RNL40358.1, Enteroscipio_BAK44758.1, Enteroscipio_BAK43506.1, Enteroscipio_BAK45610.1, isoflavoniconvertens_WP_281668758.1, equolifaciens_RNL38791.1, equolifaciens_RNL40793.1
+OG0000003	N1	n2	0.3333333333333333	Non-Terminal	equolifaciens_RNL40837.1	equolifaciens_RNL40965.1, Enteroscipio_BAK44493.1, equolifaciens_RNL40218.1, equolifaciens_RNL40464.1, equolifaciens_RNL37830.1, equolifaciens_RNL37829.1, equolifaciens_RNL42034.1, equolifaciens_RNL40246.1, equolifaciens_RNL41858.1, equolifaciens_RNL40466.1, equolifaciens_RNL42142.1, equolifaciens_RNL38070.1, equolifaciens_RNL41941.1, equolifaciens_RNL40787.1, equolifaciens_RNL40812.1, equolifaciens_RNL37654.1, equolifaciens_RNL38067.1, equolifaciens_RNL38241.1, equolifaciens_RNL40454.1, equolifaciens_RNL40358.1, Enteroscipio_BAK44758.1, Enteroscipio_BAK43506.1, Enteroscipio_BAK45610.1, isoflavoniconvertens_WP_281668758.1, equolifaciens_RNL38791.1, equolifaciens_RNL40793.1
+OG0000003	N1	n3	0.6666666666666666	Non-Terminal	equolifaciens_RNL40965.1, Enteroscipio_BAK44493.1, equolifaciens_RNL40218.1, equolifaciens_RNL40464.1, equolifaciens_RNL37830.1, equolifaciens_RNL37829.1, equolifaciens_RNL42034.1, equolifaciens_RNL40246.1, equolifaciens_RNL41858.1, equolifaciens_RNL40466.1, equolifaciens_RNL42142.1, equolifaciens_RNL38070.1, equolifaciens_RNL41941.1, equolifaciens_RNL40787.1, equolifaciens_RNL40812.1, equolifaciens_RNL37654.1, equolifaciens_RNL38067.1, equolifaciens_RNL38241.1, equolifaciens_RNL40454.1, equolifaciens_RNL40358.1, Enteroscipio_BAK44758.1, Enteroscipio_BAK43506.1	Enteroscipio_BAK45610.1, isoflavoniconvertens_WP_281668758.1, equolifaciens_RNL38791.1, equolifaciens_RNL40793.1
+OG0000003	N1	n4	0.6666666666666666	Non-Terminal	equolifaciens_RNL40965.1, Enteroscipio_BAK44493.1	equolifaciens_RNL40218.1, equolifaciens_RNL40464.1, equolifaciens_RNL37830.1, equolifaciens_RNL37829.1, equolifaciens_RNL42034.1, equolifaciens_RNL40246.1, equolifaciens_RNL41858.1, equolifaciens_RNL40466.1, equolifaciens_RNL42142.1, equolifaciens_RNL38070.1, equolifaciens_RNL41941.1, equolifaciens_RNL40787.1, equolifaciens_RNL40812.1, equolifaciens_RNL37654.1, equolifaciens_RNL38067.1, equolifaciens_RNL38241.1, equolifaciens_RNL40454.1, equolifaciens_RNL40358.1, Enteroscipio_BAK44758.1, Enteroscipio_BAK43506.1
+OG0000003	equolifaciens	n7	1.0	Terminal	equolifaciens_RNL40218.1	equolifaciens_RNL40464.1, equolifaciens_RNL37830.1, equolifaciens_RNL37829.1, equolifaciens_RNL42034.1, equolifaciens_RNL40246.1, equolifaciens_RNL41858.1, equolifaciens_RNL40466.1, equolifaciens_RNL42142.1, equolifaciens_RNL38070.1, equolifaciens_RNL41941.1, equolifaciens_RNL40787.1, equolifaciens_RNL40812.1, equolifaciens_RNL37654.1, equolifaciens_RNL38067.1, equolifaciens_RNL38241.1, equolifaciens_RNL40454.1, equolifaciens_RNL40358.1
+OG0000003	equolifaciens	n8	1.0	Terminal	equolifaciens_RNL40464.1, equolifaciens_RNL37830.1, equolifaciens_RNL37829.1	equolifaciens_RNL42034.1, equolifaciens_RNL40246.1, equolifaciens_RNL41858.1, equolifaciens_RNL40466.1, equolifaciens_RNL42142.1, equolifaciens_RNL38070.1, equolifaciens_RNL41941.1, equolifaciens_RNL40787.1, equolifaciens_RNL40812.1, equolifaciens_RNL37654.1, equolifaciens_RNL38067.1, equolifaciens_RNL38241.1, equolifaciens_RNL40454.1, equolifaciens_RNL40358.1
+OG0000003	equolifaciens	n9	1.0	Terminal	equolifaciens_RNL40464.1	equolifaciens_RNL37830.1, equolifaciens_RNL37829.1
+OG0000003	equolifaciens	n10	1.0	Terminal	equolifaciens_RNL37830.1	equolifaciens_RNL37829.1
+OG0000003	equolifaciens	n11	1.0	Terminal	equolifaciens_RNL42034.1, equolifaciens_RNL40246.1, equolifaciens_RNL41858.1, equolifaciens_RNL40466.1, equolifaciens_RNL42142.1, equolifaciens_RNL38070.1, equolifaciens_RNL41941.1	equolifaciens_RNL40787.1, equolifaciens_RNL40812.1, equolifaciens_RNL37654.1, equolifaciens_RNL38067.1, equolifaciens_RNL38241.1, equolifaciens_RNL40454.1, equolifaciens_RNL40358.1
+OG0000003	equolifaciens	n12	1.0	Terminal	equolifaciens_RNL42034.1	equolifaciens_RNL40246.1, equolifaciens_RNL41858.1, equolifaciens_RNL40466.1, equolifaciens_RNL42142.1, equolifaciens_RNL38070.1, equolifaciens_RNL41941.1
+OG0000003	equolifaciens	n13	1.0	Terminal	equolifaciens_RNL40246.1, equolifaciens_RNL41858.1, equolifaciens_RNL40466.1	equolifaciens_RNL42142.1, equolifaciens_RNL38070.1, equolifaciens_RNL41941.1
+OG0000003	equolifaciens	n14	1.0	Terminal	equolifaciens_RNL40246.1, equolifaciens_RNL41858.1	equolifaciens_RNL40466.1
+OG0000003	equolifaciens	n15	1.0	Terminal	equolifaciens_RNL40246.1	equolifaciens_RNL41858.1
+OG0000003	equolifaciens	n16	1.0	Terminal	equolifaciens_RNL42142.1, equolifaciens_RNL38070.1	equolifaciens_RNL41941.1
+OG0000003	equolifaciens	n17	1.0	Terminal	equolifaciens_RNL42142.1	equolifaciens_RNL38070.1
+OG0000003	equolifaciens	n18	1.0	Terminal	equolifaciens_RNL40787.1, equolifaciens_RNL40812.1, equolifaciens_RNL37654.1	equolifaciens_RNL38067.1, equolifaciens_RNL38241.1, equolifaciens_RNL40454.1, equolifaciens_RNL40358.1
+OG0000003	equolifaciens	n19	1.0	Terminal	equolifaciens_RNL40787.1, equolifaciens_RNL40812.1	equolifaciens_RNL37654.1
+OG0000003	equolifaciens	n20	1.0	Terminal	equolifaciens_RNL40787.1	equolifaciens_RNL40812.1
+OG0000003	equolifaciens	n21	1.0	Terminal	equolifaciens_RNL38067.1, equolifaciens_RNL38241.1	equolifaciens_RNL40454.1, equolifaciens_RNL40358.1
+OG0000003	equolifaciens	n22	1.0	Terminal	equolifaciens_RNL38067.1	equolifaciens_RNL38241.1
+OG0000003	equolifaciens	n23	1.0	Terminal	equolifaciens_RNL40454.1	equolifaciens_RNL40358.1
+OG0000003	Enteroscipio	n24	1.0	Terminal	Enteroscipio_BAK44758.1	Enteroscipio_BAK43506.1
+OG0000003	equolifaciens	n27	1.0	Terminal	equolifaciens_RNL38791.1	equolifaciens_RNL40793.1
+OG0000004	N1	n0	0.6666666666666666	Non-Terminal	Enteroscipio_BAK45286.1, equolifaciens_RNL37993.1	equolifaciens_RNL40453.1, equolifaciens_RNL40847.1, equolifaciens_RNL41845.1, Enteroscipio_BAK45051.1, Enteroscipio_BAK45700.1, Enteroscipio_BAK45399.1, Enteroscipio_BAK45460.1, equolifaciens_RNL40217.1, equolifaciens_RNL37663.1, equolifaciens_RNL40867.1, equolifaciens_RNL40465.1, equolifaciens_RNL38242.1, equolifaciens_RNL38071.1, equolifaciens_RNL37838.1, Enteroscipio_BAK45474.1, equolifaciens_RNL40357.1, equolifaciens_RNL40351.1, Enteroscipio_BAK43788.1, isoflavoniconvertens_WP_281668193.1, equolifaciens_RNL39500.1, equolifaciens_RNL40796.1, Enteroscipio_BAK43824.1, equolifaciens_RNL38228.1, Enteroscipio_BAK45372.1, equolifaciens_RNL38237.1, equolifaciens_RNL40872.1
+OG0000004	N1	n2	0.3333333333333333	Non-Terminal	equolifaciens_RNL40453.1, equolifaciens_RNL40847.1	equolifaciens_RNL41845.1, Enteroscipio_BAK45051.1, Enteroscipio_BAK45700.1, Enteroscipio_BAK45399.1, Enteroscipio_BAK45460.1, equolifaciens_RNL40217.1, equolifaciens_RNL37663.1, equolifaciens_RNL40867.1, equolifaciens_RNL40465.1, equolifaciens_RNL38242.1, equolifaciens_RNL38071.1, equolifaciens_RNL37838.1, Enteroscipio_BAK45474.1, equolifaciens_RNL40357.1, equolifaciens_RNL40351.1, Enteroscipio_BAK43788.1, isoflavoniconvertens_WP_281668193.1, equolifaciens_RNL39500.1, equolifaciens_RNL40796.1, Enteroscipio_BAK43824.1, equolifaciens_RNL38228.1, Enteroscipio_BAK45372.1, equolifaciens_RNL38237.1, equolifaciens_RNL40872.1
+OG0000004	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL40453.1	equolifaciens_RNL40847.1
+OG0000004	N1	n4	0.6666666666666666	Non-Terminal	equolifaciens_RNL41845.1, Enteroscipio_BAK45051.1, Enteroscipio_BAK45700.1, Enteroscipio_BAK45399.1, Enteroscipio_BAK45460.1, equolifaciens_RNL40217.1, equolifaciens_RNL37663.1, equolifaciens_RNL40867.1, equolifaciens_RNL40465.1, equolifaciens_RNL38242.1, equolifaciens_RNL38071.1, equolifaciens_RNL37838.1	Enteroscipio_BAK45474.1, equolifaciens_RNL40357.1, equolifaciens_RNL40351.1, Enteroscipio_BAK43788.1, isoflavoniconvertens_WP_281668193.1, equolifaciens_RNL39500.1, equolifaciens_RNL40796.1, Enteroscipio_BAK43824.1, equolifaciens_RNL38228.1, Enteroscipio_BAK45372.1, equolifaciens_RNL38237.1, equolifaciens_RNL40872.1
+OG0000004	N1	n5	0.3333333333333333	Non-Terminal	equolifaciens_RNL41845.1, Enteroscipio_BAK45051.1, Enteroscipio_BAK45700.1, Enteroscipio_BAK45399.1, Enteroscipio_BAK45460.1, equolifaciens_RNL40217.1, equolifaciens_RNL37663.1, equolifaciens_RNL40867.1, equolifaciens_RNL40465.1, equolifaciens_RNL38242.1	equolifaciens_RNL38071.1, equolifaciens_RNL37838.1
+OG0000004	N1	n6	0.3333333333333333	Non-Terminal	equolifaciens_RNL41845.1, Enteroscipio_BAK45051.1, Enteroscipio_BAK45700.1, Enteroscipio_BAK45399.1, Enteroscipio_BAK45460.1, equolifaciens_RNL40217.1, equolifaciens_RNL37663.1	equolifaciens_RNL40867.1, equolifaciens_RNL40465.1, equolifaciens_RNL38242.1
+OG0000004	N1	n7	0.6666666666666666	Non-Terminal	equolifaciens_RNL41845.1, Enteroscipio_BAK45051.1, Enteroscipio_BAK45700.1, Enteroscipio_BAK45399.1	Enteroscipio_BAK45460.1, equolifaciens_RNL40217.1, equolifaciens_RNL37663.1
+OG0000004	Enteroscipio	n9	1.0	Terminal	Enteroscipio_BAK45051.1	Enteroscipio_BAK45700.1, Enteroscipio_BAK45399.1
+OG0000004	Enteroscipio	n10	1.0	Terminal	Enteroscipio_BAK45700.1	Enteroscipio_BAK45399.1
+OG0000004	equolifaciens	n12	1.0	Terminal	equolifaciens_RNL40217.1	equolifaciens_RNL37663.1
+OG0000004	equolifaciens	n13	1.0	Terminal	equolifaciens_RNL40867.1	equolifaciens_RNL40465.1, equolifaciens_RNL38242.1
+OG0000004	equolifaciens	n14	1.0	Terminal	equolifaciens_RNL40465.1	equolifaciens_RNL38242.1
+OG0000004	equolifaciens	n15	1.0	Terminal	equolifaciens_RNL38071.1	equolifaciens_RNL37838.1
+OG0000004	N1	n16	0.3333333333333333	Non-Terminal	Enteroscipio_BAK45474.1	equolifaciens_RNL40357.1, equolifaciens_RNL40351.1, Enteroscipio_BAK43788.1, isoflavoniconvertens_WP_281668193.1, equolifaciens_RNL39500.1, equolifaciens_RNL40796.1, Enteroscipio_BAK43824.1, equolifaciens_RNL38228.1, Enteroscipio_BAK45372.1, equolifaciens_RNL38237.1, equolifaciens_RNL40872.1
+OG0000004	N1	n17	0.3333333333333333	Non-Terminal	equolifaciens_RNL40357.1	equolifaciens_RNL40351.1, Enteroscipio_BAK43788.1, isoflavoniconvertens_WP_281668193.1, equolifaciens_RNL39500.1, equolifaciens_RNL40796.1, Enteroscipio_BAK43824.1, equolifaciens_RNL38228.1, Enteroscipio_BAK45372.1, equolifaciens_RNL38237.1, equolifaciens_RNL40872.1
+OG0000004	N1	n18	0.3333333333333333	Non-Terminal	equolifaciens_RNL40351.1	Enteroscipio_BAK43788.1, isoflavoniconvertens_WP_281668193.1, equolifaciens_RNL39500.1, equolifaciens_RNL40796.1, Enteroscipio_BAK43824.1, equolifaciens_RNL38228.1, Enteroscipio_BAK45372.1, equolifaciens_RNL38237.1, equolifaciens_RNL40872.1
+OG0000004	N1	n19	0.6666666666666666	Non-Terminal	Enteroscipio_BAK43788.1, isoflavoniconvertens_WP_281668193.1, equolifaciens_RNL39500.1	equolifaciens_RNL40796.1, Enteroscipio_BAK43824.1, equolifaciens_RNL38228.1, Enteroscipio_BAK45372.1, equolifaciens_RNL38237.1, equolifaciens_RNL40872.1
+OG0000004	N1	n22	0.3333333333333333	Non-Terminal	equolifaciens_RNL40796.1	Enteroscipio_BAK43824.1, equolifaciens_RNL38228.1, Enteroscipio_BAK45372.1, equolifaciens_RNL38237.1, equolifaciens_RNL40872.1
+OG0000004	N1	n23	0.6666666666666666	Non-Terminal	Enteroscipio_BAK43824.1, equolifaciens_RNL38228.1	Enteroscipio_BAK45372.1, equolifaciens_RNL38237.1, equolifaciens_RNL40872.1
+OG0000004	equolifaciens	n26	1.0	Terminal	equolifaciens_RNL38237.1	equolifaciens_RNL40872.1
+OG0000005	N1	n0	1.0	Non-Terminal	Enteroscipio_BAK45612.1, isoflavoniconvertens_WP_123219937.1, equolifaciens_RNL38758.1, equolifaciens_RNL40791.1	isoflavoniconvertens_WP_220150936.1, equolifaciens_RNL41912.1, isoflavoniconvertens_WP_281668056.1, Enteroscipio_BAK45418.1, equolifaciens_RNL42059.1, isoflavoniconvertens_WP_114615690.1, equolifaciens_RNL40499.1, Enteroscipio_BAK44193.1, equolifaciens_RNL40497.1, isoflavoniconvertens_WP_281668250.1, isoflavoniconvertens_WP_281668109.1, equolifaciens_RNL39554.1, isoflavoniconvertens_WP_281668343.1, isoflavoniconvertens_WP_281668647.1, isoflavoniconvertens_WP_114614819.1, isoflavoniconvertens_WP_281668776.1, Enteroscipio_BAK45540.1, Enteroscipio_BAK45613.1
+OG0000005	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL38758.1	equolifaciens_RNL40791.1
+OG0000005	N1	n4	0.6666666666666666	Non-Terminal	isoflavoniconvertens_WP_220150936.1, equolifaciens_RNL41912.1, isoflavoniconvertens_WP_281668056.1, Enteroscipio_BAK45418.1, equolifaciens_RNL42059.1, isoflavoniconvertens_WP_114615690.1, equolifaciens_RNL40499.1, Enteroscipio_BAK44193.1, equolifaciens_RNL40497.1, isoflavoniconvertens_WP_281668250.1, isoflavoniconvertens_WP_281668109.1, equolifaciens_RNL39554.1, isoflavoniconvertens_WP_281668343.1, isoflavoniconvertens_WP_281668647.1, isoflavoniconvertens_WP_114614819.1	isoflavoniconvertens_WP_281668776.1, Enteroscipio_BAK45540.1, Enteroscipio_BAK45613.1
+OG0000005	N1	n5	1.0	Non-Terminal	isoflavoniconvertens_WP_220150936.1, equolifaciens_RNL41912.1, isoflavoniconvertens_WP_281668056.1, Enteroscipio_BAK45418.1, equolifaciens_RNL42059.1	isoflavoniconvertens_WP_114615690.1, equolifaciens_RNL40499.1, Enteroscipio_BAK44193.1, equolifaciens_RNL40497.1, isoflavoniconvertens_WP_281668250.1, isoflavoniconvertens_WP_281668109.1, equolifaciens_RNL39554.1, isoflavoniconvertens_WP_281668343.1, isoflavoniconvertens_WP_281668647.1, isoflavoniconvertens_WP_114614819.1
+OG0000005	N1	n6	0.6666666666666666	Non-Terminal	isoflavoniconvertens_WP_220150936.1, equolifaciens_RNL41912.1	isoflavoniconvertens_WP_281668056.1, Enteroscipio_BAK45418.1, equolifaciens_RNL42059.1
+OG0000005	N1	n10	0.3333333333333333	Non-Terminal	isoflavoniconvertens_WP_114615690.1, equolifaciens_RNL40499.1, Enteroscipio_BAK44193.1, equolifaciens_RNL40497.1, isoflavoniconvertens_WP_281668250.1, isoflavoniconvertens_WP_281668109.1, equolifaciens_RNL39554.1, isoflavoniconvertens_WP_281668343.1	isoflavoniconvertens_WP_281668647.1, isoflavoniconvertens_WP_114614819.1
+OG0000005	N1	n11	0.6666666666666666	Non-Terminal	isoflavoniconvertens_WP_114615690.1, equolifaciens_RNL40499.1, Enteroscipio_BAK44193.1, equolifaciens_RNL40497.1, isoflavoniconvertens_WP_281668250.1, isoflavoniconvertens_WP_281668109.1	equolifaciens_RNL39554.1, isoflavoniconvertens_WP_281668343.1
+OG0000005	N1	n12	0.6666666666666666	Non-Terminal	isoflavoniconvertens_WP_114615690.1, equolifaciens_RNL40499.1, Enteroscipio_BAK44193.1	equolifaciens_RNL40497.1, isoflavoniconvertens_WP_281668250.1, isoflavoniconvertens_WP_281668109.1
+OG0000005	isoflavoniconvertens	n16	1.0	Terminal	isoflavoniconvertens_WP_281668250.1	isoflavoniconvertens_WP_281668109.1
+OG0000005	isoflavoniconvertens	n18	1.0	Terminal	isoflavoniconvertens_WP_281668647.1	isoflavoniconvertens_WP_114614819.1
+OG0000005	Enteroscipio	n20	1.0	Terminal	Enteroscipio_BAK45540.1	Enteroscipio_BAK45613.1
+OG0000006	N1	n0	1.0	Non-Terminal	Enteroscipio_BAK45611.1, isoflavoniconvertens_WP_281668759.1, equolifaciens_RNL40792.1	Enteroscipio_BAK45546.1, isoflavoniconvertens_WP_281668071.1, equolifaciens_RNL41911.1, isoflavoniconvertens_WP_281668351.1, equolifaciens_RNL37800.1, equolifaciens_RNL42141.1, equolifaciens_RNL40808.1, isoflavoniconvertens_WP_281667886.1, isoflavoniconvertens_WP_281668049.1, equolifaciens_RNL39901.1, equolifaciens_RNL42170.1, equolifaciens_RNL40579.1, isoflavoniconvertens_WP_281668342.1, equolifaciens_RNL39555.1, Enteroscipio_BAK45541.1, equolifaciens_RNL38757.1, isoflavoniconvertens_WP_281668096.1
+OG0000006	N1	n3	1.0	Non-Terminal	Enteroscipio_BAK45546.1, isoflavoniconvertens_WP_281668071.1, equolifaciens_RNL41911.1, isoflavoniconvertens_WP_281668351.1, equolifaciens_RNL37800.1, equolifaciens_RNL42141.1, equolifaciens_RNL40808.1, isoflavoniconvertens_WP_281667886.1, isoflavoniconvertens_WP_281668049.1, equolifaciens_RNL39901.1, equolifaciens_RNL42170.1, equolifaciens_RNL40579.1, isoflavoniconvertens_WP_281668342.1, equolifaciens_RNL39555.1	Enteroscipio_BAK45541.1, equolifaciens_RNL38757.1, isoflavoniconvertens_WP_281668096.1
+OG0000006	N2	n5	1.0	Non-Terminal	isoflavoniconvertens_WP_281668071.1, equolifaciens_RNL41911.1	isoflavoniconvertens_WP_281668351.1, equolifaciens_RNL37800.1, equolifaciens_RNL42141.1, equolifaciens_RNL40808.1, isoflavoniconvertens_WP_281667886.1, isoflavoniconvertens_WP_281668049.1, equolifaciens_RNL39901.1, equolifaciens_RNL42170.1, equolifaciens_RNL40579.1, isoflavoniconvertens_WP_281668342.1, equolifaciens_RNL39555.1
+OG0000006	N2	n7	1.0	Non-Terminal	isoflavoniconvertens_WP_281668351.1, equolifaciens_RNL37800.1, equolifaciens_RNL42141.1, equolifaciens_RNL40808.1, isoflavoniconvertens_WP_281667886.1, isoflavoniconvertens_WP_281668049.1, equolifaciens_RNL39901.1, equolifaciens_RNL42170.1, equolifaciens_RNL40579.1	isoflavoniconvertens_WP_281668342.1, equolifaciens_RNL39555.1
+OG0000006	N2	n8	1.0	Non-Terminal	isoflavoniconvertens_WP_281668351.1, equolifaciens_RNL37800.1, equolifaciens_RNL42141.1, equolifaciens_RNL40808.1	isoflavoniconvertens_WP_281667886.1, isoflavoniconvertens_WP_281668049.1, equolifaciens_RNL39901.1, equolifaciens_RNL42170.1, equolifaciens_RNL40579.1
+OG0000006	equolifaciens	n10	1.0	Terminal	equolifaciens_RNL37800.1	equolifaciens_RNL42141.1, equolifaciens_RNL40808.1
+OG0000006	equolifaciens	n11	1.0	Terminal	equolifaciens_RNL42141.1	equolifaciens_RNL40808.1
+OG0000006	isoflavoniconvertens	n13	1.0	Terminal	isoflavoniconvertens_WP_281667886.1	isoflavoniconvertens_WP_281668049.1
+OG0000006	equolifaciens	n14	1.0	Terminal	equolifaciens_RNL39901.1, equolifaciens_RNL42170.1	equolifaciens_RNL40579.1
+OG0000006	equolifaciens	n15	1.0	Terminal	equolifaciens_RNL39901.1	equolifaciens_RNL42170.1
+OG0000007	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR48618.1	Lactococcus_QPR48680.1, Lactococcus_QPR48816.1, Lactococcus_QPR48151.1, Lactococcus_QPR48901.1, Lactococcus_QPR48344.1, Lactococcus_QPR48873.1, Lactococcus_QPR49698.1, Lactococcus_QPR48576.1, Lactococcus_QPR49291.1, Lactococcus_QPR48049.1, Lactococcus_QPR49880.1, Lactococcus_QPR49103.1, Lactococcus_QPR48433.1, Lactococcus_QPR48128.1, Lactococcus_QPR48036.1, Lactococcus_QPR49289.1
+OG0000007	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48680.1	Lactococcus_QPR48816.1, Lactococcus_QPR48151.1, Lactococcus_QPR48901.1, Lactococcus_QPR48344.1, Lactococcus_QPR48873.1, Lactococcus_QPR49698.1, Lactococcus_QPR48576.1, Lactococcus_QPR49291.1, Lactococcus_QPR48049.1, Lactococcus_QPR49880.1, Lactococcus_QPR49103.1, Lactococcus_QPR48433.1, Lactococcus_QPR48128.1, Lactococcus_QPR48036.1, Lactococcus_QPR49289.1
+OG0000007	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48816.1	Lactococcus_QPR48151.1, Lactococcus_QPR48901.1, Lactococcus_QPR48344.1, Lactococcus_QPR48873.1, Lactococcus_QPR49698.1, Lactococcus_QPR48576.1, Lactococcus_QPR49291.1, Lactococcus_QPR48049.1, Lactococcus_QPR49880.1, Lactococcus_QPR49103.1, Lactococcus_QPR48433.1, Lactococcus_QPR48128.1, Lactococcus_QPR48036.1, Lactococcus_QPR49289.1
+OG0000007	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48151.1	Lactococcus_QPR48901.1, Lactococcus_QPR48344.1, Lactococcus_QPR48873.1, Lactococcus_QPR49698.1, Lactococcus_QPR48576.1, Lactococcus_QPR49291.1, Lactococcus_QPR48049.1, Lactococcus_QPR49880.1, Lactococcus_QPR49103.1, Lactococcus_QPR48433.1, Lactococcus_QPR48128.1, Lactococcus_QPR48036.1, Lactococcus_QPR49289.1
+OG0000007	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR48901.1, Lactococcus_QPR48344.1, Lactococcus_QPR48873.1	Lactococcus_QPR49698.1, Lactococcus_QPR48576.1, Lactococcus_QPR49291.1, Lactococcus_QPR48049.1, Lactococcus_QPR49880.1, Lactococcus_QPR49103.1, Lactococcus_QPR48433.1, Lactococcus_QPR48128.1, Lactococcus_QPR48036.1, Lactococcus_QPR49289.1
+OG0000007	Lactococcus	n5	1.0	Terminal	Lactococcus_QPR48901.1, Lactococcus_QPR48344.1	Lactococcus_QPR48873.1
+OG0000007	Lactococcus	n6	1.0	Terminal	Lactococcus_QPR48901.1	Lactococcus_QPR48344.1
+OG0000007	Lactococcus	n7	1.0	Terminal	Lactococcus_QPR49698.1, Lactococcus_QPR48576.1, Lactococcus_QPR49291.1, Lactococcus_QPR48049.1, Lactococcus_QPR49880.1	Lactococcus_QPR49103.1, Lactococcus_QPR48433.1, Lactococcus_QPR48128.1, Lactococcus_QPR48036.1, Lactococcus_QPR49289.1
+OG0000007	Lactococcus	n8	1.0	Terminal	Lactococcus_QPR49698.1, Lactococcus_QPR48576.1, Lactococcus_QPR49291.1, Lactococcus_QPR48049.1	Lactococcus_QPR49880.1
+OG0000007	Lactococcus	n9	1.0	Terminal	Lactococcus_QPR49698.1, Lactococcus_QPR48576.1	Lactococcus_QPR49291.1, Lactococcus_QPR48049.1
+OG0000007	Lactococcus	n10	1.0	Terminal	Lactococcus_QPR49698.1	Lactococcus_QPR48576.1
+OG0000007	Lactococcus	n11	1.0	Terminal	Lactococcus_QPR49291.1	Lactococcus_QPR48049.1
+OG0000007	Lactococcus	n12	1.0	Terminal	Lactococcus_QPR49103.1	Lactococcus_QPR48433.1, Lactococcus_QPR48128.1, Lactococcus_QPR48036.1, Lactococcus_QPR49289.1
+OG0000007	Lactococcus	n13	1.0	Terminal	Lactococcus_QPR48433.1	Lactococcus_QPR48128.1, Lactococcus_QPR48036.1, Lactococcus_QPR49289.1
+OG0000007	Lactococcus	n14	1.0	Terminal	Lactococcus_QPR48128.1	Lactococcus_QPR48036.1, Lactococcus_QPR49289.1
+OG0000007	Lactococcus	n15	1.0	Terminal	Lactococcus_QPR48036.1	Lactococcus_QPR49289.1
+OG0000008	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45697.1	Enteroscipio_BAK45704.1, Enteroscipio_BAK45634.1, Enteroscipio_BAK45525.1, Enteroscipio_BAK43370.1, Enteroscipio_BAK45872.1, Enteroscipio_BAK44756.1, Enteroscipio_BAK43507.1, Enteroscipio_BAK43509.1, Enteroscipio_BAK43665.1, Enteroscipio_BAK45289.1, Enteroscipio_BAK43536.1, Enteroscipio_BAK43952.1, Enteroscipio_BAK44302.1
+OG0000008	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45704.1	Enteroscipio_BAK45634.1, Enteroscipio_BAK45525.1, Enteroscipio_BAK43370.1, Enteroscipio_BAK45872.1, Enteroscipio_BAK44756.1, Enteroscipio_BAK43507.1, Enteroscipio_BAK43509.1, Enteroscipio_BAK43665.1, Enteroscipio_BAK45289.1, Enteroscipio_BAK43536.1, Enteroscipio_BAK43952.1, Enteroscipio_BAK44302.1
+OG0000008	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45634.1, Enteroscipio_BAK45525.1, Enteroscipio_BAK43370.1, Enteroscipio_BAK45872.1	Enteroscipio_BAK44756.1, Enteroscipio_BAK43507.1, Enteroscipio_BAK43509.1, Enteroscipio_BAK43665.1, Enteroscipio_BAK45289.1, Enteroscipio_BAK43536.1, Enteroscipio_BAK43952.1, Enteroscipio_BAK44302.1
+OG0000008	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK45634.1, Enteroscipio_BAK45525.1	Enteroscipio_BAK43370.1, Enteroscipio_BAK45872.1
+OG0000008	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK45634.1	Enteroscipio_BAK45525.1
+OG0000008	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK43370.1	Enteroscipio_BAK45872.1
+OG0000008	Enteroscipio	n7	1.0	Terminal	Enteroscipio_BAK44756.1, Enteroscipio_BAK43507.1	Enteroscipio_BAK43509.1, Enteroscipio_BAK43665.1, Enteroscipio_BAK45289.1, Enteroscipio_BAK43536.1, Enteroscipio_BAK43952.1, Enteroscipio_BAK44302.1
+OG0000008	Enteroscipio	n8	1.0	Terminal	Enteroscipio_BAK44756.1	Enteroscipio_BAK43507.1
+OG0000008	Enteroscipio	n9	1.0	Terminal	Enteroscipio_BAK43509.1, Enteroscipio_BAK43665.1	Enteroscipio_BAK45289.1, Enteroscipio_BAK43536.1, Enteroscipio_BAK43952.1, Enteroscipio_BAK44302.1
+OG0000008	Enteroscipio	n10	1.0	Terminal	Enteroscipio_BAK43509.1	Enteroscipio_BAK43665.1
+OG0000008	Enteroscipio	n11	1.0	Terminal	Enteroscipio_BAK45289.1	Enteroscipio_BAK43536.1, Enteroscipio_BAK43952.1, Enteroscipio_BAK44302.1
+OG0000008	Enteroscipio	n12	1.0	Terminal	Enteroscipio_BAK43536.1	Enteroscipio_BAK43952.1, Enteroscipio_BAK44302.1
+OG0000008	Enteroscipio	n13	1.0	Terminal	Enteroscipio_BAK43952.1	Enteroscipio_BAK44302.1
+OG0000009	N1	n0	0.6666666666666666	Non-Terminal	Enteroscipio_BAK45818.1, Enteroscipio_BAK43937.1, equolifaciens_RNL42035.1	equolifaciens_RNL40361.1, Enteroscipio_BAK43569.1, Enteroscipio_BAK45381.1, Enteroscipio_BAK43500.1, Enteroscipio_BAK44849.1, Enteroscipio_BAK45147.1, Enteroscipio_BAK43402.1, Enteroscipio_BAK43564.1, Enteroscipio_BAK45667.1, Enteroscipio_BAK45868.1, Enteroscipio_BAK43672.1, Enteroscipio_BAK45030.1
+OG0000009	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45818.1	Enteroscipio_BAK43937.1
+OG0000009	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK43569.1, Enteroscipio_BAK45381.1	Enteroscipio_BAK43500.1, Enteroscipio_BAK44849.1, Enteroscipio_BAK45147.1, Enteroscipio_BAK43402.1, Enteroscipio_BAK43564.1, Enteroscipio_BAK45667.1, Enteroscipio_BAK45868.1, Enteroscipio_BAK43672.1, Enteroscipio_BAK45030.1
+OG0000009	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK43569.1	Enteroscipio_BAK45381.1
+OG0000009	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK43500.1	Enteroscipio_BAK44849.1, Enteroscipio_BAK45147.1, Enteroscipio_BAK43402.1, Enteroscipio_BAK43564.1, Enteroscipio_BAK45667.1, Enteroscipio_BAK45868.1, Enteroscipio_BAK43672.1, Enteroscipio_BAK45030.1
+OG0000009	Enteroscipio	n7	1.0	Terminal	Enteroscipio_BAK44849.1, Enteroscipio_BAK45147.1, Enteroscipio_BAK43402.1	Enteroscipio_BAK43564.1, Enteroscipio_BAK45667.1, Enteroscipio_BAK45868.1, Enteroscipio_BAK43672.1, Enteroscipio_BAK45030.1
+OG0000009	Enteroscipio	n8	1.0	Terminal	Enteroscipio_BAK44849.1	Enteroscipio_BAK45147.1, Enteroscipio_BAK43402.1
+OG0000009	Enteroscipio	n9	1.0	Terminal	Enteroscipio_BAK45147.1	Enteroscipio_BAK43402.1
+OG0000009	Enteroscipio	n10	1.0	Terminal	Enteroscipio_BAK43564.1	Enteroscipio_BAK45667.1, Enteroscipio_BAK45868.1, Enteroscipio_BAK43672.1, Enteroscipio_BAK45030.1
+OG0000009	Enteroscipio	n11	1.0	Terminal	Enteroscipio_BAK45667.1	Enteroscipio_BAK45868.1, Enteroscipio_BAK43672.1, Enteroscipio_BAK45030.1
+OG0000009	Enteroscipio	n12	1.0	Terminal	Enteroscipio_BAK45868.1	Enteroscipio_BAK43672.1, Enteroscipio_BAK45030.1
+OG0000009	Enteroscipio	n13	1.0	Terminal	Enteroscipio_BAK43672.1	Enteroscipio_BAK45030.1
+OG0000010	N0	n0	1.0	Non-Terminal	Enteroscipio_BAK43438.1, isoflavoniconvertens_WP_281668897.1, equolifaciens_RNL39537.1, isoflavoniconvertens_WP_281668690.1, equolifaciens_RNL41991.1, Lactococcus_QPR48547.1	Lactococcus_QPR48345.1, equolifaciens_RNL40330.1, isoflavoniconvertens_WP_281668542.1, Enteroscipio_BAK43853.1, equolifaciens_RNL39163.1, isoflavoniconvertens_WP_281668400.1, isoflavoniconvertens_WP_281668417.1, isoflavoniconvertens_WP_281668265.1, isoflavoniconvertens_WP_281667943.1
+OG0000010	N2	n3	1.0	Non-Terminal	isoflavoniconvertens_WP_281668897.1, equolifaciens_RNL39537.1	isoflavoniconvertens_WP_281668690.1, equolifaciens_RNL41991.1
+OG0000010	N1	n7	0.3333333333333333	Non-Terminal	equolifaciens_RNL40330.1, isoflavoniconvertens_WP_281668542.1, Enteroscipio_BAK43853.1, equolifaciens_RNL39163.1, isoflavoniconvertens_WP_281668400.1	isoflavoniconvertens_WP_281668417.1, isoflavoniconvertens_WP_281668265.1, isoflavoniconvertens_WP_281667943.1
+OG0000010	N1	n8	0.6666666666666666	Non-Terminal	equolifaciens_RNL40330.1, isoflavoniconvertens_WP_281668542.1, Enteroscipio_BAK43853.1	equolifaciens_RNL39163.1, isoflavoniconvertens_WP_281668400.1
+OG0000010	isoflavoniconvertens	n12	1.0	Terminal	isoflavoniconvertens_WP_281668417.1	isoflavoniconvertens_WP_281668265.1, isoflavoniconvertens_WP_281667943.1
+OG0000010	isoflavoniconvertens	n13	1.0	Terminal	isoflavoniconvertens_WP_281668265.1	isoflavoniconvertens_WP_281667943.1
+OG0000011	N1	n0	1.0	Non-Terminal	isoflavoniconvertens_WP_123219739.1, equolifaciens_RNL41525.1, Enteroscipio_BAK43897.1, Enteroscipio_BAK43798.1	equolifaciens_RNL42056.1, isoflavoniconvertens_WP_281668053.1, Enteroscipio_BAK45415.1, isoflavoniconvertens_WP_281667884.1, isoflavoniconvertens_WP_281668113.1, equolifaciens_RNL42172.1, Enteroscipio_BAK44774.1, isoflavoniconvertens_WP_123218996.1, equolifaciens_RNL39072.1, Enteroscipio_BAK43835.1, Enteroscipio_BAK43443.1
+OG0000011	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43897.1	Enteroscipio_BAK43798.1
+OG0000011	N1	n4	1.0	Non-Terminal	equolifaciens_RNL42056.1, isoflavoniconvertens_WP_281668053.1, Enteroscipio_BAK45415.1, isoflavoniconvertens_WP_281667884.1, isoflavoniconvertens_WP_281668113.1, equolifaciens_RNL42172.1	Enteroscipio_BAK44774.1, isoflavoniconvertens_WP_123218996.1, equolifaciens_RNL39072.1, Enteroscipio_BAK43835.1, Enteroscipio_BAK43443.1
+OG0000011	N1	n5	0.6666666666666666	Non-Terminal	equolifaciens_RNL42056.1, isoflavoniconvertens_WP_281668053.1, Enteroscipio_BAK45415.1	isoflavoniconvertens_WP_281667884.1, isoflavoniconvertens_WP_281668113.1, equolifaciens_RNL42172.1
+OG0000011	N2	n8	0.5	Non-Terminal	isoflavoniconvertens_WP_281667884.1	isoflavoniconvertens_WP_281668113.1, equolifaciens_RNL42172.1
+OG0000011	N1	n10	0.3333333333333333	Non-Terminal	Enteroscipio_BAK44774.1	isoflavoniconvertens_WP_123218996.1, equolifaciens_RNL39072.1, Enteroscipio_BAK43835.1, Enteroscipio_BAK43443.1
+OG0000011	Enteroscipio	n13	1.0	Terminal	Enteroscipio_BAK43835.1	Enteroscipio_BAK43443.1
+OG0000012	isoflavoniconvertens	n1	1.0	Terminal	isoflavoniconvertens_WP_281669034.1	isoflavoniconvertens_WP_281668795.1, isoflavoniconvertens_WP_281668511.1, isoflavoniconvertens_WP_281668187.1, isoflavoniconvertens_WP_281669130.1, isoflavoniconvertens_WP_281668624.1, isoflavoniconvertens_WP_281668293.1, isoflavoniconvertens_WP_281668767.1, isoflavoniconvertens_WP_281668555.1, isoflavoniconvertens_WP_281668349.1, isoflavoniconvertens_WP_281668306.1, isoflavoniconvertens_WP_281668508.1, isoflavoniconvertens_WP_281669068.1, isoflavoniconvertens_WP_281667819.1
+OG0000012	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668795.1, isoflavoniconvertens_WP_281668511.1, isoflavoniconvertens_WP_281668187.1, isoflavoniconvertens_WP_281669130.1, isoflavoniconvertens_WP_281668624.1, isoflavoniconvertens_WP_281668293.1, isoflavoniconvertens_WP_281668767.1, isoflavoniconvertens_WP_281668555.1, isoflavoniconvertens_WP_281668349.1, isoflavoniconvertens_WP_281668306.1, isoflavoniconvertens_WP_281668508.1, isoflavoniconvertens_WP_281669068.1	isoflavoniconvertens_WP_281667819.1
+OG0000012	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281668795.1, isoflavoniconvertens_WP_281668511.1, isoflavoniconvertens_WP_281668187.1, isoflavoniconvertens_WP_281669130.1, isoflavoniconvertens_WP_281668624.1, isoflavoniconvertens_WP_281668293.1, isoflavoniconvertens_WP_281668767.1, isoflavoniconvertens_WP_281668555.1, isoflavoniconvertens_WP_281668349.1, isoflavoniconvertens_WP_281668306.1, isoflavoniconvertens_WP_281668508.1	isoflavoniconvertens_WP_281669068.1
+OG0000012	isoflavoniconvertens	n4	1.0	Terminal	isoflavoniconvertens_WP_281668795.1, isoflavoniconvertens_WP_281668511.1, isoflavoniconvertens_WP_281668187.1, isoflavoniconvertens_WP_281669130.1, isoflavoniconvertens_WP_281668624.1, isoflavoniconvertens_WP_281668293.1, isoflavoniconvertens_WP_281668767.1	isoflavoniconvertens_WP_281668555.1, isoflavoniconvertens_WP_281668349.1, isoflavoniconvertens_WP_281668306.1, isoflavoniconvertens_WP_281668508.1
+OG0000012	isoflavoniconvertens	n5	1.0	Terminal	isoflavoniconvertens_WP_281668795.1, isoflavoniconvertens_WP_281668511.1, isoflavoniconvertens_WP_281668187.1, isoflavoniconvertens_WP_281669130.1, isoflavoniconvertens_WP_281668624.1	isoflavoniconvertens_WP_281668293.1, isoflavoniconvertens_WP_281668767.1
+OG0000012	isoflavoniconvertens	n6	1.0	Terminal	isoflavoniconvertens_WP_281668795.1, isoflavoniconvertens_WP_281668511.1	isoflavoniconvertens_WP_281668187.1, isoflavoniconvertens_WP_281669130.1, isoflavoniconvertens_WP_281668624.1
+OG0000012	isoflavoniconvertens	n7	1.0	Terminal	isoflavoniconvertens_WP_281668795.1	isoflavoniconvertens_WP_281668511.1
+OG0000012	isoflavoniconvertens	n8	1.0	Terminal	isoflavoniconvertens_WP_281668187.1, isoflavoniconvertens_WP_281669130.1	isoflavoniconvertens_WP_281668624.1
+OG0000012	isoflavoniconvertens	n9	1.0	Terminal	isoflavoniconvertens_WP_281668187.1	isoflavoniconvertens_WP_281669130.1
+OG0000012	isoflavoniconvertens	n10	1.0	Terminal	isoflavoniconvertens_WP_281668293.1	isoflavoniconvertens_WP_281668767.1
+OG0000012	isoflavoniconvertens	n11	1.0	Terminal	isoflavoniconvertens_WP_281668555.1, isoflavoniconvertens_WP_281668349.1	isoflavoniconvertens_WP_281668306.1, isoflavoniconvertens_WP_281668508.1
+OG0000012	isoflavoniconvertens	n12	1.0	Terminal	isoflavoniconvertens_WP_281668555.1	isoflavoniconvertens_WP_281668349.1
+OG0000012	isoflavoniconvertens	n13	1.0	Terminal	isoflavoniconvertens_WP_281668306.1	isoflavoniconvertens_WP_281668508.1
+OG0000013	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK45365.1	Enteroscipio_BAK45720.1, Enteroscipio_BAK44295.1, Enteroscipio_BAK44480.1, Enteroscipio_BAK45322.1, Enteroscipio_BAK43432.1, Enteroscipio_BAK44953.1, Enteroscipio_BAK45363.1, Enteroscipio_BAK45749.1, Enteroscipio_BAK43795.1, Enteroscipio_BAK44988.1, Enteroscipio_BAK43900.1, Enteroscipio_BAK44015.1, Enteroscipio_BAK44867.1
+OG0000013	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45720.1, Enteroscipio_BAK44295.1, Enteroscipio_BAK44480.1, Enteroscipio_BAK45322.1	Enteroscipio_BAK43432.1, Enteroscipio_BAK44953.1, Enteroscipio_BAK45363.1, Enteroscipio_BAK45749.1, Enteroscipio_BAK43795.1, Enteroscipio_BAK44988.1, Enteroscipio_BAK43900.1, Enteroscipio_BAK44015.1, Enteroscipio_BAK44867.1
+OG0000013	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45720.1, Enteroscipio_BAK44295.1, Enteroscipio_BAK44480.1	Enteroscipio_BAK45322.1
+OG0000013	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45720.1	Enteroscipio_BAK44295.1, Enteroscipio_BAK44480.1
+OG0000013	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44295.1	Enteroscipio_BAK44480.1
+OG0000013	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK43432.1, Enteroscipio_BAK44953.1	Enteroscipio_BAK45363.1, Enteroscipio_BAK45749.1, Enteroscipio_BAK43795.1, Enteroscipio_BAK44988.1, Enteroscipio_BAK43900.1, Enteroscipio_BAK44015.1, Enteroscipio_BAK44867.1
+OG0000013	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK43432.1	Enteroscipio_BAK44953.1
+OG0000013	Enteroscipio	n7	1.0	Terminal	Enteroscipio_BAK45363.1	Enteroscipio_BAK45749.1, Enteroscipio_BAK43795.1, Enteroscipio_BAK44988.1, Enteroscipio_BAK43900.1, Enteroscipio_BAK44015.1, Enteroscipio_BAK44867.1
+OG0000013	Enteroscipio	n8	1.0	Terminal	Enteroscipio_BAK45749.1	Enteroscipio_BAK43795.1, Enteroscipio_BAK44988.1, Enteroscipio_BAK43900.1, Enteroscipio_BAK44015.1, Enteroscipio_BAK44867.1
+OG0000013	Enteroscipio	n9	1.0	Terminal	Enteroscipio_BAK43795.1	Enteroscipio_BAK44988.1, Enteroscipio_BAK43900.1, Enteroscipio_BAK44015.1, Enteroscipio_BAK44867.1
+OG0000013	Enteroscipio	n10	1.0	Terminal	Enteroscipio_BAK44988.1, Enteroscipio_BAK43900.1	Enteroscipio_BAK44015.1, Enteroscipio_BAK44867.1
+OG0000013	Enteroscipio	n11	1.0	Terminal	Enteroscipio_BAK44988.1	Enteroscipio_BAK43900.1
+OG0000013	Enteroscipio	n12	1.0	Terminal	Enteroscipio_BAK44015.1	Enteroscipio_BAK44867.1
+OG0000014	N0	n0	1.0	Non-Terminal	equolifaciens_RNL38031.1, isoflavoniconvertens_WP_281668639.1, Enteroscipio_BAK43611.1, Lactococcus_QPR48650.1	Enteroscipio_BAK43476.1, Lactococcus_QPR48734.1, isoflavoniconvertens_WP_281668887.1, Lactococcus_QPR48963.1, Lactococcus_QPR48809.1, Enteroscipio_BAK43820.1, equolifaciens_RNL40338.1, Enteroscipio_BAK43558.1, equolifaciens_RNL40515.1, isoflavoniconvertens_WP_281667804.1
+OG0000014	N0	n4	0.75	Non-Terminal	Enteroscipio_BAK43476.1, Lactococcus_QPR48734.1, isoflavoniconvertens_WP_281668887.1	Lactococcus_QPR48963.1, Lactococcus_QPR48809.1, Enteroscipio_BAK43820.1, equolifaciens_RNL40338.1, Enteroscipio_BAK43558.1, equolifaciens_RNL40515.1, isoflavoniconvertens_WP_281667804.1
+OG0000014	Lactococcus	n8	1.0	Terminal	Lactococcus_QPR48963.1	Lactococcus_QPR48809.1
+OG0000014	N1	n9	0.6666666666666666	Non-Terminal	Enteroscipio_BAK43820.1, equolifaciens_RNL40338.1	Enteroscipio_BAK43558.1, equolifaciens_RNL40515.1, isoflavoniconvertens_WP_281667804.1
+OG0000015	N2	n0	1.0	Non-Terminal	isoflavoniconvertens_WP_281668352.1, equolifaciens_RNL40807.1	equolifaciens_RNL42140.1, isoflavoniconvertens_WP_281668048.1, isoflavoniconvertens_WP_281667887.1, equolifaciens_RNL37784.1, equolifaciens_RNL39900.1, equolifaciens_RNL42169.1, equolifaciens_RNL40580.1, equolifaciens_RNL40583.1, isoflavoniconvertens_WP_123218641.1, equolifaciens_RNL41939.1, equolifaciens_RNL40820.1, equolifaciens_RNL40470.1
+OG0000015	N2	n2	0.5	Non-Terminal	equolifaciens_RNL42140.1	isoflavoniconvertens_WP_281668048.1, isoflavoniconvertens_WP_281667887.1, equolifaciens_RNL37784.1, equolifaciens_RNL39900.1, equolifaciens_RNL42169.1, equolifaciens_RNL40580.1, equolifaciens_RNL40583.1, isoflavoniconvertens_WP_123218641.1, equolifaciens_RNL41939.1, equolifaciens_RNL40820.1, equolifaciens_RNL40470.1
+OG0000015	N2	n3	1.0	Non-Terminal	isoflavoniconvertens_WP_281668048.1, isoflavoniconvertens_WP_281667887.1, equolifaciens_RNL37784.1, equolifaciens_RNL39900.1, equolifaciens_RNL42169.1, equolifaciens_RNL40580.1, equolifaciens_RNL40583.1	isoflavoniconvertens_WP_123218641.1, equolifaciens_RNL41939.1, equolifaciens_RNL40820.1, equolifaciens_RNL40470.1
+OG0000015	isoflavoniconvertens	n5	1.0	Terminal	isoflavoniconvertens_WP_281668048.1	isoflavoniconvertens_WP_281667887.1
+OG0000015	equolifaciens	n6	1.0	Terminal	equolifaciens_RNL37784.1	equolifaciens_RNL39900.1, equolifaciens_RNL42169.1, equolifaciens_RNL40580.1, equolifaciens_RNL40583.1
+OG0000015	equolifaciens	n7	1.0	Terminal	equolifaciens_RNL39900.1, equolifaciens_RNL42169.1	equolifaciens_RNL40580.1, equolifaciens_RNL40583.1
+OG0000015	equolifaciens	n8	1.0	Terminal	equolifaciens_RNL39900.1	equolifaciens_RNL42169.1
+OG0000015	equolifaciens	n9	1.0	Terminal	equolifaciens_RNL40580.1	equolifaciens_RNL40583.1
+OG0000015	equolifaciens	n11	1.0	Terminal	equolifaciens_RNL41939.1	equolifaciens_RNL40820.1, equolifaciens_RNL40470.1
+OG0000015	equolifaciens	n12	1.0	Terminal	equolifaciens_RNL40820.1	equolifaciens_RNL40470.1
+OG0000016	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44924.1	Enteroscipio_BAK43964.1, Enteroscipio_BAK43490.1, Enteroscipio_BAK45890.1, Enteroscipio_BAK43313.1, Enteroscipio_BAK45732.1, Enteroscipio_BAK44497.1, Enteroscipio_BAK44504.1, Enteroscipio_BAK43883.1, Enteroscipio_BAK45734.1, Enteroscipio_BAK43552.1
+OG0000016	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43964.1	Enteroscipio_BAK43490.1, Enteroscipio_BAK45890.1, Enteroscipio_BAK43313.1, Enteroscipio_BAK45732.1, Enteroscipio_BAK44497.1, Enteroscipio_BAK44504.1, Enteroscipio_BAK43883.1, Enteroscipio_BAK45734.1, Enteroscipio_BAK43552.1
+OG0000016	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK43490.1	Enteroscipio_BAK45890.1, Enteroscipio_BAK43313.1, Enteroscipio_BAK45732.1, Enteroscipio_BAK44497.1, Enteroscipio_BAK44504.1, Enteroscipio_BAK43883.1, Enteroscipio_BAK45734.1, Enteroscipio_BAK43552.1
+OG0000016	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK45890.1, Enteroscipio_BAK43313.1	Enteroscipio_BAK45732.1, Enteroscipio_BAK44497.1, Enteroscipio_BAK44504.1, Enteroscipio_BAK43883.1, Enteroscipio_BAK45734.1, Enteroscipio_BAK43552.1
+OG0000016	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK45890.1	Enteroscipio_BAK43313.1
+OG0000016	Enteroscipio	n7	1.0	Terminal	Enteroscipio_BAK45732.1, Enteroscipio_BAK44497.1, Enteroscipio_BAK44504.1	Enteroscipio_BAK43883.1, Enteroscipio_BAK45734.1, Enteroscipio_BAK43552.1
+OG0000016	Enteroscipio	n8	1.0	Terminal	Enteroscipio_BAK45732.1	Enteroscipio_BAK44497.1, Enteroscipio_BAK44504.1
+OG0000016	Enteroscipio	n9	1.0	Terminal	Enteroscipio_BAK44497.1	Enteroscipio_BAK44504.1
+OG0000016	Enteroscipio	n10	1.0	Terminal	Enteroscipio_BAK43883.1, Enteroscipio_BAK45734.1	Enteroscipio_BAK43552.1
+OG0000016	Enteroscipio	n11	1.0	Terminal	Enteroscipio_BAK43883.1	Enteroscipio_BAK45734.1
+OG0000017	N0	n0	0.5	Non-Terminal	Enteroscipio_BAK43817.1, Lactococcus_QPR48446.1, Lactococcus_QPR49670.1	Lactococcus_QPR48793.1, equolifaciens_RNL40654.1, isoflavoniconvertens_WP_281669060.1, Enteroscipio_BAK45018.1, Enteroscipio_BAK44815.1, Enteroscipio_BAK45283.1, Enteroscipio_BAK43472.1, Lactococcus_QPR49510.1, Lactococcus_QPR49459.1, Lactococcus_QPR49782.1
+OG0000017	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48446.1	Lactococcus_QPR49670.1
+OG0000017	N0	n3	0.5	Non-Terminal	Lactococcus_QPR48793.1, equolifaciens_RNL40654.1, isoflavoniconvertens_WP_281669060.1, Enteroscipio_BAK45018.1, Enteroscipio_BAK44815.1	Enteroscipio_BAK45283.1, Enteroscipio_BAK43472.1, Lactococcus_QPR49510.1, Lactococcus_QPR49459.1, Lactococcus_QPR49782.1
+OG0000017	Enteroscipio	n7	1.0	Terminal	Enteroscipio_BAK45018.1	Enteroscipio_BAK44815.1
+OG0000017	Enteroscipio	n9	1.0	Terminal	Enteroscipio_BAK45283.1	Enteroscipio_BAK43472.1
+OG0000017	Lactococcus	n10	1.0	Terminal	Lactococcus_QPR49510.1, Lactococcus_QPR49459.1	Lactococcus_QPR49782.1
+OG0000017	Lactococcus	n11	1.0	Terminal	Lactococcus_QPR49510.1	Lactococcus_QPR49459.1
+OG0000018	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43587.1, Enteroscipio_BAK44949.1, Enteroscipio_BAK45357.1, Enteroscipio_BAK43571.1, Enteroscipio_BAK45094.1, Enteroscipio_BAK43748.1, Enteroscipio_BAK45811.1, Enteroscipio_BAK44990.1, Enteroscipio_BAK45812.1	Enteroscipio_BAK43955.1, Enteroscipio_BAK43526.1
+OG0000018	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43587.1, Enteroscipio_BAK44949.1, Enteroscipio_BAK45357.1, Enteroscipio_BAK43571.1, Enteroscipio_BAK45094.1, Enteroscipio_BAK43748.1, Enteroscipio_BAK45811.1, Enteroscipio_BAK44990.1	Enteroscipio_BAK45812.1
+OG0000018	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK43587.1, Enteroscipio_BAK44949.1, Enteroscipio_BAK45357.1, Enteroscipio_BAK43571.1, Enteroscipio_BAK45094.1, Enteroscipio_BAK43748.1	Enteroscipio_BAK45811.1, Enteroscipio_BAK44990.1
+OG0000018	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK43587.1, Enteroscipio_BAK44949.1, Enteroscipio_BAK45357.1, Enteroscipio_BAK43571.1, Enteroscipio_BAK45094.1	Enteroscipio_BAK43748.1
+OG0000018	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK43587.1, Enteroscipio_BAK44949.1	Enteroscipio_BAK45357.1, Enteroscipio_BAK43571.1, Enteroscipio_BAK45094.1
+OG0000018	Enteroscipio	n7	1.0	Terminal	Enteroscipio_BAK43587.1	Enteroscipio_BAK44949.1
+OG0000018	Enteroscipio	n8	1.0	Terminal	Enteroscipio_BAK45357.1, Enteroscipio_BAK43571.1	Enteroscipio_BAK45094.1
+OG0000018	Enteroscipio	n9	1.0	Terminal	Enteroscipio_BAK45357.1	Enteroscipio_BAK43571.1
+OG0000018	Enteroscipio	n10	1.0	Terminal	Enteroscipio_BAK45811.1	Enteroscipio_BAK44990.1
+OG0000018	Enteroscipio	n11	1.0	Terminal	Enteroscipio_BAK43955.1	Enteroscipio_BAK43526.1
+OG0000019	N1	n1	1.0	Non-Terminal	isoflavoniconvertens_WP_281668662.1, equolifaciens_RNL39849.1, Enteroscipio_BAK44227.1	Enteroscipio_BAK45815.1, isoflavoniconvertens_WP_281668712.1, equolifaciens_RNL40288.1, equolifaciens_RNL40287.1, isoflavoniconvertens_WP_281668713.1, equolifaciens_RNL37321.1, Enteroscipio_BAK44804.1, Enteroscipio_BAK45874.1, Enteroscipio_BAK43902.1
+OG0000019	N1	n4	0.6666666666666666	Non-Terminal	Enteroscipio_BAK45815.1, isoflavoniconvertens_WP_281668712.1, equolifaciens_RNL40288.1, equolifaciens_RNL40287.1, isoflavoniconvertens_WP_281668713.1	equolifaciens_RNL37321.1, Enteroscipio_BAK44804.1, Enteroscipio_BAK45874.1, Enteroscipio_BAK43902.1
+OG0000019	N2	n6	1.0	Non-Terminal	isoflavoniconvertens_WP_281668712.1, equolifaciens_RNL40288.1	equolifaciens_RNL40287.1, isoflavoniconvertens_WP_281668713.1
+OG0000019	Enteroscipio	n10	1.0	Terminal	Enteroscipio_BAK44804.1, Enteroscipio_BAK45874.1	Enteroscipio_BAK43902.1
+OG0000019	Enteroscipio	n11	1.0	Terminal	Enteroscipio_BAK44804.1	Enteroscipio_BAK45874.1
+OG0000020	N1	n1	0.3333333333333333	Non-Terminal	equolifaciens_RNL37561.1	equolifaciens_RNL40651.1, equolifaciens_RNL38576.1, equolifaciens_RNL40490.1, equolifaciens_RNL39566.1, isoflavoniconvertens_WP_281668341.1, isoflavoniconvertens_WP_281668254.1, Enteroscipio_BAK44195.1, equolifaciens_RNL40578.1, equolifaciens_RNL40501.1, equolifaciens_RNL38589.1, Enteroscipio_BAK45236.1
+OG0000020	N1	n2	0.6666666666666666	Non-Terminal	equolifaciens_RNL40651.1, equolifaciens_RNL38576.1, equolifaciens_RNL40490.1, equolifaciens_RNL39566.1, isoflavoniconvertens_WP_281668341.1, isoflavoniconvertens_WP_281668254.1, Enteroscipio_BAK44195.1, equolifaciens_RNL40578.1, equolifaciens_RNL40501.1	equolifaciens_RNL38589.1, Enteroscipio_BAK45236.1
+OG0000020	N1	n3	0.3333333333333333	Non-Terminal	equolifaciens_RNL40651.1	equolifaciens_RNL38576.1, equolifaciens_RNL40490.1, equolifaciens_RNL39566.1, isoflavoniconvertens_WP_281668341.1, isoflavoniconvertens_WP_281668254.1, Enteroscipio_BAK44195.1, equolifaciens_RNL40578.1, equolifaciens_RNL40501.1
+OG0000020	N1	n4	0.3333333333333333	Non-Terminal	equolifaciens_RNL38576.1	equolifaciens_RNL40490.1, equolifaciens_RNL39566.1, isoflavoniconvertens_WP_281668341.1, isoflavoniconvertens_WP_281668254.1, Enteroscipio_BAK44195.1, equolifaciens_RNL40578.1, equolifaciens_RNL40501.1
+OG0000020	N1	n5	0.3333333333333333	Non-Terminal	equolifaciens_RNL40490.1	equolifaciens_RNL39566.1, isoflavoniconvertens_WP_281668341.1, isoflavoniconvertens_WP_281668254.1, Enteroscipio_BAK44195.1, equolifaciens_RNL40578.1, equolifaciens_RNL40501.1
+OG0000020	N1	n6	0.6666666666666666	Non-Terminal	equolifaciens_RNL39566.1, isoflavoniconvertens_WP_281668341.1	isoflavoniconvertens_WP_281668254.1, Enteroscipio_BAK44195.1, equolifaciens_RNL40578.1, equolifaciens_RNL40501.1
+OG0000020	equolifaciens	n10	1.0	Terminal	equolifaciens_RNL40578.1	equolifaciens_RNL40501.1
+OG0000021	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49684.1	Lactococcus_QPR49835.1, Lactococcus_QPR48076.1, Lactococcus_QPR48286.1, Lactococcus_QPR49373.1, Lactococcus_QPR49811.1, Lactococcus_QPR48473.1, Lactococcus_QPR49088.1, Lactococcus_QPR48771.1, Lactococcus_QPR49284.1, Lactococcus_QPR48136.1
+OG0000021	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49835.1	Lactococcus_QPR48076.1, Lactococcus_QPR48286.1, Lactococcus_QPR49373.1, Lactococcus_QPR49811.1, Lactococcus_QPR48473.1, Lactococcus_QPR49088.1, Lactococcus_QPR48771.1, Lactococcus_QPR49284.1, Lactococcus_QPR48136.1
+OG0000021	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48076.1	Lactococcus_QPR48286.1, Lactococcus_QPR49373.1, Lactococcus_QPR49811.1, Lactococcus_QPR48473.1, Lactococcus_QPR49088.1, Lactococcus_QPR48771.1, Lactococcus_QPR49284.1, Lactococcus_QPR48136.1
+OG0000021	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR48286.1	Lactococcus_QPR49373.1, Lactococcus_QPR49811.1, Lactococcus_QPR48473.1, Lactococcus_QPR49088.1, Lactococcus_QPR48771.1, Lactococcus_QPR49284.1, Lactococcus_QPR48136.1
+OG0000021	Lactococcus	n5	1.0	Terminal	Lactococcus_QPR49373.1	Lactococcus_QPR49811.1, Lactococcus_QPR48473.1, Lactococcus_QPR49088.1, Lactococcus_QPR48771.1, Lactococcus_QPR49284.1, Lactococcus_QPR48136.1
+OG0000021	Lactococcus	n6	1.0	Terminal	Lactococcus_QPR49811.1	Lactococcus_QPR48473.1, Lactococcus_QPR49088.1, Lactococcus_QPR48771.1, Lactococcus_QPR49284.1, Lactococcus_QPR48136.1
+OG0000021	Lactococcus	n7	1.0	Terminal	Lactococcus_QPR48473.1	Lactococcus_QPR49088.1, Lactococcus_QPR48771.1, Lactococcus_QPR49284.1, Lactococcus_QPR48136.1
+OG0000021	Lactococcus	n8	1.0	Terminal	Lactococcus_QPR49088.1	Lactococcus_QPR48771.1, Lactococcus_QPR49284.1, Lactococcus_QPR48136.1
+OG0000021	Lactococcus	n9	1.0	Terminal	Lactococcus_QPR48771.1	Lactococcus_QPR49284.1, Lactococcus_QPR48136.1
+OG0000021	Lactococcus	n10	1.0	Terminal	Lactococcus_QPR49284.1	Lactococcus_QPR48136.1
+OG0000022	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44688.1, Enteroscipio_BAK44874.1, Enteroscipio_BAK43728.1, Enteroscipio_BAK45887.1, Enteroscipio_BAK43319.1, Enteroscipio_BAK44689.1, Enteroscipio_BAK43729.1, Enteroscipio_BAK44734.1, Enteroscipio_BAK43733.1, Enteroscipio_BAK43318.1	Enteroscipio_BAK45888.1
+OG0000022	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44688.1, Enteroscipio_BAK44874.1, Enteroscipio_BAK43728.1, Enteroscipio_BAK45887.1, Enteroscipio_BAK43319.1, Enteroscipio_BAK44689.1, Enteroscipio_BAK43729.1	Enteroscipio_BAK44734.1, Enteroscipio_BAK43733.1, Enteroscipio_BAK43318.1
+OG0000022	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44688.1, Enteroscipio_BAK44874.1, Enteroscipio_BAK43728.1, Enteroscipio_BAK45887.1, Enteroscipio_BAK43319.1	Enteroscipio_BAK44689.1, Enteroscipio_BAK43729.1
+OG0000022	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44688.1, Enteroscipio_BAK44874.1, Enteroscipio_BAK43728.1	Enteroscipio_BAK45887.1, Enteroscipio_BAK43319.1
+OG0000022	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK44688.1	Enteroscipio_BAK44874.1, Enteroscipio_BAK43728.1
+OG0000022	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK44874.1	Enteroscipio_BAK43728.1
+OG0000022	Enteroscipio	n7	1.0	Terminal	Enteroscipio_BAK45887.1	Enteroscipio_BAK43319.1
+OG0000022	Enteroscipio	n8	1.0	Terminal	Enteroscipio_BAK44689.1	Enteroscipio_BAK43729.1
+OG0000022	Enteroscipio	n9	1.0	Terminal	Enteroscipio_BAK44734.1, Enteroscipio_BAK43733.1	Enteroscipio_BAK43318.1
+OG0000022	Enteroscipio	n10	1.0	Terminal	Enteroscipio_BAK44734.1	Enteroscipio_BAK43733.1
+OG0000023	N1	n1	0.3333333333333333	Non-Terminal	Enteroscipio_BAK43425.1, Enteroscipio_BAK44955.1, Enteroscipio_BAK44965.1	equolifaciens_RNL38392.1, Enteroscipio_BAK44653.1, Enteroscipio_BAK43694.1, Enteroscipio_BAK43662.1, isoflavoniconvertens_WP_281668451.1, Enteroscipio_BAK43730.1, Enteroscipio_BAK43464.1, Enteroscipio_BAK43469.1
+OG0000023	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43425.1	Enteroscipio_BAK44955.1, Enteroscipio_BAK44965.1
+OG0000023	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44955.1	Enteroscipio_BAK44965.1
+OG0000023	N1	n4	0.3333333333333333	Non-Terminal	equolifaciens_RNL38392.1, Enteroscipio_BAK44653.1, Enteroscipio_BAK43694.1, Enteroscipio_BAK43662.1	isoflavoniconvertens_WP_281668451.1, Enteroscipio_BAK43730.1, Enteroscipio_BAK43464.1, Enteroscipio_BAK43469.1
+OG0000023	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK44653.1, Enteroscipio_BAK43694.1	Enteroscipio_BAK43662.1
+OG0000023	Enteroscipio	n7	1.0	Terminal	Enteroscipio_BAK44653.1	Enteroscipio_BAK43694.1
+OG0000023	Enteroscipio	n9	1.0	Terminal	Enteroscipio_BAK43730.1, Enteroscipio_BAK43464.1	Enteroscipio_BAK43469.1
+OG0000023	Enteroscipio	n10	1.0	Terminal	Enteroscipio_BAK43730.1	Enteroscipio_BAK43464.1
+OG0000024	N1	n0	1.0	Non-Terminal	isoflavoniconvertens_WP_281668112.1, isoflavoniconvertens_WP_114615875.1, isoflavoniconvertens_WP_281667885.1, equolifaciens_RNL41524.1, Enteroscipio_BAK44775.1, Enteroscipio_BAK43799.1, Enteroscipio_BAK44488.1, Enteroscipio_BAK43898.1	Enteroscipio_BAK45414.1, equolifaciens_RNL42055.1, isoflavoniconvertens_WP_281668052.1, equolifaciens_RNL42171.1
+OG0000024	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668112.1	isoflavoniconvertens_WP_114615875.1, isoflavoniconvertens_WP_281667885.1
+OG0000024	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_114615875.1	isoflavoniconvertens_WP_281667885.1
+OG0000024	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK44775.1	Enteroscipio_BAK43799.1, Enteroscipio_BAK44488.1, Enteroscipio_BAK43898.1
+OG0000024	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK43799.1	Enteroscipio_BAK44488.1, Enteroscipio_BAK43898.1
+OG0000024	Enteroscipio	n7	1.0	Terminal	Enteroscipio_BAK44488.1	Enteroscipio_BAK43898.1
+OG0000024	N1	n8	0.3333333333333333	Non-Terminal	Enteroscipio_BAK45414.1, equolifaciens_RNL42055.1, isoflavoniconvertens_WP_281668052.1	equolifaciens_RNL42171.1
+OG0000025	N1	n1	0.6666666666666666	Non-Terminal	equolifaciens_RNL41014.1, isoflavoniconvertens_WP_281668466.1	isoflavoniconvertens_WP_114615186.1, equolifaciens_RNL37592.1, equolifaciens_RNL41977.1, equolifaciens_RNL37230.1, equolifaciens_RNL42028.1, Enteroscipio_BAK45025.1, Enteroscipio_BAK44040.1, Enteroscipio_BAK44912.1, isoflavoniconvertens_WP_281668277.1
+OG0000025	N1	n3	0.6666666666666666	Non-Terminal	isoflavoniconvertens_WP_114615186.1, equolifaciens_RNL37592.1, equolifaciens_RNL41977.1, equolifaciens_RNL37230.1, equolifaciens_RNL42028.1, Enteroscipio_BAK45025.1, Enteroscipio_BAK44040.1	Enteroscipio_BAK44912.1, isoflavoniconvertens_WP_281668277.1
+OG0000025	equolifaciens	n6	1.0	Terminal	equolifaciens_RNL37592.1, equolifaciens_RNL41977.1, equolifaciens_RNL37230.1	equolifaciens_RNL42028.1
+OG0000025	equolifaciens	n7	1.0	Terminal	equolifaciens_RNL37592.1	equolifaciens_RNL41977.1, equolifaciens_RNL37230.1
+OG0000025	equolifaciens	n8	1.0	Terminal	equolifaciens_RNL41977.1	equolifaciens_RNL37230.1
+OG0000025	Enteroscipio	n9	1.0	Terminal	Enteroscipio_BAK45025.1	Enteroscipio_BAK44040.1
+OG0000026	N1	n1	0.6666666666666666	Non-Terminal	equolifaciens_RNL39469.1, Enteroscipio_BAK44368.1, isoflavoniconvertens_WP_281668383.1, Enteroscipio_BAK44625.1, Enteroscipio_BAK44314.1, isoflavoniconvertens_WP_281668385.1, Enteroscipio_BAK44208.1, Enteroscipio_BAK44202.1, equolifaciens_RNL37586.1	equolifaciens_RNL38400.1, isoflavoniconvertens_WP_281668487.1
+OG0000026	N1	n2	0.6666666666666666	Non-Terminal	equolifaciens_RNL39469.1, Enteroscipio_BAK44368.1, isoflavoniconvertens_WP_281668383.1, Enteroscipio_BAK44625.1, Enteroscipio_BAK44314.1, isoflavoniconvertens_WP_281668385.1	Enteroscipio_BAK44208.1, Enteroscipio_BAK44202.1, equolifaciens_RNL37586.1
+OG0000026	N1	n4	0.3333333333333333	Non-Terminal	Enteroscipio_BAK44368.1	isoflavoniconvertens_WP_281668383.1, Enteroscipio_BAK44625.1, Enteroscipio_BAK44314.1, isoflavoniconvertens_WP_281668385.1
+OG0000026	N1	n5	0.6666666666666666	Non-Terminal	isoflavoniconvertens_WP_281668383.1, Enteroscipio_BAK44625.1	Enteroscipio_BAK44314.1, isoflavoniconvertens_WP_281668385.1
+OG0000026	Enteroscipio	n9	1.0	Terminal	Enteroscipio_BAK44208.1	Enteroscipio_BAK44202.1
+OG0000027	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49344.1, Lactococcus_QPR48405.1	Lactococcus_QPR49767.1, Lactococcus_QPR49762.1, Lactococcus_QPR49522.1, Lactococcus_QPR48544.1, Lactococcus_QPR49414.1, Lactococcus_QPR49935.1, Lactococcus_QPR48644.1, Lactococcus_QPR48942.1, Lactococcus_QPR48768.1
+OG0000027	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49344.1	Lactococcus_QPR48405.1
+OG0000027	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49767.1, Lactococcus_QPR49762.1, Lactococcus_QPR49522.1, Lactococcus_QPR48544.1	Lactococcus_QPR49414.1, Lactococcus_QPR49935.1, Lactococcus_QPR48644.1, Lactococcus_QPR48942.1, Lactococcus_QPR48768.1
+OG0000027	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR49767.1, Lactococcus_QPR49762.1, Lactococcus_QPR49522.1	Lactococcus_QPR48544.1
+OG0000027	Lactococcus	n5	1.0	Terminal	Lactococcus_QPR49767.1	Lactococcus_QPR49762.1, Lactococcus_QPR49522.1
+OG0000027	Lactococcus	n6	1.0	Terminal	Lactococcus_QPR49762.1	Lactococcus_QPR49522.1
+OG0000027	Lactococcus	n7	1.0	Terminal	Lactococcus_QPR49414.1	Lactococcus_QPR49935.1, Lactococcus_QPR48644.1, Lactococcus_QPR48942.1, Lactococcus_QPR48768.1
+OG0000027	Lactococcus	n8	1.0	Terminal	Lactococcus_QPR49935.1	Lactococcus_QPR48644.1, Lactococcus_QPR48942.1, Lactococcus_QPR48768.1
+OG0000027	Lactococcus	n9	1.0	Terminal	Lactococcus_QPR48644.1	Lactococcus_QPR48942.1, Lactococcus_QPR48768.1
+OG0000027	Lactococcus	n10	1.0	Terminal	Lactococcus_QPR48942.1	Lactococcus_QPR48768.1
+OG0000028	N0	n0	0.75	Non-Terminal	Lactococcus_QPR49140.1, Enteroscipio_BAK44105.1, isoflavoniconvertens_WP_281668140.1	Enteroscipio_BAK44101.1, Lactococcus_QPR49146.1, Lactococcus_QPR49149.1, Enteroscipio_BAK44089.1, isoflavoniconvertens_WP_281668131.1, isoflavoniconvertens_WP_281668134.1, isoflavoniconvertens_WP_281668130.1, isoflavoniconvertens_WP_281668135.1
+OG0000028	N0	n3	0.25	Non-Terminal	Enteroscipio_BAK44101.1	Lactococcus_QPR49146.1, Lactococcus_QPR49149.1, Enteroscipio_BAK44089.1, isoflavoniconvertens_WP_281668131.1, isoflavoniconvertens_WP_281668134.1, isoflavoniconvertens_WP_281668130.1, isoflavoniconvertens_WP_281668135.1
+OG0000028	Lactococcus	n5	1.0	Terminal	Lactococcus_QPR49146.1	Lactococcus_QPR49149.1
+OG0000028	isoflavoniconvertens	n7	1.0	Terminal	isoflavoniconvertens_WP_281668131.1, isoflavoniconvertens_WP_281668134.1	isoflavoniconvertens_WP_281668130.1, isoflavoniconvertens_WP_281668135.1
+OG0000028	isoflavoniconvertens	n8	1.0	Terminal	isoflavoniconvertens_WP_281668131.1	isoflavoniconvertens_WP_281668134.1
+OG0000028	isoflavoniconvertens	n9	1.0	Terminal	isoflavoniconvertens_WP_281668130.1	isoflavoniconvertens_WP_281668135.1
+OG0000029	N0	n0	0.75	Non-Terminal	Lactococcus_QPR49581.1, Enteroscipio_BAK44950.1, Enteroscipio_BAK44607.1, isoflavoniconvertens_WP_114615916.1	isoflavoniconvertens_WP_281668440.1, equolifaciens_RNL39506.1, equolifaciens_RNL38854.1, Lactococcus_QPR49066.1, Enteroscipio_BAK45932.1, Enteroscipio_BAK45186.1, Enteroscipio_BAK45402.1
+OG0000029	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44950.1	Enteroscipio_BAK44607.1
+OG0000029	equolifaciens	n6	1.0	Terminal	equolifaciens_RNL39506.1	equolifaciens_RNL38854.1
+OG0000029	Enteroscipio	n8	1.0	Terminal	Enteroscipio_BAK45932.1, Enteroscipio_BAK45186.1	Enteroscipio_BAK45402.1
+OG0000029	Enteroscipio	n9	1.0	Terminal	Enteroscipio_BAK45932.1	Enteroscipio_BAK45186.1
+OG0000030	N1	n1	0.6666666666666666	Non-Terminal	isoflavoniconvertens_WP_281668397.1, equolifaciens_RNL38240.1, Enteroscipio_BAK45354.1	Enteroscipio_BAK45837.1, equolifaciens_RNL39895.1
+OG0000030	Lactococcus	n5	1.0	Terminal	Lactococcus_QPR48951.1	Lactococcus_QPR48228.1, Lactococcus_QPR48227.1, Lactococcus_QPR49788.1, Lactococcus_QPR48706.1, Lactococcus_QPR48200.1
+OG0000030	Lactococcus	n6	1.0	Terminal	Lactococcus_QPR48228.1, Lactococcus_QPR48227.1, Lactococcus_QPR49788.1	Lactococcus_QPR48706.1, Lactococcus_QPR48200.1
+OG0000030	Lactococcus	n7	1.0	Terminal	Lactococcus_QPR48228.1, Lactococcus_QPR48227.1	Lactococcus_QPR49788.1
+OG0000030	Lactococcus	n8	1.0	Terminal	Lactococcus_QPR48228.1	Lactococcus_QPR48227.1
+OG0000030	Lactococcus	n9	1.0	Terminal	Lactococcus_QPR48706.1	Lactococcus_QPR48200.1
+OG0000031	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR48217.1	Lactococcus_QPR48285.1, Lactococcus_QPR49341.1, Lactococcus_QPR49132.1, Lactococcus_QPR48068.1, Lactococcus_QPR49909.1, Lactococcus_QPR49934.1, Lactococcus_QPR48255.1, Lactococcus_QPR49585.1, Lactococcus_QPR49290.1, Lactococcus_QPR48035.1
+OG0000031	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48285.1, Lactococcus_QPR49341.1, Lactococcus_QPR49132.1	Lactococcus_QPR48068.1, Lactococcus_QPR49909.1, Lactococcus_QPR49934.1, Lactococcus_QPR48255.1, Lactococcus_QPR49585.1, Lactococcus_QPR49290.1, Lactococcus_QPR48035.1
+OG0000031	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48285.1	Lactococcus_QPR49341.1, Lactococcus_QPR49132.1
+OG0000031	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49341.1	Lactococcus_QPR49132.1
+OG0000031	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR48068.1	Lactococcus_QPR49909.1, Lactococcus_QPR49934.1, Lactococcus_QPR48255.1, Lactococcus_QPR49585.1, Lactococcus_QPR49290.1, Lactococcus_QPR48035.1
+OG0000031	Lactococcus	n5	1.0	Terminal	Lactococcus_QPR49909.1, Lactococcus_QPR49934.1, Lactococcus_QPR48255.1, Lactococcus_QPR49585.1	Lactococcus_QPR49290.1, Lactococcus_QPR48035.1
+OG0000031	Lactococcus	n6	1.0	Terminal	Lactococcus_QPR49909.1, Lactococcus_QPR49934.1, Lactococcus_QPR48255.1	Lactococcus_QPR49585.1
+OG0000031	Lactococcus	n7	1.0	Terminal	Lactococcus_QPR49909.1	Lactococcus_QPR49934.1, Lactococcus_QPR48255.1
+OG0000031	Lactococcus	n8	1.0	Terminal	Lactococcus_QPR49934.1	Lactococcus_QPR48255.1
+OG0000031	Lactococcus	n9	1.0	Terminal	Lactococcus_QPR49290.1	Lactococcus_QPR48035.1
+OG0000032	N1	n0	0.6666666666666666	Non-Terminal	Enteroscipio_BAK45350.1, equolifaciens_RNL40508.1	equolifaciens_RNL37983.1, Enteroscipio_BAK45382.1, Enteroscipio_BAK43369.1, Enteroscipio_BAK45871.1, Enteroscipio_BAK43537.1, Enteroscipio_BAK45439.1, Enteroscipio_BAK43664.1, Enteroscipio_BAK44986.1
+OG0000032	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45382.1, Enteroscipio_BAK43369.1, Enteroscipio_BAK45871.1, Enteroscipio_BAK43537.1, Enteroscipio_BAK45439.1	Enteroscipio_BAK43664.1, Enteroscipio_BAK44986.1
+OG0000032	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK45382.1	Enteroscipio_BAK43369.1, Enteroscipio_BAK45871.1, Enteroscipio_BAK43537.1, Enteroscipio_BAK45439.1
+OG0000032	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK43369.1, Enteroscipio_BAK45871.1	Enteroscipio_BAK43537.1, Enteroscipio_BAK45439.1
+OG0000032	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK43369.1	Enteroscipio_BAK45871.1
+OG0000032	Enteroscipio	n7	1.0	Terminal	Enteroscipio_BAK43537.1	Enteroscipio_BAK45439.1
+OG0000032	Enteroscipio	n8	1.0	Terminal	Enteroscipio_BAK43664.1	Enteroscipio_BAK44986.1
+OG0000033	N1	n0	1.0	Non-Terminal	Enteroscipio_BAK43398.1, equolifaciens_RNL40789.1, isoflavoniconvertens_WP_281668233.1	Enteroscipio_BAK45389.1, Enteroscipio_BAK44538.1, isoflavoniconvertens_WP_281669137.1, equolifaciens_RNL38564.1, isoflavoniconvertens_WP_123219395.1, Enteroscipio_BAK44531.1, equolifaciens_RNL38558.1
+OG0000033	N1	n3	0.3333333333333333	Non-Terminal	Enteroscipio_BAK45389.1	Enteroscipio_BAK44538.1, isoflavoniconvertens_WP_281669137.1, equolifaciens_RNL38564.1, isoflavoniconvertens_WP_123219395.1, Enteroscipio_BAK44531.1, equolifaciens_RNL38558.1
+OG0000033	N1	n4	1.0	Non-Terminal	Enteroscipio_BAK44538.1, isoflavoniconvertens_WP_281669137.1, equolifaciens_RNL38564.1	isoflavoniconvertens_WP_123219395.1, Enteroscipio_BAK44531.1, equolifaciens_RNL38558.1
+OG0000034	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK44868.1	Enteroscipio_BAK43794.1, Enteroscipio_BAK43899.1, Enteroscipio_BAK44014.1, Enteroscipio_BAK44987.1, Enteroscipio_BAK44479.1, Enteroscipio_BAK45721.1, Enteroscipio_BAK45750.1, Enteroscipio_BAK43433.1, Enteroscipio_BAK44954.1
+OG0000034	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43794.1	Enteroscipio_BAK43899.1, Enteroscipio_BAK44014.1, Enteroscipio_BAK44987.1, Enteroscipio_BAK44479.1, Enteroscipio_BAK45721.1, Enteroscipio_BAK45750.1, Enteroscipio_BAK43433.1, Enteroscipio_BAK44954.1
+OG0000034	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43899.1, Enteroscipio_BAK44014.1	Enteroscipio_BAK44987.1, Enteroscipio_BAK44479.1, Enteroscipio_BAK45721.1, Enteroscipio_BAK45750.1, Enteroscipio_BAK43433.1, Enteroscipio_BAK44954.1
+OG0000034	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43899.1	Enteroscipio_BAK44014.1
+OG0000034	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44987.1	Enteroscipio_BAK44479.1, Enteroscipio_BAK45721.1, Enteroscipio_BAK45750.1, Enteroscipio_BAK43433.1, Enteroscipio_BAK44954.1
+OG0000034	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK44479.1, Enteroscipio_BAK45721.1	Enteroscipio_BAK45750.1, Enteroscipio_BAK43433.1, Enteroscipio_BAK44954.1
+OG0000034	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK44479.1	Enteroscipio_BAK45721.1
+OG0000034	Enteroscipio	n7	1.0	Terminal	Enteroscipio_BAK45750.1	Enteroscipio_BAK43433.1, Enteroscipio_BAK44954.1
+OG0000034	Enteroscipio	n8	1.0	Terminal	Enteroscipio_BAK43433.1	Enteroscipio_BAK44954.1
+OG0000035	N0	n0	1.0	Non-Terminal	equolifaciens_RNL37576.1, isoflavoniconvertens_WP_281668742.1, Enteroscipio_BAK43984.1, Lactococcus_QPR49940.1	equolifaciens_RNL41384.1, equolifaciens_RNL41856.1, Lactococcus_QPR48363.1, Enteroscipio_BAK45858.1, isoflavoniconvertens_WP_281667814.1, equolifaciens_RNL40857.1
+OG0000035	N0	n4	0.25	Non-Terminal	equolifaciens_RNL41384.1, equolifaciens_RNL41856.1	Lactococcus_QPR48363.1, Enteroscipio_BAK45858.1, isoflavoniconvertens_WP_281667814.1, equolifaciens_RNL40857.1
+OG0000035	equolifaciens	n5	1.0	Terminal	equolifaciens_RNL41384.1	equolifaciens_RNL41856.1
+OG0000036	N2	n1	0.5	Non-Terminal	equolifaciens_RNL40522.1	isoflavoniconvertens_WP_281668340.1, equolifaciens_RNL41078.1, equolifaciens_RNL40336.1, equolifaciens_RNL37560.1, equolifaciens_RNL38041.1, equolifaciens_RNL39556.1, equolifaciens_RNL40661.1, isoflavoniconvertens_WP_281668255.1
+OG0000036	N2	n2	1.0	Non-Terminal	isoflavoniconvertens_WP_281668340.1, equolifaciens_RNL41078.1, equolifaciens_RNL40336.1, equolifaciens_RNL37560.1, equolifaciens_RNL38041.1, equolifaciens_RNL39556.1	equolifaciens_RNL40661.1, isoflavoniconvertens_WP_281668255.1
+OG0000036	equolifaciens	n4	1.0	Terminal	equolifaciens_RNL41078.1	equolifaciens_RNL40336.1, equolifaciens_RNL37560.1, equolifaciens_RNL38041.1, equolifaciens_RNL39556.1
+OG0000036	equolifaciens	n5	1.0	Terminal	equolifaciens_RNL40336.1, equolifaciens_RNL37560.1	equolifaciens_RNL38041.1, equolifaciens_RNL39556.1
+OG0000036	equolifaciens	n6	1.0	Terminal	equolifaciens_RNL40336.1	equolifaciens_RNL37560.1
+OG0000036	equolifaciens	n7	1.0	Terminal	equolifaciens_RNL38041.1	equolifaciens_RNL39556.1
+OG0000037	N1	n1	0.3333333333333333	Non-Terminal	equolifaciens_RNL38204.1, equolifaciens_RNL40610.1	Enteroscipio_BAK44279.1, Enteroscipio_BAK44278.1, Enteroscipio_BAK44276.1, Enteroscipio_BAK44277.1, equolifaciens_RNL39557.1, Enteroscipio_BAK44855.1, equolifaciens_RNL40611.1
+OG0000037	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL38204.1	equolifaciens_RNL40610.1
+OG0000037	N1	n3	0.6666666666666666	Non-Terminal	Enteroscipio_BAK44279.1, Enteroscipio_BAK44278.1, Enteroscipio_BAK44276.1, Enteroscipio_BAK44277.1, equolifaciens_RNL39557.1	Enteroscipio_BAK44855.1, equolifaciens_RNL40611.1
+OG0000037	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK44279.1, Enteroscipio_BAK44278.1, Enteroscipio_BAK44276.1	Enteroscipio_BAK44277.1
+OG0000037	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK44279.1	Enteroscipio_BAK44278.1, Enteroscipio_BAK44276.1
+OG0000037	Enteroscipio	n7	1.0	Terminal	Enteroscipio_BAK44278.1	Enteroscipio_BAK44276.1
+OG0000038	N1	n0	0.6666666666666666	Non-Terminal	Enteroscipio_BAK44713.1, equolifaciens_RNL39925.1	equolifaciens_RNL41064.1, Enteroscipio_BAK45273.1, Enteroscipio_BAK44958.1, Enteroscipio_BAK44964.1, Enteroscipio_BAK45449.1, Enteroscipio_BAK45448.1, Enteroscipio_BAK45374.1, equolifaciens_RNL39541.1
+OG0000038	N1	n2	0.6666666666666666	Non-Terminal	equolifaciens_RNL41064.1, Enteroscipio_BAK45273.1	Enteroscipio_BAK44958.1, Enteroscipio_BAK44964.1, Enteroscipio_BAK45449.1, Enteroscipio_BAK45448.1, Enteroscipio_BAK45374.1, equolifaciens_RNL39541.1
+OG0000038	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK44958.1, Enteroscipio_BAK44964.1	Enteroscipio_BAK45449.1, Enteroscipio_BAK45448.1, Enteroscipio_BAK45374.1
+OG0000038	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK44958.1	Enteroscipio_BAK44964.1
+OG0000038	Enteroscipio	n7	1.0	Terminal	Enteroscipio_BAK45449.1, Enteroscipio_BAK45448.1	Enteroscipio_BAK45374.1
+OG0000038	Enteroscipio	n8	1.0	Terminal	Enteroscipio_BAK45449.1	Enteroscipio_BAK45448.1
+OG0000039	N1	n0	1.0	Non-Terminal	isoflavoniconvertens_WP_281668236.1, equolifaciens_RNL40797.1, Enteroscipio_BAK45222.1	equolifaciens_RNL39522.1, isoflavoniconvertens_WP_281668174.1, Enteroscipio_BAK44058.1, Enteroscipio_BAK44006.1, Enteroscipio_BAK44837.1, Enteroscipio_BAK43449.1
+OG0000039	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK44058.1, Enteroscipio_BAK44006.1	Enteroscipio_BAK44837.1, Enteroscipio_BAK43449.1
+OG0000039	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK44058.1	Enteroscipio_BAK44006.1
+OG0000039	Enteroscipio	n7	1.0	Terminal	Enteroscipio_BAK44837.1	Enteroscipio_BAK43449.1
+OG0000040	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48962.1	Lactococcus_QPR48810.1
+OG0000040	N1	n2	1.0	Non-Terminal	equolifaciens_RNL37559.1, isoflavoniconvertens_WP_281667796.1, equolifaciens_RNL40459.1, Enteroscipio_BAK45765.1	Enteroscipio_BAK43559.1, isoflavoniconvertens_WP_114614702.1, equolifaciens_RNL40448.1
+OG0000040	N1	n3	0.3333333333333333	Non-Terminal	equolifaciens_RNL37559.1	isoflavoniconvertens_WP_281667796.1, equolifaciens_RNL40459.1, Enteroscipio_BAK45765.1
+OG0000041	N0	n1	0.75	Non-Terminal	Lactococcus_QPR49212.1, Lactococcus_QPR48641.1, Enteroscipio_BAK45152.1, equolifaciens_RNL37556.1	Lactococcus_QPR48140.1, Enteroscipio_BAK44003.1, equolifaciens_RNL39902.1, Enteroscipio_BAK43931.1
+OG0000041	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR49212.1	Lactococcus_QPR48641.1
+OG0000041	N1	n6	0.3333333333333333	Non-Terminal	Enteroscipio_BAK44003.1	equolifaciens_RNL39902.1, Enteroscipio_BAK43931.1
+OG0000042	N1	n0	1.0	Non-Terminal	equolifaciens_RNL40817.1, equolifaciens_RNL40870.1, isoflavoniconvertens_WP_281667813.1, isoflavoniconvertens_WP_281668861.1, equolifaciens_RNL40452.1, Enteroscipio_BAK44199.1	equolifaciens_RNL38236.1, isoflavoniconvertens_WP_281668190.1, Enteroscipio_BAK43990.1
+OG0000042	N2	n2	0.5	Non-Terminal	equolifaciens_RNL40817.1	equolifaciens_RNL40870.1, isoflavoniconvertens_WP_281667813.1, isoflavoniconvertens_WP_281668861.1, equolifaciens_RNL40452.1
+OG0000042	N2	n3	1.0	Non-Terminal	equolifaciens_RNL40870.1, isoflavoniconvertens_WP_281667813.1	isoflavoniconvertens_WP_281668861.1, equolifaciens_RNL40452.1
+OG0000043	N1	n1	0.3333333333333333	Non-Terminal	equolifaciens_RNL39939.1	isoflavoniconvertens_WP_281668290.1, equolifaciens_RNL41469.1, isoflavoniconvertens_WP_281667991.1, Enteroscipio_BAK44136.1, Enteroscipio_BAK44820.1, equolifaciens_RNL40666.1, isoflavoniconvertens_WP_281668371.1
+OG0000043	N1	n2	0.3333333333333333	Non-Terminal	isoflavoniconvertens_WP_281668290.1	equolifaciens_RNL41469.1, isoflavoniconvertens_WP_281667991.1, Enteroscipio_BAK44136.1, Enteroscipio_BAK44820.1, equolifaciens_RNL40666.1, isoflavoniconvertens_WP_281668371.1
+OG0000043	N1	n3	1.0	Non-Terminal: STRIDE	equolifaciens_RNL41469.1, isoflavoniconvertens_WP_281667991.1, Enteroscipio_BAK44136.1	Enteroscipio_BAK44820.1, equolifaciens_RNL40666.1, isoflavoniconvertens_WP_281668371.1
+OG0000044	N1	n0	1.0	Non-Terminal	Enteroscipio_BAK45346.1, Enteroscipio_BAK44499.1, equolifaciens_RNL39426.1, isoflavoniconvertens_WP_281668937.1	equolifaciens_RNL38051.1, Enteroscipio_BAK45863.1, isoflavoniconvertens_WP_114615306.1, equolifaciens_RNL38052.1, Enteroscipio_BAK44485.1
+OG0000044	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45346.1	Enteroscipio_BAK44499.1
+OG0000044	N1	n4	0.6666666666666666	Non-Terminal	equolifaciens_RNL38051.1, Enteroscipio_BAK45863.1, isoflavoniconvertens_WP_114615306.1	equolifaciens_RNL38052.1, Enteroscipio_BAK44485.1
+OG0000045	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48354.1, Lactococcus_QPR48189.1, Lactococcus_QPR48112.1, Lactococcus_QPR48144.1, Lactococcus_QPR48210.1	Lactococcus_QPR49784.1
+OG0000045	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48354.1	Lactococcus_QPR48189.1, Lactococcus_QPR48112.1, Lactococcus_QPR48144.1, Lactococcus_QPR48210.1
+OG0000045	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR48189.1	Lactococcus_QPR48112.1, Lactococcus_QPR48144.1, Lactococcus_QPR48210.1
+OG0000045	Lactococcus	n5	1.0	Terminal	Lactococcus_QPR48112.1	Lactococcus_QPR48144.1, Lactococcus_QPR48210.1
+OG0000045	Lactococcus	n6	1.0	Terminal	Lactococcus_QPR48144.1	Lactococcus_QPR48210.1
+OG0000046	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR48949.1	Lactococcus_QPR49046.1, Lactococcus_QPR49047.1, Lactococcus_QPR48851.1, Lactococcus_QPR48580.1, Lactococcus_QPR48868.1, Lactococcus_QPR49877.1, Lactococcus_QPR48698.1, Lactococcus_QPR49650.1
+OG0000046	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49046.1, Lactococcus_QPR49047.1, Lactococcus_QPR48851.1, Lactococcus_QPR48580.1, Lactococcus_QPR48868.1	Lactococcus_QPR49877.1, Lactococcus_QPR48698.1, Lactococcus_QPR49650.1
+OG0000046	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49046.1, Lactococcus_QPR49047.1, Lactococcus_QPR48851.1	Lactococcus_QPR48580.1, Lactococcus_QPR48868.1
+OG0000046	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49046.1, Lactococcus_QPR49047.1	Lactococcus_QPR48851.1
+OG0000046	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR49046.1	Lactococcus_QPR49047.1
+OG0000046	Lactococcus	n5	1.0	Terminal	Lactococcus_QPR48580.1	Lactococcus_QPR48868.1
+OG0000046	Lactococcus	n6	1.0	Terminal	Lactococcus_QPR49877.1	Lactococcus_QPR48698.1, Lactococcus_QPR49650.1
+OG0000046	Lactococcus	n7	1.0	Terminal	Lactococcus_QPR48698.1	Lactococcus_QPR49650.1
+OG0000047	equolifaciens	n0	1.0	Terminal	equolifaciens_RNL40512.1	equolifaciens_RNL39131.1, equolifaciens_RNL39057.1, equolifaciens_RNL42023.1, equolifaciens_RNL40996.1, equolifaciens_RNL38551.1, equolifaciens_RNL39175.1, equolifaciens_RNL41095.1, equolifaciens_RNL41042.1
+OG0000047	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL39131.1	equolifaciens_RNL39057.1, equolifaciens_RNL42023.1, equolifaciens_RNL40996.1, equolifaciens_RNL38551.1, equolifaciens_RNL39175.1, equolifaciens_RNL41095.1, equolifaciens_RNL41042.1
+OG0000047	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL39057.1	equolifaciens_RNL42023.1, equolifaciens_RNL40996.1, equolifaciens_RNL38551.1, equolifaciens_RNL39175.1, equolifaciens_RNL41095.1, equolifaciens_RNL41042.1
+OG0000047	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL42023.1	equolifaciens_RNL40996.1, equolifaciens_RNL38551.1, equolifaciens_RNL39175.1, equolifaciens_RNL41095.1, equolifaciens_RNL41042.1
+OG0000047	equolifaciens	n4	1.0	Terminal	equolifaciens_RNL40996.1, equolifaciens_RNL38551.1, equolifaciens_RNL39175.1	equolifaciens_RNL41095.1, equolifaciens_RNL41042.1
+OG0000047	equolifaciens	n5	1.0	Terminal	equolifaciens_RNL40996.1	equolifaciens_RNL38551.1, equolifaciens_RNL39175.1
+OG0000047	equolifaciens	n6	1.0	Terminal	equolifaciens_RNL38551.1	equolifaciens_RNL39175.1
+OG0000047	equolifaciens	n7	1.0	Terminal	equolifaciens_RNL41095.1	equolifaciens_RNL41042.1
+OG0000048	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44738.1, Enteroscipio_BAK43737.1, Enteroscipio_BAK43314.1	Enteroscipio_BAK44733.1, Enteroscipio_BAK44690.1, Enteroscipio_BAK44728.1
+OG0000048	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44738.1, Enteroscipio_BAK43737.1	Enteroscipio_BAK43314.1
+OG0000048	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44738.1	Enteroscipio_BAK43737.1
+OG0000048	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK44733.1, Enteroscipio_BAK44690.1	Enteroscipio_BAK44728.1
+OG0000048	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK44733.1	Enteroscipio_BAK44690.1
+OG0000049	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43323.1, Enteroscipio_BAK45892.1, Enteroscipio_BAK43322.1, Enteroscipio_BAK43321.1	Enteroscipio_BAK45891.1
+OG0000049	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK43323.1, Enteroscipio_BAK45892.1	Enteroscipio_BAK43322.1, Enteroscipio_BAK43321.1
+OG0000049	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK43323.1	Enteroscipio_BAK45892.1
+OG0000049	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK43322.1	Enteroscipio_BAK43321.1
+OG0000050	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK44730.1	Enteroscipio_BAK44687.1, Enteroscipio_BAK43732.1, Enteroscipio_BAK45886.1, Enteroscipio_BAK43724.1, Enteroscipio_BAK43327.1, Enteroscipio_BAK43692.1, Enteroscipio_BAK44651.1
+OG0000050	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44687.1	Enteroscipio_BAK43732.1, Enteroscipio_BAK45886.1, Enteroscipio_BAK43724.1, Enteroscipio_BAK43327.1, Enteroscipio_BAK43692.1, Enteroscipio_BAK44651.1
+OG0000050	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43732.1	Enteroscipio_BAK45886.1, Enteroscipio_BAK43724.1, Enteroscipio_BAK43327.1, Enteroscipio_BAK43692.1, Enteroscipio_BAK44651.1
+OG0000050	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45886.1, Enteroscipio_BAK43724.1	Enteroscipio_BAK43327.1, Enteroscipio_BAK43692.1, Enteroscipio_BAK44651.1
+OG0000050	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK45886.1	Enteroscipio_BAK43724.1
+OG0000050	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK43327.1	Enteroscipio_BAK43692.1, Enteroscipio_BAK44651.1
+OG0000050	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK43692.1	Enteroscipio_BAK44651.1
+OG0000051	N1	n1	1.0	Non-Terminal	isoflavoniconvertens_WP_244595000.1, equolifaciens_RNL38857.1, Enteroscipio_BAK45958.1	equolifaciens_RNL39090.1, Enteroscipio_BAK43350.1, Enteroscipio_BAK45928.1, isoflavoniconvertens_WP_281668286.1
+OG0000051	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK43350.1	Enteroscipio_BAK45928.1
+OG0000052	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK44163.1	Enteroscipio_BAK45167.1, Enteroscipio_BAK45677.1, Enteroscipio_BAK45674.1, Enteroscipio_BAK45678.1, Enteroscipio_BAK45675.1, Enteroscipio_BAK43387.1, Enteroscipio_BAK45685.1
+OG0000052	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45167.1	Enteroscipio_BAK45677.1, Enteroscipio_BAK45674.1, Enteroscipio_BAK45678.1, Enteroscipio_BAK45675.1, Enteroscipio_BAK43387.1, Enteroscipio_BAK45685.1
+OG0000052	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45677.1, Enteroscipio_BAK45674.1	Enteroscipio_BAK45678.1, Enteroscipio_BAK45675.1, Enteroscipio_BAK43387.1, Enteroscipio_BAK45685.1
+OG0000052	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45677.1	Enteroscipio_BAK45674.1
+OG0000052	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK45678.1, Enteroscipio_BAK45675.1	Enteroscipio_BAK43387.1, Enteroscipio_BAK45685.1
+OG0000052	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK45678.1	Enteroscipio_BAK45675.1
+OG0000052	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK43387.1	Enteroscipio_BAK45685.1
+OG0000053	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44948.1	Enteroscipio_BAK43957.1, Enteroscipio_BAK45739.1, Enteroscipio_BAK43457.1, Enteroscipio_BAK43458.1, Enteroscipio_BAK44549.1
+OG0000053	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43957.1	Enteroscipio_BAK45739.1, Enteroscipio_BAK43457.1, Enteroscipio_BAK43458.1, Enteroscipio_BAK44549.1
+OG0000053	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK45739.1	Enteroscipio_BAK43457.1, Enteroscipio_BAK43458.1, Enteroscipio_BAK44549.1
+OG0000053	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK43457.1	Enteroscipio_BAK43458.1, Enteroscipio_BAK44549.1
+OG0000053	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK43458.1	Enteroscipio_BAK44549.1
+OG0000054	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44371.1, Enteroscipio_BAK44206.1, Enteroscipio_BAK44940.1	Enteroscipio_BAK43958.1, Enteroscipio_BAK44372.1, Enteroscipio_BAK43484.1
+OG0000054	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44371.1, Enteroscipio_BAK44206.1	Enteroscipio_BAK44940.1
+OG0000054	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44371.1	Enteroscipio_BAK44206.1
+OG0000054	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK43958.1	Enteroscipio_BAK44372.1, Enteroscipio_BAK43484.1
+OG0000054	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK44372.1	Enteroscipio_BAK43484.1
+OG0000055	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49929.1, Lactococcus_QPR48394.1, Lactococcus_QPR48347.1	Lactococcus_QPR49494.1
+OG0000055	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49929.1	Lactococcus_QPR48394.1, Lactococcus_QPR48347.1
+OG0000055	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48394.1	Lactococcus_QPR48347.1
+OG0000055	isoflavoniconvertens	n6	1.0	Terminal	isoflavoniconvertens_WP_281669127.1	isoflavoniconvertens_WP_281668745.1
+OG0000056	N1	n1	0.6666666666666666	Non-Terminal	equolifaciens_RNL40824.1, Enteroscipio_BAK45605.1	equolifaciens_RNL39922.1, Enteroscipio_BAK43627.1, Enteroscipio_BAK44710.1, equolifaciens_RNL40607.1, Enteroscipio_BAK43759.1
+OG0000056	N1	n3	0.6666666666666666	Non-Terminal	equolifaciens_RNL39922.1, Enteroscipio_BAK43627.1, Enteroscipio_BAK44710.1	equolifaciens_RNL40607.1, Enteroscipio_BAK43759.1
+OG0000056	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK43627.1	Enteroscipio_BAK44710.1
+OG0000057	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK45250.1	Enteroscipio_BAK45352.1, Enteroscipio_BAK43786.1, Enteroscipio_BAK45841.1, Enteroscipio_BAK45356.1, Enteroscipio_BAK45761.1, Enteroscipio_BAK45490.1, Enteroscipio_BAK45411.1
+OG0000057	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45352.1, Enteroscipio_BAK43786.1, Enteroscipio_BAK45841.1, Enteroscipio_BAK45356.1	Enteroscipio_BAK45761.1, Enteroscipio_BAK45490.1, Enteroscipio_BAK45411.1
+OG0000057	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45352.1, Enteroscipio_BAK43786.1, Enteroscipio_BAK45841.1	Enteroscipio_BAK45356.1
+OG0000057	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45352.1, Enteroscipio_BAK43786.1	Enteroscipio_BAK45841.1
+OG0000057	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK45352.1	Enteroscipio_BAK43786.1
+OG0000057	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK45761.1, Enteroscipio_BAK45490.1	Enteroscipio_BAK45411.1
+OG0000057	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK45761.1	Enteroscipio_BAK45490.1
+OG0000058	N1	n0	1.0	Non-Terminal	Enteroscipio_BAK44091.1, equolifaciens_RNL39466.1, isoflavoniconvertens_WP_281668144.1, isoflavoniconvertens_WP_281668153.1	equolifaciens_RNL41362.1, isoflavoniconvertens_WP_281668145.1, Enteroscipio_BAK44097.1, Enteroscipio_BAK43831.1
+OG0000058	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281668144.1	isoflavoniconvertens_WP_281668153.1
+OG0000058	N1	n4	0.3333333333333333	Non-Terminal	equolifaciens_RNL41362.1, isoflavoniconvertens_WP_281668145.1, Enteroscipio_BAK44097.1	Enteroscipio_BAK43831.1
+OG0000059	N1	n0	0.6666666666666666	Non-Terminal	equolifaciens_RNL39044.1, Enteroscipio_BAK44961.1	equolifaciens_RNL39445.1, isoflavoniconvertens_WP_281668914.1, Enteroscipio_BAK43878.1, Enteroscipio_BAK45729.1, Enteroscipio_BAK44922.1, Enteroscipio_BAK44316.1
+OG0000059	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK43878.1	Enteroscipio_BAK45729.1, Enteroscipio_BAK44922.1, Enteroscipio_BAK44316.1
+OG0000059	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK45729.1	Enteroscipio_BAK44922.1, Enteroscipio_BAK44316.1
+OG0000059	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK44922.1	Enteroscipio_BAK44316.1
+OG0000060	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45671.1	Enteroscipio_BAK44771.1, Enteroscipio_BAK45805.1, Enteroscipio_BAK44018.1, Enteroscipio_BAK44494.1, Enteroscipio_BAK45223.1, Enteroscipio_BAK45530.1
+OG0000060	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44771.1, Enteroscipio_BAK45805.1, Enteroscipio_BAK44018.1, Enteroscipio_BAK44494.1, Enteroscipio_BAK45223.1	Enteroscipio_BAK45530.1
+OG0000060	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44771.1, Enteroscipio_BAK45805.1, Enteroscipio_BAK44018.1, Enteroscipio_BAK44494.1	Enteroscipio_BAK45223.1
+OG0000060	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44771.1, Enteroscipio_BAK45805.1, Enteroscipio_BAK44018.1	Enteroscipio_BAK44494.1
+OG0000060	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK44771.1	Enteroscipio_BAK45805.1, Enteroscipio_BAK44018.1
+OG0000060	Enteroscipio	n6	1.0	Terminal	Enteroscipio_BAK45805.1	Enteroscipio_BAK44018.1
+OG0000061	N0	n0	0.5	Non-Terminal	Lactococcus_QPR48535.1, equolifaciens_RNL39543.1, Enteroscipio_BAK44024.1, isoflavoniconvertens_WP_281668764.1	Enteroscipio_BAK44244.1, Enteroscipio_BAK44245.1, Lactococcus_QPR48802.1, Lactococcus_QPR48808.1
+OG0000061	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK44244.1	Enteroscipio_BAK44245.1
+OG0000061	Lactococcus	n6	1.0	Terminal	Lactococcus_QPR48802.1	Lactococcus_QPR48808.1
+OG0000062	N1	n0	1.0	Non-Terminal	equolifaciens_RNL42011.1, Enteroscipio_BAK45758.1, Enteroscipio_BAK45015.1, Enteroscipio_BAK44520.1, isoflavoniconvertens_WP_281669054.1	equolifaciens_RNL39545.1, isoflavoniconvertens_WP_281668345.1, Enteroscipio_BAK44085.1
+OG0000062	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45758.1, Enteroscipio_BAK45015.1	Enteroscipio_BAK44520.1
+OG0000062	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK45758.1	Enteroscipio_BAK45015.1
+OG0000063	N1	n0	1.0	Non-Terminal	Enteroscipio_BAK44192.1, equolifaciens_RNL40498.1, isoflavoniconvertens_WP_281668252.1	isoflavoniconvertens_WP_281668251.1, isoflavoniconvertens_WP_281668110.1, isoflavoniconvertens_WP_281668057.1, Enteroscipio_BAK45419.1, equolifaciens_RNL42060.1
+OG0000063	N1	n3	0.3333333333333333	Non-Terminal	isoflavoniconvertens_WP_281668251.1, isoflavoniconvertens_WP_281668110.1	isoflavoniconvertens_WP_281668057.1, Enteroscipio_BAK45419.1, equolifaciens_RNL42060.1
+OG0000063	isoflavoniconvertens	n4	1.0	Terminal	isoflavoniconvertens_WP_281668251.1	isoflavoniconvertens_WP_281668110.1
+OG0000064	N1	n2	0.3333333333333333	Non-Terminal	Enteroscipio_BAK44326.1	Enteroscipio_BAK45900.1, equolifaciens_RNL37677.1, Enteroscipio_BAK45261.1, equolifaciens_RNL37676.1, Enteroscipio_BAK45262.1
+OG0000064	N1	n3	0.3333333333333333	Non-Terminal	Enteroscipio_BAK45900.1	equolifaciens_RNL37677.1, Enteroscipio_BAK45261.1, equolifaciens_RNL37676.1, Enteroscipio_BAK45262.1
+OG0000064	N1	n4	0.6666666666666666	Non-Terminal	equolifaciens_RNL37677.1, Enteroscipio_BAK45261.1	equolifaciens_RNL37676.1, Enteroscipio_BAK45262.1
+OG0000065	N1	n1	1.0	Non-Terminal	Enteroscipio_BAK45163.1, equolifaciens_RNL37563.1, isoflavoniconvertens_WP_281668672.1, Enteroscipio_BAK44731.1	equolifaciens_RNL42109.1, isoflavoniconvertens_WP_281667876.1, Enteroscipio_BAK45314.1
+OG0000065	N1	n2	0.3333333333333333	Non-Terminal	Enteroscipio_BAK45163.1, equolifaciens_RNL37563.1, isoflavoniconvertens_WP_281668672.1	Enteroscipio_BAK44731.1
+OG0000066	N1	n1	0.3333333333333333	Non-Terminal	equolifaciens_RNL40368.1	equolifaciens_RNL42159.1, isoflavoniconvertens_WP_281668896.1, Enteroscipio_BAK44766.1, isoflavoniconvertens_WP_281668895.1, equolifaciens_RNL42160.1, Enteroscipio_BAK44767.1
+OG0000066	N1	n2	1.0	Non-Terminal	equolifaciens_RNL42159.1, isoflavoniconvertens_WP_281668896.1, Enteroscipio_BAK44766.1	isoflavoniconvertens_WP_281668895.1, equolifaciens_RNL42160.1, Enteroscipio_BAK44767.1
+OG0000067	N0	n0	0.75	Non-Terminal	Lactococcus_QPR48724.1, isoflavoniconvertens_WP_281668892.1, equolifaciens_RNL42190.1, equolifaciens_RNL41922.1	Lactococcus_QPR49400.1, equolifaciens_RNL42179.1, isoflavoniconvertens_WP_281668162.1, Enteroscipio_BAK45059.1
+OG0000067	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL42190.1	equolifaciens_RNL41922.1
+OG0000068	N1	n0	1.0	Non-Terminal	equolifaciens_RNL41905.1, isoflavoniconvertens_WP_281668634.1, Enteroscipio_BAK45724.1	Enteroscipio_BAK45213.1, isoflavoniconvertens_WP_281668302.1, equolifaciens_RNL38224.1, Enteroscipio_BAK45212.1, isoflavoniconvertens_WP_281668198.1
+OG0000068	N1	n3	0.6666666666666666	Non-Terminal	Enteroscipio_BAK45213.1, isoflavoniconvertens_WP_281668302.1, equolifaciens_RNL38224.1	Enteroscipio_BAK45212.1, isoflavoniconvertens_WP_281668198.1
+OG0000069	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48313.1, Lactococcus_QPR48424.1, Lactococcus_QPR48425.1, Lactococcus_QPR49068.1	Lactococcus_QPR49423.1
+OG0000069	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48313.1	Lactococcus_QPR48424.1, Lactococcus_QPR48425.1, Lactococcus_QPR49068.1
+OG0000069	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR48424.1, Lactococcus_QPR48425.1	Lactococcus_QPR49068.1
+OG0000069	Lactococcus	n5	1.0	Terminal	Lactococcus_QPR48424.1	Lactococcus_QPR48425.1
+OG0000070	N0	n0	1.0	Non-Terminal	equolifaciens_RNL40456.1, Enteroscipio_BAK45768.1, isoflavoniconvertens_WP_281667793.1, Lactococcus_QPR48762.1	equolifaciens_RNL40457.1, Enteroscipio_BAK45767.1, isoflavoniconvertens_WP_281667792.1, Lactococcus_QPR48761.1
+OG0000071	N2	n0	1.0	Non-Terminal	equolifaciens_RNL42074.1, isoflavoniconvertens_WP_281668031.1	isoflavoniconvertens_WP_281668654.1, equolifaciens_RNL41863.1, equolifaciens_RNL41865.1, isoflavoniconvertens_WP_114615146.1, equolifaciens_RNL42073.1, isoflavoniconvertens_WP_123218751.1
+OG0000071	N2	n2	1.0	Non-Terminal	isoflavoniconvertens_WP_281668654.1, equolifaciens_RNL41863.1, equolifaciens_RNL41865.1, isoflavoniconvertens_WP_114615146.1	equolifaciens_RNL42073.1, isoflavoniconvertens_WP_123218751.1
+OG0000071	N2	n3	1.0	Non-Terminal	isoflavoniconvertens_WP_281668654.1, equolifaciens_RNL41863.1	equolifaciens_RNL41865.1, isoflavoniconvertens_WP_114615146.1
+OG0000072	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44679.1, Enteroscipio_BAK43717.1, Enteroscipio_BAK43334.1, Enteroscipio_BAK45909.1	Enteroscipio_BAK45826.1
+OG0000072	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44679.1, Enteroscipio_BAK43717.1	Enteroscipio_BAK43334.1, Enteroscipio_BAK45909.1
+OG0000072	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44679.1	Enteroscipio_BAK43717.1
+OG0000072	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK43334.1	Enteroscipio_BAK45909.1
+OG0000073	N1	n1	1.0	Non-Terminal	Enteroscipio_BAK43426.1, isoflavoniconvertens_WP_281668689.1, equolifaciens_RNL41986.1	equolifaciens_RNL41894.1, Enteroscipio_BAK45062.1, isoflavoniconvertens_WP_123219903.1
+OG0000074	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44960.1, Enteroscipio_BAK44959.1, Enteroscipio_BAK43961.1, Enteroscipio_BAK43461.1	Enteroscipio_BAK44205.1
+OG0000074	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44960.1, Enteroscipio_BAK44959.1	Enteroscipio_BAK43961.1, Enteroscipio_BAK43461.1
+OG0000074	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44960.1	Enteroscipio_BAK44959.1
+OG0000074	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK43961.1	Enteroscipio_BAK43461.1
+OG0000075	N1	n0	0.6666666666666666	Non-Terminal	equolifaciens_RNL39060.1, Enteroscipio_BAK45355.1	equolifaciens_RNL38769.1, equolifaciens_RNL41026.1, Enteroscipio_BAK45466.1, Enteroscipio_BAK44477.1, Enteroscipio_BAK43508.1
+OG0000075	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL38769.1	equolifaciens_RNL41026.1
+OG0000075	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK45466.1	Enteroscipio_BAK44477.1, Enteroscipio_BAK43508.1
+OG0000075	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK44477.1	Enteroscipio_BAK43508.1
+OG0000076	N1	n1	1.0	Non-Terminal: STRIDE	isoflavoniconvertens_WP_114615283.1, equolifaciens_RNL37436.1, Enteroscipio_BAK43601.1	isoflavoniconvertens_WP_114615284.1, equolifaciens_RNL37437.1, Enteroscipio_BAK43602.1
+OG0000077	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49434.1, Lactococcus_QPR49393.1	Lactococcus_QPR49264.1, Lactococcus_QPR49945.1
+OG0000077	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49434.1	Lactococcus_QPR49393.1
+OG0000077	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR49264.1	Lactococcus_QPR49945.1
+OG0000077	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK43697.1	Enteroscipio_BAK44656.1
+OG0000078	N1	n0	0.6666666666666666	Non-Terminal	equolifaciens_RNL41938.1, Enteroscipio_BAK45321.1	equolifaciens_RNL40469.1, isoflavoniconvertens_WP_114614822.1, Enteroscipio_BAK45364.1, Enteroscipio_BAK43797.1, Enteroscipio_BAK43896.1
+OG0000078	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK45364.1	Enteroscipio_BAK43797.1, Enteroscipio_BAK43896.1
+OG0000078	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK43797.1	Enteroscipio_BAK43896.1
+OG0000079	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44963.1, Enteroscipio_BAK43879.1, Enteroscipio_BAK45730.1	Enteroscipio_BAK44921.1, Enteroscipio_BAK44315.1
+OG0000079	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44963.1, Enteroscipio_BAK43879.1	Enteroscipio_BAK45730.1
+OG0000079	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44963.1	Enteroscipio_BAK43879.1
+OG0000079	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK44921.1	Enteroscipio_BAK44315.1
+OG0000080	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL38223.1	equolifaciens_RNL38212.1
+OG0000080	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK43922.1, Enteroscipio_BAK43920.1	Enteroscipio_BAK44111.1
+OG0000080	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK43922.1	Enteroscipio_BAK43920.1
+OG0000081	N1	n1	0.6666666666666666	Non-Terminal	isoflavoniconvertens_WP_114614800.1, Enteroscipio_BAK45325.1	equolifaciens_RNL40602.1, isoflavoniconvertens_WP_281668374.1, Enteroscipio_BAK44457.1, Enteroscipio_BAK45637.1
+OG0000081	Enteroscipio	n5	1.0	Terminal	Enteroscipio_BAK44457.1	Enteroscipio_BAK45637.1
+OG0000082	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49500.1	Lactococcus_QPR49501.1
+OG0000082	N1	n2	0.6666666666666666	Non-Terminal	equolifaciens_RNL38248.1, Enteroscipio_BAK45345.1	Enteroscipio_BAK44465.1, isoflavoniconvertens_WP_114615493.1, equolifaciens_RNL41069.1
+OG0000083	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49658.1	Lactococcus_QPR49659.1
+OG0000083	N2	n3	1.0	Non-Terminal	equolifaciens_RNL41021.1, isoflavoniconvertens_WP_281667925.1	isoflavoniconvertens_WP_281668872.1, equolifaciens_RNL41547.1
+OG0000084	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL37150.1, equolifaciens_RNL37148.1	equolifaciens_RNL38532.1, equolifaciens_RNL37470.1, equolifaciens_RNL38028.1
+OG0000084	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL37150.1	equolifaciens_RNL37148.1
+OG0000084	equolifaciens	n4	1.0	Terminal	equolifaciens_RNL38532.1	equolifaciens_RNL37470.1, equolifaciens_RNL38028.1
+OG0000084	equolifaciens	n5	1.0	Terminal	equolifaciens_RNL37470.1	equolifaciens_RNL38028.1
+OG0000085	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281669036.1	isoflavoniconvertens_WP_281668851.1, isoflavoniconvertens_WP_281668755.1, isoflavoniconvertens_WP_281668997.1
+OG0000085	isoflavoniconvertens	n4	1.0	Terminal	isoflavoniconvertens_WP_281668851.1, isoflavoniconvertens_WP_281668755.1	isoflavoniconvertens_WP_281668997.1
+OG0000085	isoflavoniconvertens	n5	1.0	Terminal	isoflavoniconvertens_WP_281668851.1	isoflavoniconvertens_WP_281668755.1
+OG0000086	N1	n0	0.6666666666666666	Non-Terminal	Enteroscipio_BAK45875.1, Enteroscipio_BAK45829.1, Enteroscipio_BAK45763.1, Enteroscipio_BAK45219.1, equolifaciens_RNL38768.1	equolifaciens_RNL41063.1, Enteroscipio_BAK45835.1
+OG0000086	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45875.1, Enteroscipio_BAK45829.1	Enteroscipio_BAK45763.1, Enteroscipio_BAK45219.1
+OG0000086	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45875.1	Enteroscipio_BAK45829.1
+OG0000086	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK45763.1	Enteroscipio_BAK45219.1
+OG0000087	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49697.1, Lactococcus_QPR49694.1, Lactococcus_QPR48695.1	Lactococcus_QPR49178.1
+OG0000087	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49697.1, Lactococcus_QPR49694.1	Lactococcus_QPR48695.1
+OG0000087	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49697.1	Lactococcus_QPR49694.1
+OG0000088	N1	n0	0.6666666666666666	Non-Terminal	equolifaciens_RNL40790.1, Enteroscipio_BAK45359.1	isoflavoniconvertens_WP_281668761.1, Enteroscipio_BAK45614.1, equolifaciens_RNL38759.1, equolifaciens_RNL38760.1, equolifaciens_RNL40862.1
+OG0000088	equolifaciens	n4	1.0	Terminal	equolifaciens_RNL38759.1	equolifaciens_RNL38760.1, equolifaciens_RNL40862.1
+OG0000088	equolifaciens	n5	1.0	Terminal	equolifaciens_RNL38760.1	equolifaciens_RNL40862.1
+OG0000089	N2	n1	1.0	Non-Terminal	isoflavoniconvertens_WP_281668054.1, equolifaciens_RNL42057.1	equolifaciens_RNL42173.1, isoflavoniconvertens_WP_281668050.1, isoflavoniconvertens_WP_281667883.1, isoflavoniconvertens_WP_281668114.1
+OG0000089	isoflavoniconvertens	n4	1.0	Terminal	isoflavoniconvertens_WP_281668050.1	isoflavoniconvertens_WP_281667883.1, isoflavoniconvertens_WP_281668114.1
+OG0000089	isoflavoniconvertens	n5	1.0	Terminal	isoflavoniconvertens_WP_281667883.1	isoflavoniconvertens_WP_281668114.1
+OG0000090	N1	n0	0.6666666666666666	Non-Terminal	isoflavoniconvertens_WP_281668428.1, isoflavoniconvertens_WP_281668058.1, Enteroscipio_BAK45542.1, equolifaciens_RNL40582.1	equolifaciens_RNL39553.1, equolifaciens_RNL42061.1, Enteroscipio_BAK45420.1
+OG0000090	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668428.1	isoflavoniconvertens_WP_281668058.1
+OG0000090	N1	n4	0.3333333333333333	Non-Terminal	equolifaciens_RNL39553.1	equolifaciens_RNL42061.1, Enteroscipio_BAK45420.1
+OG0000091	N2	n2	1.0	Non-Terminal	equolifaciens_RNL39038.1, isoflavoniconvertens_WP_281668535.1	equolifaciens_RNL39184.1, isoflavoniconvertens_WP_281669094.1, isoflavoniconvertens_WP_281668717.1
+OG0000091	isoflavoniconvertens	n5	1.0	Terminal	isoflavoniconvertens_WP_281669094.1	isoflavoniconvertens_WP_281668717.1
+OG0000092	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49540.1	Lactococcus_QPR49169.1
+OG0000092	N2	n3	1.0	Non-Terminal	equolifaciens_RNL40505.1, isoflavoniconvertens_WP_281668280.1	isoflavoniconvertens_WP_281668734.1, equolifaciens_RNL39177.1
+OG0000093	N0	n0	0.5	Non-Terminal	equolifaciens_RNL37454.1, isoflavoniconvertens_WP_281668658.1, Lactococcus_QPR48499.1, Lactococcus_QPR48099.1	equolifaciens_RNL38410.1, Lactococcus_QPR49853.1, Lactococcus_QPR48393.1
+OG0000093	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48499.1	Lactococcus_QPR48099.1
+OG0000093	Lactococcus	n5	1.0	Terminal	Lactococcus_QPR49853.1	Lactococcus_QPR48393.1
+OG0000094	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48333.1	Lactococcus_QPR48550.1, Lactococcus_QPR48201.1, Lactococcus_QPR48794.1, Lactococcus_QPR48222.1, Lactococcus_QPR48551.1
+OG0000094	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48550.1	Lactococcus_QPR48201.1, Lactococcus_QPR48794.1, Lactococcus_QPR48222.1, Lactococcus_QPR48551.1
+OG0000094	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48201.1	Lactococcus_QPR48794.1, Lactococcus_QPR48222.1, Lactococcus_QPR48551.1
+OG0000094	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR48794.1	Lactococcus_QPR48222.1, Lactococcus_QPR48551.1
+OG0000094	Lactococcus	n5	1.0	Terminal	Lactococcus_QPR48222.1	Lactococcus_QPR48551.1
+OG0000095	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49529.1	Lactococcus_QPR49010.1, Lactococcus_QPR49576.1, Lactococcus_QPR49793.1, Lactococcus_QPR49297.1, Lactococcus_QPR49703.1
+OG0000095	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49010.1, Lactococcus_QPR49576.1	Lactococcus_QPR49793.1, Lactococcus_QPR49297.1, Lactococcus_QPR49703.1
+OG0000095	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49010.1	Lactococcus_QPR49576.1
+OG0000095	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR49793.1, Lactococcus_QPR49297.1	Lactococcus_QPR49703.1
+OG0000095	Lactococcus	n5	1.0	Terminal	Lactococcus_QPR49793.1	Lactococcus_QPR49297.1
+OG0000096	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49339.1	Lactococcus_QPR49014.1
+OG0000096	equolifaciens	n4	1.0	Terminal	equolifaciens_RNL41847.1	equolifaciens_RNL38841.1
+OG0000097	N1	n0	1.0	Non-Terminal	equolifaciens_RNL40863.1, isoflavoniconvertens_WP_281668238.1, Enteroscipio_BAK43394.1	isoflavoniconvertens_WP_281668977.1, equolifaciens_RNL38561.1, Enteroscipio_BAK44535.1
+OG0000098	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43670.1, Enteroscipio_BAK43397.1, Enteroscipio_BAK44970.1, Enteroscipio_BAK43778.1	Enteroscipio_BAK44489.1
+OG0000098	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43670.1, Enteroscipio_BAK43397.1	Enteroscipio_BAK44970.1, Enteroscipio_BAK43778.1
+OG0000098	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43670.1	Enteroscipio_BAK43397.1
+OG0000098	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44970.1	Enteroscipio_BAK43778.1
+OG0000099	N1	n1	0.6666666666666666	Non-Terminal	Enteroscipio_BAK43477.1, isoflavoniconvertens_WP_281667913.1	equolifaciens_RNL39065.1, isoflavoniconvertens_WP_281668527.1, Enteroscipio_BAK43406.1
+OG0000100	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48111.1	Lactococcus_QPR49067.1, Lactococcus_QPR48688.1
+OG0000100	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR49067.1	Lactococcus_QPR48688.1
+OG0000101	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281669093.1	isoflavoniconvertens_WP_281668452.1, isoflavoniconvertens_WP_281668448.1
+OG0000101	isoflavoniconvertens	n4	1.0	Terminal	isoflavoniconvertens_WP_281668452.1	isoflavoniconvertens_WP_281668448.1
+OG0000102	N2	n1	1.0	Non-Terminal	equolifaciens_RNL39539.1, isoflavoniconvertens_WP_281667881.1	equolifaciens_RNL37984.1, isoflavoniconvertens_WP_281668980.1, isoflavoniconvertens_WP_281668322.1
+OG0000102	isoflavoniconvertens	n4	1.0	Terminal	isoflavoniconvertens_WP_281668980.1	isoflavoniconvertens_WP_281668322.1
+OG0000103	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43534.1	Enteroscipio_BAK44522.1, Enteroscipio_BAK44411.1, Enteroscipio_BAK44984.1
+OG0000103	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44522.1	Enteroscipio_BAK44411.1, Enteroscipio_BAK44984.1
+OG0000103	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44411.1	Enteroscipio_BAK44984.1
+OG0000104	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43545.1	Enteroscipio_BAK43880.1, Enteroscipio_BAK45728.1, Enteroscipio_BAK45736.1, Enteroscipio_BAK44925.1
+OG0000104	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43880.1	Enteroscipio_BAK45728.1, Enteroscipio_BAK45736.1, Enteroscipio_BAK44925.1
+OG0000104	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45728.1	Enteroscipio_BAK45736.1, Enteroscipio_BAK44925.1
+OG0000104	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK45736.1	Enteroscipio_BAK44925.1
+OG0000105	N1	n0	0.6666666666666666	Non-Terminal	equolifaciens_RNL40781.1, Enteroscipio_BAK43549.1	Enteroscipio_BAK43546.1, equolifaciens_RNL40783.1, Enteroscipio_BAK43970.1, equolifaciens_RNL40779.1
+OG0000105	N1	n2	0.6666666666666666	Non-Terminal	Enteroscipio_BAK43546.1, equolifaciens_RNL40783.1	Enteroscipio_BAK43970.1, equolifaciens_RNL40779.1
+OG0000106	N1	n0	1.0	Non-Terminal	equolifaciens_RNL40970.1, isoflavoniconvertens_WP_281669092.1, Enteroscipio_BAK43570.1	Enteroscipio_BAK45404.1, equolifaciens_RNL40476.1, isoflavoniconvertens_WP_281668461.1
+OG0000107	N1	n0	0.6666666666666666	Non-Terminal	equolifaciens_RNL41086.1, Enteroscipio_BAK45159.1	equolifaciens_RNL40367.1, Enteroscipio_BAK43657.1, Enteroscipio_BAK45292.1, Enteroscipio_BAK44240.1
+OG0000107	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43657.1	Enteroscipio_BAK45292.1, Enteroscipio_BAK44240.1
+OG0000107	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK45292.1	Enteroscipio_BAK44240.1
+OG0000108	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49102.1, Lactococcus_QPR48590.1	Lactococcus_QPR48823.1
+OG0000108	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49102.1	Lactococcus_QPR48590.1
+OG0000109	N2	n2	1.0	Non-Terminal	equolifaciens_RNL37447.1, isoflavoniconvertens_WP_281668042.1	isoflavoniconvertens_WP_281668339.1, equolifaciens_RNL38250.1
+OG0000110	N1	n0	0.6666666666666666	Non-Terminal	equolifaciens_RNL40873.1, Enteroscipio_BAK45373.1	isoflavoniconvertens_WP_281668234.1, equolifaciens_RNL40795.1, Enteroscipio_BAK45633.1, Enteroscipio_BAK43826.1
+OG0000110	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK45633.1	Enteroscipio_BAK43826.1
+OG0000111	N1	n0	0.6666666666666666	Non-Terminal	equolifaciens_RNL40527.1, Enteroscipio_BAK44972.1	equolifaciens_RNL39903.1, isoflavoniconvertens_WP_281669122.1, Enteroscipio_BAK43861.1, Enteroscipio_BAK44583.1
+OG0000111	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK43861.1	Enteroscipio_BAK44583.1
+OG0000112	N1	n0	0.6666666666666666	Non-Terminal	equolifaciens_RNL41968.1, equolifaciens_RNL42085.1, Enteroscipio_BAK44404.1, isoflavoniconvertens_WP_281668143.1	Enteroscipio_BAK43864.1, isoflavoniconvertens_WP_281668151.1
+OG0000112	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL41968.1	equolifaciens_RNL42085.1
+OG0000113	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48913.1	Lactococcus_QPR48866.1
+OG0000113	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK43912.1	Enteroscipio_BAK44973.1
+OG0000114	N1	n1	0.6666666666666666	Non-Terminal	equolifaciens_RNL38057.1, Enteroscipio_BAK44753.1, Enteroscipio_BAK43925.1	Enteroscipio_BAK45821.1, equolifaciens_RNL37783.1
+OG0000114	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44753.1	Enteroscipio_BAK43925.1
+OG0000115	N1	n1	0.6666666666666666	Non-Terminal	equolifaciens_RNL42152.1, Enteroscipio_BAK43966.1	Enteroscipio_BAK45270.1, equolifaciens_RNL40371.1, isoflavoniconvertens_WP_281668481.1
+OG0000116	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44805.1	Enteroscipio_BAK43981.1
+OG0000116	N2	n2	1.0	Non-Terminal	isoflavoniconvertens_WP_281668740.1, equolifaciens_RNL37233.1	isoflavoniconvertens_WP_281669051.1, equolifaciens_RNL38569.1
+OG0000117	N0	n1	0.5	Non-Terminal	isoflavoniconvertens_WP_281668650.1, equolifaciens_RNL41838.1, Lactococcus_QPR49520.1	Lactococcus_QPR49518.1, equolifaciens_RNL39512.1
+OG0000118	N1	n1	0.6666666666666666	Non-Terminal	Enteroscipio_BAK44022.1, equolifaciens_RNL40221.1	Enteroscipio_BAK44991.1, isoflavoniconvertens_WP_123219668.1, equolifaciens_RNL41432.1
+OG0000119	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44033.1, Enteroscipio_BAK44916.1, Enteroscipio_BAK44037.1	Enteroscipio_BAK44042.1
+OG0000119	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44033.1	Enteroscipio_BAK44916.1, Enteroscipio_BAK44037.1
+OG0000119	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44916.1	Enteroscipio_BAK44037.1
+OG0000120	N1	n0	0.6666666666666666	Non-Terminal	equolifaciens_RNL41106.1, Enteroscipio_BAK44917.1	Enteroscipio_BAK44036.1, isoflavoniconvertens_WP_281667977.1, equolifaciens_RNL40504.1, equolifaciens_RNL42025.1
+OG0000120	equolifaciens	n4	1.0	Terminal	equolifaciens_RNL40504.1	equolifaciens_RNL42025.1
+OG0000121	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49125.1	Lactococcus_QPR49942.1
+OG0000121	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44081.1	Enteroscipio_BAK44079.1
+OG0000122	N1	n1	0.6666666666666666	Non-Terminal	Enteroscipio_BAK44469.1, equolifaciens_RNL41067.1, isoflavoniconvertens_WP_114615491.1	isoflavoniconvertens_WP_281668968.1, Enteroscipio_BAK44090.1
+OG0000123	N1	n1	0.6666666666666666	Non-Terminal	Enteroscipio_BAK44180.1, isoflavoniconvertens_WP_281669117.1, equolifaciens_RNL38416.1	equolifaciens_RNL40668.1, Enteroscipio_BAK44324.1
+OG0000124	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44328.1	Enteroscipio_BAK45902.1, Enteroscipio_BAK44183.1
+OG0000124	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK45902.1	Enteroscipio_BAK44183.1
+OG0000125	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668207.1, isoflavoniconvertens_WP_281668434.1	isoflavoniconvertens_WP_281668107.1, isoflavoniconvertens_WP_281668247.1
+OG0000125	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281668207.1	isoflavoniconvertens_WP_281668434.1
+OG0000125	isoflavoniconvertens	n4	1.0	Terminal	isoflavoniconvertens_WP_281668107.1	isoflavoniconvertens_WP_281668247.1
+OG0000126	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49123.1, Lactococcus_QPR49209.1	Lactococcus_QPR48879.1
+OG0000126	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49123.1	Lactococcus_QPR49209.1
+OG0000127	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45771.1	Enteroscipio_BAK44217.1
+OG0000127	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281668503.1	isoflavoniconvertens_WP_281668502.1
+OG0000127	equolifaciens	n4	1.0	Terminal	equolifaciens_RNL39042.1	equolifaciens_RNL39041.1
+OG0000128	N1	n1	0.6666666666666666	Non-Terminal	Enteroscipio_BAK44221.1, equolifaciens_RNL41472.1, isoflavoniconvertens_WP_114614922.1	equolifaciens_RNL39920.1, Enteroscipio_BAK44708.1
+OG0000129	N1	n0	0.6666666666666666	Non-Terminal	isoflavoniconvertens_WP_281669113.1, Enteroscipio_BAK44265.1	equolifaciens_RNL37347.1, isoflavoniconvertens_WP_281669112.1, Enteroscipio_BAK44255.1, Enteroscipio_BAK44254.1
+OG0000129	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44255.1	Enteroscipio_BAK44254.1
+OG0000130	N1	n1	0.6666666666666666	Non-Terminal	Enteroscipio_BAK44282.1, isoflavoniconvertens_WP_281668035.1	Enteroscipio_BAK44628.1, isoflavoniconvertens_WP_281668043.1, equolifaciens_RNL41971.1
+OG0000131	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44408.1	Enteroscipio_BAK44810.1, Enteroscipio_BAK44809.1
+OG0000131	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44810.1	Enteroscipio_BAK44809.1
+OG0000131	equolifaciens	n4	1.0	Terminal	equolifaciens_RNL37684.1	equolifaciens_RNL40605.1
+OG0000132	N0	n0	0.5	Non-Terminal	Enteroscipio_BAK44422.1, equolifaciens_RNL40834.1, isoflavoniconvertens_WP_281668575.1, Lactococcus_QPR48702.1	Lactococcus_QPR49419.1, isoflavoniconvertens_WP_281668611.1
+OG0000133	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48224.1, Lactococcus_QPR49477.1	Lactococcus_QPR48077.1
+OG0000133	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48224.1	Lactococcus_QPR49477.1
+OG0000134	N1	n1	0.6666666666666666	Non-Terminal	Enteroscipio_BAK45638.1, isoflavoniconvertens_WP_281668373.1, equolifaciens_RNL40601.1	isoflavoniconvertens_WP_281668836.1, Enteroscipio_BAK44456.1
+OG0000135	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48100.1, Lactococcus_QPR48469.1	Lactococcus_QPR49163.1
+OG0000135	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48100.1	Lactococcus_QPR48469.1
+OG0000136	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44552.1	Enteroscipio_BAK44911.1
+OG0000136	isoflavoniconvertens	n4	1.0	Terminal	isoflavoniconvertens_WP_281669135.1	isoflavoniconvertens_WP_281668321.1
+OG0000137	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44578.1, Enteroscipio_BAK44830.1	Enteroscipio_BAK45848.1
+OG0000137	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44578.1	Enteroscipio_BAK44830.1
+OG0000138	N1	n0	0.6666666666666666	Non-Terminal	equolifaciens_RNL39443.1, isoflavoniconvertens_WP_281668915.1, Enteroscipio_BAK44920.1	equolifaciens_RNL39924.1, Enteroscipio_BAK44962.1, Enteroscipio_BAK44712.1
+OG0000138	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44962.1	Enteroscipio_BAK44712.1
+OG0000139	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL41393.1, equolifaciens_RNL37792.1	equolifaciens_RNL41943.1
+OG0000139	equolifaciens	n4	1.0	Terminal	equolifaciens_RNL41393.1	equolifaciens_RNL37792.1
+OG0000140	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48342.1	Lactococcus_QPR48283.1
+OG0000140	Enteroscipio	n4	1.0	Terminal	Enteroscipio_BAK44795.1	Enteroscipio_BAK44968.1
+OG0000141	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48769.1	Lactococcus_QPR48940.1, Lactococcus_QPR48109.1, Lactococcus_QPR48397.1, Lactococcus_QPR48353.1
+OG0000141	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48940.1, Lactococcus_QPR48109.1	Lactococcus_QPR48397.1, Lactococcus_QPR48353.1
+OG0000141	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48940.1	Lactococcus_QPR48109.1
+OG0000141	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR48397.1	Lactococcus_QPR48353.1
+OG0000142	N1	n1	0.6666666666666666	Non-Terminal	Enteroscipio_BAK44935.1, equolifaciens_RNL41996.1, isoflavoniconvertens_WP_123219693.1	equolifaciens_RNL37985.1, Enteroscipio_BAK45087.1
+OG0000143	N2	n1	1.0	Non-Terminal	equolifaciens_RNL39441.1, isoflavoniconvertens_WP_281667983.1	isoflavoniconvertens_WP_281668192.1, equolifaciens_RNL41998.1, equolifaciens_RNL39499.1
+OG0000143	equolifaciens	n4	1.0	Terminal	equolifaciens_RNL41998.1	equolifaciens_RNL39499.1
+OG0000144	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49707.1	Lactococcus_QPR48204.1, Lactococcus_QPR48600.1
+OG0000144	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR48204.1	Lactococcus_QPR48600.1
+OG0000145	N2	n2	1.0	Non-Terminal	isoflavoniconvertens_WP_281667959.1, equolifaciens_RNL39808.1	equolifaciens_RNL40365.1, isoflavoniconvertens_WP_281668078.1
+OG0000146	N1	n1	0.6666666666666666	Non-Terminal	isoflavoniconvertens_WP_281668279.1, equolifaciens_RNL41979.1	isoflavoniconvertens_WP_281667862.1, equolifaciens_RNL40525.1, Enteroscipio_BAK45027.1
+OG0000147	N1	n1	0.6666666666666666	Non-Terminal	equolifaciens_RNL40360.1, Enteroscipio_BAK45666.1, Enteroscipio_BAK45029.1	Enteroscipio_BAK45869.1, equolifaciens_RNL37994.1
+OG0000147	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45666.1	Enteroscipio_BAK45029.1
+OG0000148	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49651.1, Lactococcus_QPR49402.1	Lactococcus_QPR48721.1
+OG0000148	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49651.1	Lactococcus_QPR49402.1
+OG0000149	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45437.1	Enteroscipio_BAK45113.1
+OG0000149	N2	n2	1.0	Non-Terminal	equolifaciens_RNL39137.1, isoflavoniconvertens_WP_114614735.1	equolifaciens_RNL39855.1, isoflavoniconvertens_WP_281668772.1
+OG0000150	N0	n0	0.5	Non-Terminal	equolifaciens_RNL39058.1, isoflavoniconvertens_WP_281668532.1, Lactococcus_QPR49686.1	Lactococcus_QPR49752.1, Enteroscipio_BAK45117.1, equolifaciens_RNL41088.1
+OG0000151	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL39910.1	equolifaciens_RNL41964.1, equolifaciens_RNL39045.1, equolifaciens_RNL39039.1
+OG0000151	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL41964.1	equolifaciens_RNL39045.1, equolifaciens_RNL39039.1
+OG0000151	equolifaciens	n4	1.0	Terminal	equolifaciens_RNL39045.1	equolifaciens_RNL39039.1
+OG0000152	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48931.1, Lactococcus_QPR48493.1	Lactococcus_QPR48844.1
+OG0000152	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48931.1	Lactococcus_QPR48493.1
+OG0000153	N1	n1	0.3333333333333333	Non-Terminal	isoflavoniconvertens_WP_281668565.1	Enteroscipio_BAK45391.1, isoflavoniconvertens_WP_114615602.1, isoflavoniconvertens_WP_281669022.1, Enteroscipio_BAK45388.1
+OG0000153	N1	n2	0.6666666666666666	Non-Terminal	Enteroscipio_BAK45391.1, isoflavoniconvertens_WP_114615602.1	isoflavoniconvertens_WP_281669022.1, Enteroscipio_BAK45388.1
+OG0000154	N2	n1	1.0	Non-Terminal	isoflavoniconvertens_WP_281667902.1, equolifaciens_RNL39094.1, equolifaciens_RNL37797.1	equolifaciens_RNL40255.1, isoflavoniconvertens_WP_281667899.1
+OG0000154	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL39094.1	equolifaciens_RNL37797.1
+OG0000155	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281668232.1	isoflavoniconvertens_WP_281668231.1, isoflavoniconvertens_WP_281668169.1
+OG0000155	isoflavoniconvertens	n4	1.0	Terminal	isoflavoniconvertens_WP_281668231.1	isoflavoniconvertens_WP_281668169.1
+OG0000156	N2	n2	1.0	Non-Terminal	equolifaciens_RNL38575.1, isoflavoniconvertens_WP_281668790.1	equolifaciens_RNL37557.1, isoflavoniconvertens_WP_281668491.1
+OG0000157	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281668222.1, isoflavoniconvertens_WP_281667941.1	isoflavoniconvertens_WP_281668066.1
+OG0000157	isoflavoniconvertens	n4	1.0	Terminal	isoflavoniconvertens_WP_281668222.1	isoflavoniconvertens_WP_281667941.1
+OG0000158	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL41032.1, equolifaciens_RNL41944.1	equolifaciens_RNL42167.1
+OG0000158	equolifaciens	n4	1.0	Terminal	equolifaciens_RNL41032.1	equolifaciens_RNL41944.1
+OG0000159	N0	n0	0.5	Non-Terminal	Lactococcus_QPR49476.1, Lactococcus_QPR49682.1, Enteroscipio_BAK45753.1	Lactococcus_QPR49781.1, equolifaciens_RNL40263.1, Enteroscipio_BAK45722.1
+OG0000159	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49476.1	Lactococcus_QPR49682.1
+OG0000160	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL41857.1, equolifaciens_RNL41383.1	equolifaciens_RNL41959.1
+OG0000160	equolifaciens	n4	1.0	Terminal	equolifaciens_RNL41857.1	equolifaciens_RNL41383.1
+OG0000161	N2	n2	1.0	Non-Terminal	isoflavoniconvertens_WP_123219974.1, equolifaciens_RNL38411.1	isoflavoniconvertens_WP_114614710.1, equolifaciens_RNL40858.1
+OG0000162	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49882.1, Lactococcus_QPR48053.1, Lactococcus_QPR49881.1	Lactococcus_QPR49905.1
+OG0000162	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49882.1, Lactococcus_QPR48053.1	Lactococcus_QPR49881.1
+OG0000162	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49882.1	Lactococcus_QPR48053.1
+OG0000163	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR48685.1	Lactococcus_QPR48191.1, Lactococcus_QPR49588.1, Lactococcus_QPR48190.1, Lactococcus_QPR49412.1, Lactococcus_QPR48643.1
+OG0000163	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48191.1, Lactococcus_QPR49588.1	Lactococcus_QPR48190.1, Lactococcus_QPR49412.1, Lactococcus_QPR48643.1
+OG0000163	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48191.1	Lactococcus_QPR49588.1
+OG0000163	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48190.1	Lactococcus_QPR49412.1, Lactococcus_QPR48643.1
+OG0000163	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR49412.1	Lactococcus_QPR48643.1
+OG0000164	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48930.1, Lactococcus_QPR48295.1, Lactococcus_QPR48296.1	Lactococcus_QPR48312.1
+OG0000164	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48930.1, Lactococcus_QPR48295.1	Lactococcus_QPR48296.1
+OG0000164	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR48930.1	Lactococcus_QPR48295.1
+OG0000165	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR48939.1	Lactococcus_QPR48766.1, Lactococcus_QPR48938.1, Lactococcus_QPR48349.1, Lactococcus_QPR49590.1, Lactococcus_QPR49589.1
+OG0000165	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48766.1	Lactococcus_QPR48938.1, Lactococcus_QPR48349.1, Lactococcus_QPR49590.1, Lactococcus_QPR49589.1
+OG0000165	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48938.1, Lactococcus_QPR48349.1, Lactococcus_QPR49590.1	Lactococcus_QPR49589.1
+OG0000165	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48938.1, Lactococcus_QPR48349.1	Lactococcus_QPR49590.1
+OG0000165	Lactococcus	n4	1.0	Terminal	Lactococcus_QPR48938.1	Lactococcus_QPR48349.1
+OG0000166	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL37799.1	equolifaciens_RNL36808.1
+OG0000167	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43299.1	Enteroscipio_BAK44569.1
+OG0000168	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43304.1	Enteroscipio_BAK44365.1, Enteroscipio_BAK43525.1, Enteroscipio_BAK43305.1
+OG0000168	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44365.1, Enteroscipio_BAK43525.1	Enteroscipio_BAK43305.1
+OG0000168	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44365.1	Enteroscipio_BAK43525.1
+OG0000169	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK44737.1	Enteroscipio_BAK43736.1, Enteroscipio_BAK44693.1, Enteroscipio_BAK43726.1, Enteroscipio_BAK43315.1
+OG0000169	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43736.1	Enteroscipio_BAK44693.1, Enteroscipio_BAK43726.1, Enteroscipio_BAK43315.1
+OG0000169	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44693.1, Enteroscipio_BAK43726.1	Enteroscipio_BAK43315.1
+OG0000169	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44693.1	Enteroscipio_BAK43726.1
+OG0000170	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK43855.1	Enteroscipio_BAK44736.1, Enteroscipio_BAK43735.1, Enteroscipio_BAK43316.1, Enteroscipio_BAK43725.1
+OG0000170	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44736.1, Enteroscipio_BAK43735.1, Enteroscipio_BAK43316.1	Enteroscipio_BAK43725.1
+OG0000170	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44736.1, Enteroscipio_BAK43735.1	Enteroscipio_BAK43316.1
+OG0000170	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44736.1	Enteroscipio_BAK43735.1
+OG0000171	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK44727.1	Enteroscipio_BAK44694.1, Enteroscipio_BAK44735.1, Enteroscipio_BAK43734.1, Enteroscipio_BAK43317.1
+OG0000171	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44694.1	Enteroscipio_BAK44735.1, Enteroscipio_BAK43734.1, Enteroscipio_BAK43317.1
+OG0000171	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44735.1, Enteroscipio_BAK43734.1	Enteroscipio_BAK43317.1
+OG0000171	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44735.1	Enteroscipio_BAK43734.1
+OG0000172	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK45280.1	Enteroscipio_BAK45924.1, Enteroscipio_BAK43347.1, Enteroscipio_BAK44671.1, Enteroscipio_BAK43709.1
+OG0000172	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45924.1, Enteroscipio_BAK43347.1	Enteroscipio_BAK44671.1, Enteroscipio_BAK43709.1
+OG0000172	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45924.1	Enteroscipio_BAK43347.1
+OG0000172	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44671.1	Enteroscipio_BAK43709.1
+OG0000173	N0	n0	0.5	Non-Terminal	Enteroscipio_BAK43353.1, Lactococcus_QPR48635.1	equolifaciens_RNL38007.1, Enteroscipio_BAK45772.1, Lactococcus_QPR49045.1
+OG0000174	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44092.1	Enteroscipio_BAK43372.1
+OG0000175	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43379.1	Enteroscipio_BAK43380.1, Enteroscipio_BAK45779.1
+OG0000175	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43380.1	Enteroscipio_BAK45779.1
+OG0000176	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48775.1, Lactococcus_QPR48943.1	Lactococcus_QPR49421.1
+OG0000176	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48775.1	Lactococcus_QPR48943.1
+OG0000177	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43409.1	Enteroscipio_BAK45410.1
+OG0000177	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL38849.1	equolifaciens_RNL39834.1
+OG0000178	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48883.1	Lactococcus_QPR48309.1
+OG0000179	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281668310.1	isoflavoniconvertens_WP_281668219.1
+OG0000180	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41978.1	equolifaciens_RNL40401.1, equolifaciens_RNL40406.1
+OG0000180	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL40401.1	equolifaciens_RNL40406.1
+OG0000181	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43553.1	Enteroscipio_BAK45738.1, Enteroscipio_BAK43489.1, Enteroscipio_BAK44927.1
+OG0000181	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45738.1	Enteroscipio_BAK43489.1, Enteroscipio_BAK44927.1
+OG0000181	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43489.1	Enteroscipio_BAK44927.1
+OG0000182	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43493.1	Enteroscipio_BAK43801.1
+OG0000183	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL41862.1	equolifaciens_RNL41888.1
+OG0000184	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45151.1	Enteroscipio_BAK43529.1
+OG0000185	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL41948.1	equolifaciens_RNL40480.1
+OG0000186	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43618.1	Enteroscipio_BAK43583.1
+OG0000187	N1	n0	0.6666666666666666	Non-Terminal	equolifaciens_RNL40608.1, Enteroscipio_BAK43760.1	equolifaciens_RNL39921.1, Enteroscipio_BAK43628.1, Enteroscipio_BAK44709.1
+OG0000187	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43628.1	Enteroscipio_BAK44709.1
+OG0000188	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45884.1	Enteroscipio_BAK43642.1
+OG0000189	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL40826.1	equolifaciens_RNL42184.1
+OG0000190	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45725.1	Enteroscipio_BAK43682.1
+OG0000191	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49675.1	Lactococcus_QPR48384.1
+OG0000191	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL39532.1	equolifaciens_RNL40833.1
+OG0000192	N1	n0	0.6666666666666666	Non-Terminal	Enteroscipio_BAK43762.1, isoflavoniconvertens_WP_281668549.1	Enteroscipio_BAK43761.1, isoflavoniconvertens_WP_281668645.1, isoflavoniconvertens_WP_281668646.1
+OG0000192	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281668645.1	isoflavoniconvertens_WP_281668646.1
+OG0000193	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44012.1	Enteroscipio_BAK43803.1
+OG0000194	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL41853.1	equolifaciens_RNL42097.1
+OG0000195	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL38054.1	equolifaciens_RNL40385.1, equolifaciens_RNL42029.1
+OG0000195	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL40385.1	equolifaciens_RNL42029.1
+OG0000196	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43822.1	Enteroscipio_BAK44635.1
+OG0000197	N1	n0	0.6666666666666666	Non-Terminal	isoflavoniconvertens_WP_281668845.1, equolifaciens_RNL42083.1, Enteroscipio_BAK43863.1	Enteroscipio_BAK44575.1, equolifaciens_RNL40511.1
+OG0000198	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281667824.1	isoflavoniconvertens_WP_281668100.1
+OG0000199	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43877.1, Enteroscipio_BAK45817.1, Enteroscipio_BAK44366.1	Enteroscipio_BAK44913.1
+OG0000199	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43877.1, Enteroscipio_BAK45817.1	Enteroscipio_BAK44366.1
+OG0000199	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43877.1	Enteroscipio_BAK45817.1
+OG0000200	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49838.1	Lactococcus_QPR49771.1
+OG0000201	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44345.1	Enteroscipio_BAK44454.1, Enteroscipio_BAK43901.1
+OG0000201	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44454.1	Enteroscipio_BAK43901.1
+OG0000202	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44127.1	Enteroscipio_BAK43921.1, Enteroscipio_BAK44799.1, Enteroscipio_BAK44099.1
+OG0000202	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43921.1, Enteroscipio_BAK44799.1	Enteroscipio_BAK44099.1
+OG0000202	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK43921.1	Enteroscipio_BAK44799.1
+OG0000203	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45870.1	Enteroscipio_BAK43936.1
+OG0000204	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43962.1	Enteroscipio_BAK44317.1, Enteroscipio_BAK45269.1
+OG0000204	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44317.1	Enteroscipio_BAK45269.1
+OG0000205	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44939.1	Enteroscipio_BAK45733.1, Enteroscipio_BAK43965.1
+OG0000205	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45733.1	Enteroscipio_BAK43965.1
+OG0000206	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45640.1	Enteroscipio_BAK44005.1, Enteroscipio_BAK44059.1, Enteroscipio_BAK45641.1
+OG0000206	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44005.1, Enteroscipio_BAK44059.1	Enteroscipio_BAK45641.1
+OG0000206	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44005.1	Enteroscipio_BAK44059.1
+OG0000207	N1	n0	0.6666666666666666	Non-Terminal	equolifaciens_RNL40805.1, isoflavoniconvertens_WP_281668354.1, Enteroscipio_BAK44016.1	equolifaciens_RNL42135.1, Enteroscipio_BAK45718.1
+OG0000208	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL42143.1, equolifaciens_RNL41418.1	equolifaciens_RNL40825.1
+OG0000208	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL42143.1	equolifaciens_RNL41418.1
+OG0000209	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44063.1	Enteroscipio_BAK45792.1
+OG0000210	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49101.1	Lactococcus_QPR49151.1
+OG0000211	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44165.1	Enteroscipio_BAK45238.1, Enteroscipio_BAK45698.1
+OG0000211	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45238.1	Enteroscipio_BAK45698.1
+OG0000212	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48593.1	Lactococcus_QPR49763.1
+OG0000213	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44327.1	Enteroscipio_BAK44182.1
+OG0000214	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL41062.1, equolifaciens_RNL40799.1, equolifaciens_RNL40444.1	equolifaciens_RNL37988.1
+OG0000214	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41062.1, equolifaciens_RNL40799.1	equolifaciens_RNL40444.1
+OG0000214	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL41062.1	equolifaciens_RNL40799.1
+OG0000215	N1	n0	0.6666666666666666	Non-Terminal	Enteroscipio_BAK45543.1, equolifaciens_RNL40581.1	isoflavoniconvertens_WP_281668253.1, equolifaciens_RNL40500.1, Enteroscipio_BAK44194.1
+OG0000216	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45688.1	Enteroscipio_BAK45258.1, Enteroscipio_BAK44207.1
+OG0000216	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45258.1	Enteroscipio_BAK44207.1
+OG0000217	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45488.1	Enteroscipio_BAK44773.1, Enteroscipio_BAK44257.1, Enteroscipio_BAK45545.1
+OG0000217	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44773.1	Enteroscipio_BAK44257.1, Enteroscipio_BAK45545.1
+OG0000217	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44257.1	Enteroscipio_BAK45545.1
+OG0000218	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL41950.1	equolifaciens_RNL41965.1
+OG0000219	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL38412.1	equolifaciens_RNL37836.1, equolifaciens_RNL37823.1
+OG0000219	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL37836.1	equolifaciens_RNL37823.1
+OG0000220	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK44301.1	Enteroscipio_BAK45241.1, Enteroscipio_BAK45148.1, Enteroscipio_BAK44869.1, Enteroscipio_BAK45249.1
+OG0000220	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45241.1	Enteroscipio_BAK45148.1, Enteroscipio_BAK44869.1, Enteroscipio_BAK45249.1
+OG0000220	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45148.1	Enteroscipio_BAK44869.1, Enteroscipio_BAK45249.1
+OG0000220	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44869.1	Enteroscipio_BAK45249.1
+OG0000221	N1	n0	0.6666666666666666	Non-Terminal	Enteroscipio_BAK44318.1, isoflavoniconvertens_WP_114614998.1	equolifaciens_RNL39420.1, isoflavoniconvertens_WP_281668384.1, Enteroscipio_BAK44624.1
+OG0000222	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL38001.1	equolifaciens_RNL38402.1
+OG0000223	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48625.1	Lactococcus_QPR49033.1
+OG0000224	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281668396.1	isoflavoniconvertens_WP_281667934.1
+OG0000225	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44778.1	Enteroscipio_BAK44407.1
+OG0000226	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45885.1	Enteroscipio_BAK44419.1
+OG0000227	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49834.1	Lactococcus_QPR49839.1
+OG0000228	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49869.1	Lactococcus_QPR49745.1
+OG0000229	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49199.1	Lactococcus_QPR48427.1, Lactococcus_QPR48892.1, Lactococcus_QPR48193.1
+OG0000229	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48427.1, Lactococcus_QPR48892.1	Lactococcus_QPR48193.1
+OG0000229	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48427.1	Lactococcus_QPR48892.1
+OG0000230	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44483.1	Enteroscipio_BAK44642.1
+OG0000231	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48273.1	Lactococcus_QPR49428.1
+OG0000231	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL38398.1	equolifaciens_RNL38399.1
+OG0000232	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281668964.1	isoflavoniconvertens_WP_281668640.1
+OG0000233	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49042.1	Lactococcus_QPR48056.1
+OG0000234	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45481.1	Enteroscipio_BAK44587.1
+OG0000235	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_114614952.1	isoflavoniconvertens_WP_281668276.1
+OG0000236	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44645.1	Enteroscipio_BAK45201.1
+OG0000237	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48161.1	Lactococcus_QPR49079.1, Lactococcus_QPR49429.1, Lactococcus_QPR48489.1
+OG0000237	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49079.1	Lactococcus_QPR49429.1, Lactococcus_QPR48489.1
+OG0000237	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49429.1	Lactococcus_QPR48489.1
+OG0000238	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK44814.1	Enteroscipio_BAK45017.1
+OG0000239	N1	n0	0.6666666666666666	Non-Terminal	Enteroscipio_BAK44982.1, equolifaciens_RNL41025.1	Enteroscipio_BAK44835.1, equolifaciens_RNL40975.1, isoflavoniconvertens_WP_281668904.1
+OG0000240	N2	n1	1.0	Non-Terminal: STRIDE	equolifaciens_RNL41399.1, isoflavoniconvertens_WP_281668812.1	isoflavoniconvertens_WP_281668998.1, equolifaciens_RNL41046.1
+OG0000241	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL41367.1	equolifaciens_RNL38546.1
+OG0000242	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45513.1	Enteroscipio_BAK45008.1
+OG0000243	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281667818.1	isoflavoniconvertens_WP_281667957.1
+OG0000244	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49738.1	Lactococcus_QPR48572.1, Lactococcus_QPR48860.1
+OG0000244	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48572.1	Lactococcus_QPR48860.1
+OG0000245	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL41981.1	equolifaciens_RNL42027.1
+OG0000246	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48525.1	Lactococcus_QPR49931.1
+OG0000247	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49363.1	Lactococcus_QPR48460.1
+OG0000248	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45175.1	Enteroscipio_BAK45290.1
+OG0000249	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48474.1	Lactococcus_QPR48139.1
+OG0000250	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41415.1	equolifaciens_RNL39187.1, equolifaciens_RNL40827.1
+OG0000250	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL39187.1	equolifaciens_RNL40827.1
+OG0000251	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45707.1, Enteroscipio_BAK45492.1, Enteroscipio_BAK45440.1	Enteroscipio_BAK45349.1
+OG0000251	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45707.1, Enteroscipio_BAK45492.1	Enteroscipio_BAK45440.1
+OG0000251	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45707.1	Enteroscipio_BAK45492.1
+OG0000252	N2	n1	1.0	Non-Terminal	equolifaciens_RNL41913.1, isoflavoniconvertens_WP_114551983.1	isoflavoniconvertens_WP_281668760.1, equolifaciens_RNL39129.1
+OG0000253	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL39898.1, equolifaciens_RNL37785.1	equolifaciens_RNL42058.1
+OG0000253	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL39898.1	equolifaciens_RNL37785.1
+OG0000254	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48526.1	Lactococcus_QPR48487.1
+OG0000255	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL39035.1	equolifaciens_RNL40339.1
+OG0000256	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL40657.1	equolifaciens_RNL38423.1
+OG0000257	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48102.1	Lactococcus_QPR48103.1
+OG0000258	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL42100.1	equolifaciens_RNL41373.1, equolifaciens_RNL39948.1
+OG0000258	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL41373.1	equolifaciens_RNL39948.1
+OG0000259	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL40513.1	equolifaciens_RNL40475.1
+OG0000259	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45575.1	Enteroscipio_BAK45576.1
+OG0000260	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49376.1	Lactococcus_QPR49655.1
+OG0000261	N2	n1	1.0	Non-Terminal: STRIDE	isoflavoniconvertens_WP_281668959.1, equolifaciens_RNL40622.1	isoflavoniconvertens_WP_281668777.1, equolifaciens_RNL40293.1
+OG0000262	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45695.1	Enteroscipio_BAK45784.1
+OG0000263	N1	n0	0.6666666666666666	Non-Terminal	isoflavoniconvertens_WP_281668630.1, Enteroscipio_BAK45843.1	Enteroscipio_BAK45740.1, equolifaciens_RNL41904.1, isoflavoniconvertens_WP_281668631.1
+OG0000264	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48603.1	Lactococcus_QPR49910.1
+OG0000265	isoflavoniconvertens	n1	1.0	Terminal	isoflavoniconvertens_WP_281668443.1	isoflavoniconvertens_WP_281668324.1, isoflavoniconvertens_WP_281668412.1, isoflavoniconvertens_WP_281668087.1
+OG0000265	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668324.1	isoflavoniconvertens_WP_281668412.1, isoflavoniconvertens_WP_281668087.1
+OG0000265	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281668412.1	isoflavoniconvertens_WP_281668087.1
+OG0000266	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48760.1	Lactococcus_QPR48759.1
+OG0000267	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48763.1	Lactococcus_QPR48764.1
+OG0000268	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45795.1	Enteroscipio_BAK45955.1
+OG0000269	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668271.1, isoflavoniconvertens_WP_281668621.1	isoflavoniconvertens_WP_281668625.1
+OG0000269	isoflavoniconvertens	n3	1.0	Terminal	isoflavoniconvertens_WP_281668271.1	isoflavoniconvertens_WP_281668621.1
+OG0000270	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL41385.1	equolifaciens_RNL38775.1
+OG0000271	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49884.1	Lactococcus_QPR48334.1
+OG0000272	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49750.1	Lactococcus_QPR48573.1
+OG0000273	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL40658.1	equolifaciens_RNL38850.1
+OG0000274	Enteroscipio	n3	1.0	Terminal	Enteroscipio_BAK45961.1	Enteroscipio_BAK45960.1
+OG0000275	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49901.1	Lactococcus_QPR49191.1
+OG0000276	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR49592.1	Lactococcus_QPR48967.1, Lactococcus_QPR48904.1, Lactococcus_QPR48240.1, Lactococcus_QPR48556.1
+OG0000276	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48967.1, Lactococcus_QPR48904.1	Lactococcus_QPR48240.1, Lactococcus_QPR48556.1
+OG0000276	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48967.1	Lactococcus_QPR48904.1
+OG0000276	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48240.1	Lactococcus_QPR48556.1
+OG0000277	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR48338.1	Lactococcus_QPR48736.1, Lactococcus_QPR48696.1, Lactococcus_QPR48515.1, Lactococcus_QPR49815.1
+OG0000277	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48736.1, Lactococcus_QPR48696.1, Lactococcus_QPR48515.1	Lactococcus_QPR49815.1
+OG0000277	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48736.1, Lactococcus_QPR48696.1	Lactococcus_QPR48515.1
+OG0000277	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48736.1	Lactococcus_QPR48696.1
+OG0000278	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR49336.1	Lactococcus_QPR49868.1, Lactococcus_QPR49488.1, Lactococcus_QPR48513.1, Lactococcus_QPR49041.1
+OG0000278	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49868.1	Lactococcus_QPR49488.1, Lactococcus_QPR48513.1, Lactococcus_QPR49041.1
+OG0000278	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49488.1, Lactococcus_QPR48513.1	Lactococcus_QPR49041.1
+OG0000278	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49488.1	Lactococcus_QPR48513.1
+OG0000279	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_114616265.1	isoflavoniconvertens_WP_281668128.1
+OG0000279	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR48924.1	Lactococcus_QPR48602.1
+OG0000280	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49090.1	Lactococcus_QPR49633.1, Lactococcus_QPR49936.1
+OG0000280	Lactococcus	n3	1.0	Terminal	Lactococcus_QPR49633.1	Lactococcus_QPR49936.1
+OG0000281	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL39085.1	equolifaciens_RNL38772.1, equolifaciens_RNL42037.1, equolifaciens_RNL42032.1
+OG0000281	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL38772.1	equolifaciens_RNL42037.1, equolifaciens_RNL42032.1
+OG0000281	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL42037.1	equolifaciens_RNL42032.1
+OG0000282	N2	n0	1.0	Non-Terminal	equolifaciens_RNL40829.1, isoflavoniconvertens_WP_281668674.1	isoflavoniconvertens_WP_281668927.1, equolifaciens_RNL40830.1, equolifaciens_RNL41411.1
+OG0000282	equolifaciens	n3	1.0	Terminal	equolifaciens_RNL40830.1	equolifaciens_RNL41411.1
+OG0000287	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43296.1	Enteroscipio_BAK43574.1, Enteroscipio_BAK43575.1
+OG0000287	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43574.1	Enteroscipio_BAK43575.1
+OG0000288	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45903.1	Enteroscipio_BAK43328.1
+OG0000288	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49804.1	Lactococcus_QPR49275.1
+OG0000289	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK43714.1	Enteroscipio_BAK43330.1, Enteroscipio_BAK45905.1, Enteroscipio_BAK44676.1
+OG0000289	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43330.1, Enteroscipio_BAK45905.1	Enteroscipio_BAK44676.1
+OG0000289	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43330.1	Enteroscipio_BAK45905.1
+OG0000290	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK45925.1	Enteroscipio_BAK43348.1, Enteroscipio_BAK43708.1, Enteroscipio_BAK44670.1
+OG0000290	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43348.1	Enteroscipio_BAK43708.1, Enteroscipio_BAK44670.1
+OG0000290	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43708.1	Enteroscipio_BAK44670.1
+OG0000298	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668844.1	isoflavoniconvertens_WP_281668241.1
+OG0000299	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43388.1, Enteroscipio_BAK43976.1	Enteroscipio_BAK43977.1
+OG0000299	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43388.1	Enteroscipio_BAK43976.1
+OG0000302	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL40242.1	equolifaciens_RNL41519.1, equolifaciens_RNL39136.1
+OG0000302	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41519.1	equolifaciens_RNL39136.1
+OG0000303	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43411.1	Enteroscipio_BAK45155.1
+OG0000306	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45452.1	Enteroscipio_BAK43418.1
+OG0000307	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK45752.1	Enteroscipio_BAK43430.1, Enteroscipio_BAK43796.1, Enteroscipio_BAK44866.1
+OG0000307	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43430.1	Enteroscipio_BAK43796.1, Enteroscipio_BAK44866.1
+OG0000307	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43796.1	Enteroscipio_BAK44866.1
+OG0000308	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43435.1	Enteroscipio_BAK45849.1
+OG0000311	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43987.1	Enteroscipio_BAK43445.1
+OG0000313	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK45616.1	Enteroscipio_BAK43633.1, Enteroscipio_BAK43459.1, Enteroscipio_BAK44550.1
+OG0000313	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43633.1, Enteroscipio_BAK43459.1	Enteroscipio_BAK44550.1
+OG0000313	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43633.1	Enteroscipio_BAK43459.1
+OG0000314	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL39076.1	equolifaciens_RNL39074.1
+OG0000315	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44981.1	Enteroscipio_BAK44928.1, Enteroscipio_BAK43483.1
+OG0000315	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44928.1	Enteroscipio_BAK43483.1
+OG0000321	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43555.1	Enteroscipio_BAK43544.1
+OG0000322	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43560.1	Enteroscipio_BAK44472.1
+OG0000325	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49228.1, Lactococcus_QPR48339.1	Lactococcus_QPR48302.1
+OG0000325	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49228.1	Lactococcus_QPR48339.1
+OG0000328	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43591.1	Enteroscipio_BAK45469.1
+OG0000332	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43843.1	Enteroscipio_BAK43604.1
+OG0000333	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41436.1	equolifaciens_RNL39528.1
+OG0000337	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44543.1	Enteroscipio_BAK43619.1
+OG0000340	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43643.1	Enteroscipio_BAK45397.1
+OG0000341	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43818.1	Enteroscipio_BAK44857.1, Enteroscipio_BAK43652.1
+OG0000341	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44857.1	Enteroscipio_BAK43652.1
+OG0000343	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43658.1	Enteroscipio_BAK45160.1
+OG0000343	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41084.1	equolifaciens_RNL41085.1
+OG0000353	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43704.1, Enteroscipio_BAK44662.1	Enteroscipio_BAK45828.1
+OG0000353	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43704.1	Enteroscipio_BAK44662.1
+OG0000354	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43713.1	Enteroscipio_BAK44675.1
+OG0000357	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK43743.1	Enteroscipio_BAK45800.1, Enteroscipio_BAK45713.1
+OG0000357	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45800.1	Enteroscipio_BAK45713.1
+OG0000361	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668221.1	isoflavoniconvertens_WP_281668751.1
+OG0000363	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_123219233.1	isoflavoniconvertens_WP_281668083.1
+OG0000367	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL40331.1	equolifaciens_RNL38243.1
+OG0000376	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45945.1	Enteroscipio_BAK43844.1
+OG0000377	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK45001.1	Enteroscipio_BAK45458.1, Enteroscipio_BAK45178.1, Enteroscipio_BAK43846.1
+OG0000377	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45458.1	Enteroscipio_BAK45178.1, Enteroscipio_BAK43846.1
+OG0000377	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45178.1	Enteroscipio_BAK43846.1
+OG0000379	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL40528.1	equolifaciens_RNL42084.1
+OG0000380	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44951.1	Enteroscipio_BAK43866.1
+OG0000386	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK44253.1	Enteroscipio_BAK45737.1, Enteroscipio_BAK43882.1, Enteroscipio_BAK44923.1
+OG0000386	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45737.1, Enteroscipio_BAK43882.1	Enteroscipio_BAK44923.1
+OG0000386	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45737.1	Enteroscipio_BAK43882.1
+OG0000389	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668890.1	isoflavoniconvertens_WP_281668714.1
+OG0000390	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43894.1	Enteroscipio_BAK45840.1
+OG0000391	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43907.1	Enteroscipio_BAK44126.1
+OG0000392	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK43913.1	Enteroscipio_BAK43908.1
+OG0000398	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281667845.1	isoflavoniconvertens_WP_281668316.1
+OG0000401	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL37570.1, equolifaciens_RNL41982.1	equolifaciens_RNL42150.1
+OG0000401	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL37570.1	equolifaciens_RNL41982.1
+OG0000406	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44280.1	Enteroscipio_BAK43995.1
+OG0000406	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL40595.1	equolifaciens_RNL38762.1
+OG0000409	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45842.1	Enteroscipio_BAK44057.1, Enteroscipio_BAK44004.1
+OG0000409	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44057.1	Enteroscipio_BAK44004.1
+OG0000418	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44068.1	Enteroscipio_BAK44067.1
+OG0000419	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL42096.1	equolifaciens_RNL37448.1
+OG0000437	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668768.1	isoflavoniconvertens_WP_281668684.1
+OG0000439	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL39455.1	equolifaciens_RNL41493.1
+OG0000441	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL36809.1	equolifaciens_RNL38417.1
+OG0000443	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41098.1	equolifaciens_RNL42086.1
+OG0000456	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL40382.1	equolifaciens_RNL38012.1
+OG0000463	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41527.1	equolifaciens_RNL37341.1
+OG0000464	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668488.1	isoflavoniconvertens_WP_281669108.1
+OG0000465	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281667857.1	isoflavoniconvertens_WP_281667856.1
+OG0000467	N1	n0	0.6666666666666666	Non-Terminal	Enteroscipio_BAK44305.1, equolifaciens_RNL37986.1	Enteroscipio_BAK44299.1, equolifaciens_RNL42129.1
+OG0000469	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL40492.1	equolifaciens_RNL38050.1
+OG0000470	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281669132.1	isoflavoniconvertens_WP_281668444.1
+OG0000474	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49575.1	Lactococcus_QPR49770.1
+OG0000475	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41376.1	equolifaciens_RNL38794.1
+OG0000487	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL38750.1	equolifaciens_RNL41030.1
+OG0000496	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44439.1	Enteroscipio_BAK44930.1
+OG0000510	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44831.1	Enteroscipio_BAK44473.1
+OG0000512	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44484.1	Enteroscipio_BAK45306.1
+OG0000516	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44502.1	Enteroscipio_BAK44536.1
+OG0000517	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL42002.1	equolifaciens_RNL41387.1, equolifaciens_RNL38408.1
+OG0000517	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41387.1	equolifaciens_RNL38408.1
+OG0000518	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48166.1	Lactococcus_QPR49250.1
+OG0000536	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45138.1	Enteroscipio_BAK44591.1
+OG0000536	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281667851.1	isoflavoniconvertens_WP_281668581.1
+OG0000558	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44646.1	Enteroscipio_BAK45876.1
+OG0000559	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44697.1	Enteroscipio_BAK45053.1
+OG0000560	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL38063.1	equolifaciens_RNL38064.1, equolifaciens_RNL37087.1
+OG0000560	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL38064.1	equolifaciens_RNL37087.1
+OG0000561	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL37549.1	equolifaciens_RNL37446.1
+OG0000564	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL40874.1	equolifaciens_RNL41518.1
+OG0000564	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45487.1	Enteroscipio_BAK44772.1
+OG0000565	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44776.1	Enteroscipio_BAK45760.1, Enteroscipio_BAK45489.1
+OG0000565	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45760.1	Enteroscipio_BAK45489.1
+OG0000566	N1	n0	0.6666666666666666	Non-Terminal	isoflavoniconvertens_WP_281668141.1, Enteroscipio_BAK44789.1	isoflavoniconvertens_WP_281669032.1, Enteroscipio_BAK45390.1
+OG0000571	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL37332.1	equolifaciens_RNL41015.1
+OG0000572	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL37331.1	equolifaciens_RNL41108.1
+OG0000581	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45438.1	Enteroscipio_BAK44852.1
+OG0000595	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41928.1	equolifaciens_RNL40283.1
+OG0000607	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41997.1	equolifaciens_RNL39440.1
+OG0000608	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK44943.1	Enteroscipio_BAK44944.1
+OG0000609	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK44952.1	Enteroscipio_BAK45435.1
+OG0000613	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41954.1	equolifaciens_RNL41433.1
+OG0000621	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45037.1	Enteroscipio_BAK45268.1
+OG0000623	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45701.1, Enteroscipio_BAK45052.1	Enteroscipio_BAK45462.1
+OG0000623	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45701.1	Enteroscipio_BAK45052.1
+OG0000627	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45061.1	Enteroscipio_BAK45857.1
+OG0000643	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL37811.1	equolifaciens_RNL41405.1
+OG0000649	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL40838.1	equolifaciens_RNL39547.1, equolifaciens_RNL42067.1
+OG0000649	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL39547.1	equolifaciens_RNL42067.1
+OG0000672	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45218.1	Enteroscipio_BAK45217.1
+OG0000681	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281667829.1	isoflavoniconvertens_WP_281668331.1
+OG0000682	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49302.1	Lactococcus_QPR48620.1
+OG0000685	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45323.1	Enteroscipio_BAK45361.1, Enteroscipio_BAK45360.1
+OG0000685	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45361.1	Enteroscipio_BAK45360.1
+OG0000690	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668320.1	isoflavoniconvertens_WP_281668319.1
+OG0000691	Enteroscipio	n0	1.0	Terminal	Enteroscipio_BAK45454.1	Enteroscipio_BAK45441.1, Enteroscipio_BAK45450.1, Enteroscipio_BAK45446.1
+OG0000691	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45441.1, Enteroscipio_BAK45450.1	Enteroscipio_BAK45446.1
+OG0000691	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45441.1	Enteroscipio_BAK45450.1
+OG0000694	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668105.1	isoflavoniconvertens_WP_281668673.1
+OG0000722	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49165.1, Lactococcus_QPR49463.1	Lactococcus_QPR49683.1
+OG0000722	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49165.1	Lactococcus_QPR49463.1
+OG0000724	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45529.1	Enteroscipio_BAK45670.1, Enteroscipio_BAK45804.1
+OG0000724	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45670.1	Enteroscipio_BAK45804.1
+OG0000727	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45597.1	Enteroscipio_BAK45596.1
+OG0000728	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45599.1	Enteroscipio_BAK45598.1
+OG0000742	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668092.1	isoflavoniconvertens_WP_114614663.1
+OG0000750	Enteroscipio	n1	1.0	Terminal	Enteroscipio_BAK45702.1	Enteroscipio_BAK45764.1
+OG0000754	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL40810.1	equolifaciens_RNL42137.1
+OG0000755	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL42136.1	equolifaciens_RNL40811.1
+OG0000756	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL42139.1	equolifaciens_RNL40806.1
+OG0000757	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41983.1	equolifaciens_RNL41481.1
+OG0000761	Enteroscipio	n2	1.0	Terminal	Enteroscipio_BAK45822.1	Enteroscipio_BAK45878.1
+OG0000766	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668091.1	isoflavoniconvertens_WP_114615303.1
+OG0000768	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL40803.1	equolifaciens_RNL40801.1, equolifaciens_RNL40802.1
+OG0000768	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL40801.1	equolifaciens_RNL40802.1
+OG0000773	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR48739.1	Lactococcus_QPR48119.1, Lactococcus_QPR48192.1, Lactococcus_QPR48740.1
+OG0000773	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48119.1	Lactococcus_QPR48192.1, Lactococcus_QPR48740.1
+OG0000773	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48192.1	Lactococcus_QPR48740.1
+OG0000774	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR48160.1	Lactococcus_QPR48162.1, Lactococcus_QPR48522.1, Lactococcus_QPR48716.1
+OG0000774	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48162.1, Lactococcus_QPR48522.1	Lactococcus_QPR48716.1
+OG0000774	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48162.1	Lactococcus_QPR48522.1
+OG0000775	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR48849.1	Lactococcus_QPR48385.1, Lactococcus_QPR48271.1, Lactococcus_QPR48589.1
+OG0000775	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48385.1, Lactococcus_QPR48271.1	Lactococcus_QPR48589.1
+OG0000775	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48385.1	Lactococcus_QPR48271.1
+OG0000776	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48536.1	Lactococcus_QPR48370.1, Lactococcus_QPR48956.1
+OG0000776	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48370.1	Lactococcus_QPR48956.1
+OG0000777	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49266.1	Lactococcus_QPR48414.1, Lactococcus_QPR49795.1
+OG0000777	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48414.1	Lactococcus_QPR49795.1
+OG0000778	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR49396.1	Lactococcus_QPR49798.1, Lactococcus_QPR49269.1, Lactococcus_QPR48417.1
+OG0000778	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49798.1, Lactococcus_QPR49269.1	Lactococcus_QPR48417.1
+OG0000778	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49798.1	Lactococcus_QPR49269.1
+OG0000779	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48539.1	Lactococcus_QPR49614.1
+OG0000780	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR49894.1	Lactococcus_QPR48756.1, Lactococcus_QPR48555.1, Lactococcus_QPR49550.1
+OG0000780	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48756.1, Lactococcus_QPR48555.1	Lactococcus_QPR49550.1
+OG0000780	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48756.1	Lactococcus_QPR48555.1
+OG0000781	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49911.1	Lactococcus_QPR48626.1
+OG0000782	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR48652.1	Lactococcus_QPR49036.1
+OG0000783	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR48752.1	Lactococcus_QPR49907.1, Lactococcus_QPR49765.1, Lactococcus_QPR49809.1
+OG0000783	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49907.1, Lactococcus_QPR49765.1	Lactococcus_QPR49809.1
+OG0000783	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49907.1	Lactococcus_QPR49765.1
+OG0000784	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL42191.1	equolifaciens_RNL42091.1
+OG0000785	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR49441.1	Lactococcus_QPR48921.1, Lactococcus_QPR49007.1, Lactococcus_QPR49398.1
+OG0000785	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR48921.1	Lactococcus_QPR49007.1, Lactococcus_QPR49398.1
+OG0000785	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49007.1	Lactococcus_QPR49398.1
+OG0000786	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL42119.1	equolifaciens_RNL38843.1
+OG0000787	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49217.1	Lactococcus_QPR49664.1
+OG0000788	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668797.1	isoflavoniconvertens_WP_281668223.1
+OG0000789	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL41906.1	equolifaciens_RNL39053.1
+OG0000789	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49817.1	Lactococcus_QPR49812.1
+OG0000790	Lactococcus	n0	1.0	Terminal	Lactococcus_QPR49860.1	Lactococcus_QPR49861.1, Lactococcus_QPR49856.1, Lactococcus_QPR49862.1
+OG0000790	Lactococcus	n1	1.0	Terminal	Lactococcus_QPR49861.1, Lactococcus_QPR49856.1	Lactococcus_QPR49862.1
+OG0000790	Lactococcus	n2	1.0	Terminal	Lactococcus_QPR49861.1	Lactococcus_QPR49856.1
+OG0000791	isoflavoniconvertens	n1	1.0	Terminal	isoflavoniconvertens_WP_281668739.1	isoflavoniconvertens_WP_281668738.1
+OG0000791	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL37234.1	equolifaciens_RNL39182.1
+OG0000792	equolifaciens	n0	1.0	Terminal	equolifaciens_RNL40788.1	equolifaciens_RNL38066.1, equolifaciens_RNL37982.1, equolifaciens_RNL39059.1
+OG0000792	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL38066.1, equolifaciens_RNL37982.1	equolifaciens_RNL39059.1
+OG0000792	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL38066.1	equolifaciens_RNL37982.1
+OG0000793	equolifaciens	n0	1.0	Terminal	equolifaciens_RNL42031.1	equolifaciens_RNL39084.1, equolifaciens_RNL42036.1, equolifaciens_RNL38771.1
+OG0000793	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL39084.1	equolifaciens_RNL42036.1, equolifaciens_RNL38771.1
+OG0000793	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL42036.1	equolifaciens_RNL38771.1
+OG0000794	equolifaciens	n0	1.0	Terminal	equolifaciens_RNL40294.1	equolifaciens_RNL38818.1, equolifaciens_RNL40234.1, equolifaciens_RNL40235.1
+OG0000794	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL38818.1	equolifaciens_RNL40234.1, equolifaciens_RNL40235.1
+OG0000794	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL40234.1	equolifaciens_RNL40235.1
+OG0000795	N2	n0	1.0	Non-Terminal	isoflavoniconvertens_WP_281667907.1, equolifaciens_RNL39429.1	equolifaciens_RNL40232.1, isoflavoniconvertens_WP_281668462.1
+OG0000796	equolifaciens	n0	1.0	Terminal	equolifaciens_RNL41437.1	equolifaciens_RNL41363.1, equolifaciens_RNL39464.1, equolifaciens_RNL41434.1
+OG0000796	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL41363.1, equolifaciens_RNL39464.1	equolifaciens_RNL41434.1
+OG0000796	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41363.1	equolifaciens_RNL39464.1
+OG0000797	equolifaciens	n0	1.0	Terminal	equolifaciens_RNL41520.1	equolifaciens_RNL41521.1, equolifaciens_RNL40244.1, equolifaciens_RNL40243.1
+OG0000797	equolifaciens	n1	1.0	Terminal	equolifaciens_RNL41521.1, equolifaciens_RNL40244.1	equolifaciens_RNL40243.1
+OG0000797	equolifaciens	n2	1.0	Terminal	equolifaciens_RNL41521.1	equolifaciens_RNL40244.1
+OG0000798	N2	n0	1.0	Non-Terminal	isoflavoniconvertens_WP_281668653.1, equolifaciens_RNL41864.1	isoflavoniconvertens_WP_281668032.1, equolifaciens_RNL42072.1
+OG0000799	isoflavoniconvertens	n0	1.0	Terminal	isoflavoniconvertens_WP_281668227.1	isoflavoniconvertens_WP_281668228.1, isoflavoniconvertens_WP_281668229.1, isoflavoniconvertens_WP_281668220.1
+OG0000799	isoflavoniconvertens	n1	1.0	Terminal	isoflavoniconvertens_WP_281668228.1, isoflavoniconvertens_WP_281668229.1	isoflavoniconvertens_WP_281668220.1
+OG0000799	isoflavoniconvertens	n2	1.0	Terminal	isoflavoniconvertens_WP_281668228.1	isoflavoniconvertens_WP_281668229.1

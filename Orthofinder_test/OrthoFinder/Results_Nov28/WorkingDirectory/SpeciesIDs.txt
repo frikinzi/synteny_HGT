@@ -1,0 +1,4 @@
+0: GCA_000008865.2.faa
+1: MG1655.faa
+2: Wolbachia.faa
+3: fragilis.faa

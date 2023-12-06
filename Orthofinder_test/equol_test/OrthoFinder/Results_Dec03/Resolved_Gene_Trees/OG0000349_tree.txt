@@ -1,0 +1,1 @@
+(Lactococcus_QPR49310.1:0.585259,((equolifaciens_RNL41878.1:0.178989,isoflavoniconvertens_WP_281668830.1:0.297355)n2:0.063876,Enteroscipio_BAK43680.1:0.360552)n1:0.585259)n0;

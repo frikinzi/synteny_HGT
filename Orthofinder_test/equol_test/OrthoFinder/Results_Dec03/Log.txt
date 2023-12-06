@@ -1,0 +1,14 @@
+2023-12-03 14:50:10 : Started OrthoFinder version 2.5.4
+Command Line: /Users/angela/miniconda3/bin/orthofinder -f equol_test/
+
+WorkingDirectory_Base: /Users/angela/Documents/HGT_829A/Orthofinder_test/equol_test/OrthoFinder/Results_Dec03/WorkingDirectory/
+
+Species used: 
+0: Enteroscipio.faa
+1: Lactococcus.faa
+2: equolifaciens.faa
+3: isoflavoniconvertens.faa
+
+FN_Orthogroups: /Users/angela/Documents/HGT_829A/Orthofinder_test/equol_test/OrthoFinder/Results_Dec03/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /Users/angela/Documents/HGT_829A/Orthofinder_test/equol_test/OrthoFinder/Results_Dec03/WorkingDirectory/
+2023-12-03 14:51:38 : OrthoFinder run completed

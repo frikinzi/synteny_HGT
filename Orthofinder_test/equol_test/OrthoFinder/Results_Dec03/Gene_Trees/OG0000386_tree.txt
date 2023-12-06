@@ -1,0 +1,1 @@
+(Enteroscipio_BAK44253.1:0.660386,((Enteroscipio_BAK45737.1:0.500644,Enteroscipio_BAK43882.1:0.770093):0.133274,Enteroscipio_BAK44923.1:0.329883):0.660386);

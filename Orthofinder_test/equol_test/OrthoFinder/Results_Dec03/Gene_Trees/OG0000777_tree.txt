@@ -1,0 +1,1 @@
+(equolifaciens_RNL37225.1:0.755109,(Lactococcus_QPR49266.1:0.203805,(Lactococcus_QPR48414.1:0.171084,Lactococcus_QPR49795.1:0.151605):0.0776532):0.755109);

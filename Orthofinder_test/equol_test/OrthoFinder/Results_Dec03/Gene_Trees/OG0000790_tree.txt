@@ -1,0 +1,1 @@
+(Lactococcus_QPR49860.1:0.446269,((Lactococcus_QPR49861.1:0.482568,Lactococcus_QPR49856.1:0.52469):0.194961,Lactococcus_QPR49862.1:0.79865):0.446269);
